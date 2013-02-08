@@ -7,6 +7,7 @@ comicStart = 0
 comicEnd = 1170
 
 titles = []
+eyes = []
 comicImages = []
 hiddenFunnies = []
 
@@ -28,6 +29,7 @@ for i in range(comicStart,comicEnd):
 		comicImages.append(comic)
 		hiddenComic = mid.find(id="comic").img.get('title')
 		hiddenFunnies.append(hiddenComic)
+		eyes.append(i)
 		print str(title)[3:-2]
 		print comic
 		print hiddenComic
@@ -48,5 +50,9 @@ for i in range(comicStart,comicEnd):
 if realDatabase:
 	fout = open("xkcd.txt",'wb')
 	for i in range(0,len(titles)):
-		fout.write(str(i) + "\t" + (str(titles[i])[3:-2]).encode('ascii','ignore') +"\t"+str(comicImages[i]).encode('ascii','ignore')+'\t' + str(hiddenFunnies[i]).encode('ascii','ignore')+'\n')
+		theI = str(eyes[i])
+		theTitle = str(titles[i]).encode('ascii','ignore')[3:-2]
+		theUrl = str(comicImages[i].encode('ascii','ignore'))
+		theH = str(hiddenFunnies[i].encode('ascii','ignore'))
+		fout.write(theI + "\t" + theTitle +"\t"+ theUrl +'\t' + theH +'\n')
 	fout.close()
