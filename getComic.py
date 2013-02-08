@@ -31,7 +31,7 @@ for i in range(comicStart,comicEnd):
 		print str(title)[3:-2]
 		print comic
 		print hiddenComic
-		print "------------------------"
+		print "--------------------------"
 		time.sleep(0)
 		
 		if getImages:
