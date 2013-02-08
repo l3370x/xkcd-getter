@@ -1,0 +1,1168 @@
+1	Barrel - Part 1	http://imgs.xkcd.com/comics/barrel_cropped_(1).jpg	Don't we all.
+2	Petit Trees (sketch)	http://imgs.xkcd.com/comics/tree_cropped_(1).jpg	'Petit' being a reference to Le Petit Prince, which I only thought about halfway through the sketch
+3	Island (sketch)	http://imgs.xkcd.com/comics/island_color.jpg	Hello, island
+4	Landscape (sketch)	http://imgs.xkcd.com/comics/landscape_cropped_(1).jpg	There's a river flowing through the ocean
+5	Blown apart	http://imgs.xkcd.com/comics/blownapart_color.jpg	Blown into prime factors
+6	Irony	http://imgs.xkcd.com/comics/irony_color.jpg	It's commonly known that too much perspective can be a downer.
+7	Girl sleeping (Sketch -- 11th grade Spanish class)	http://imgs.xkcd.com/comics/girl_sleeping_noline_(1).jpg	I don't remember her name at all, but she fell asleep on the floor in front of me.
+8	Red spiders	http://imgs.xkcd.com/comics/red_spiders_small.jpg	They are six-legged spiders
+9	Serenity is coming out tomorrow	http://imgs.xkcd.com/comics/firefly.jpg	Mal, Simon, Wash, Zoe, River, Kaylee, Jayne, Inara, Book.
+10	Pi Equals	http://imgs.xkcd.com/comics/pi.jpg	My most famous drawing, and one of the first I did for the site
+11	Barrel - Part 2	http://imgs.xkcd.com/comics/barrel_mommies.jpg	Awww.
+12	Poisson	http://imgs.xkcd.com/comics/poisson.jpg	Poisson distributions have no value over negative numbers
+13	Canyon	http://imgs.xkcd.com/comics/canyon_small.jpg	They're standing at the lip of the canyon, which isn't clear at all.
+14	Copyright	http://imgs.xkcd.com/comics/copyright.jpg	After reading Slashdot and BoingBoing, sometimes I have to go outside.
+15	Just Alerting You	http://imgs.xkcd.com/comics/just_alerting_you.jpg	Just thought you should know
+16	Monty Python -- Enough	http://imgs.xkcd.com/comics/monty_python.jpg	I went to a dinner where there was a full 10 minutes of Holy Grail quotes exchanged, with no context, in lieu of conversation.  It depressed me badly.
+17	What If	http://imgs.xkcd.com/comics/what_if.jpg	I once made an anniversary card for my then-girlfriend with this layout.
+18	Snapple	http://imgs.xkcd.com/comics/snapple.jpg	Sn = tin
+19	George Clinton	http://imgs.xkcd.com/comics/george_clinton.jpg	I still wish it were true.
+20	Ferret	http://imgs.xkcd.com/comics/ferret.jpg	My brother had a ferret he loved which died since I drew this strip.  RIP.
+21	Kepler	http://imgs.xkcd.com/comics/kepler.jpg	Science joke.  You should probably just move along.
+22	Barrel - Part 3	http://imgs.xkcd.com/comics/barrel_whirlpool.jpg	A whirlpool!
+23	T-shirts	http://imgs.xkcd.com/comics/t-shirts.jpg	It's depressing how many of these are real shirts
+24	Godel, Escher, Kurt Halsey	http://imgs.xkcd.com/comics/godel_escher_kurthalsey.jpg	I love the idea here, though of course it's not a great-quality drawing or scan.
+25	Barrel - Part 4	http://imgs.xkcd.com/comics/barrel_part_4.jpg	:(
+26	Fourier	http://imgs.xkcd.com/comics/fourier.jpg	That cat has some serious periodic components
+27	Meat Cereals	http://imgs.xkcd.com/comics/meat_cereals.jpg	Disgusting
+28	Elefino	http://imgs.xkcd.com/comics/elefino.jpg	Hell if I know
+29	Hitler	http://imgs.xkcd.com/comics/hitler.jpg	So he's saying that God thought Hitler's art was so bad that the Holocaust was an acceptable alternative.  It's no secret that the hat guy is closely based on Aram, from Men in Hats.
+30	Donner	http://imgs.xkcd.com/comics/donner.jpg	Some people haven't heard of the Donner Party.  They were pioneers who got stranded and likely resorted to cannibalism.
+31	Barrel - Part 5	http://imgs.xkcd.com/comics/barrel_part_5.jpg	Too good not to happen.
+32	Pillar	http://imgs.xkcd.com/comics/pillar.jpg	A comic by my brother Doug, redrawn and rewritten by me
+33	Self-reference	http://imgs.xkcd.com/comics/self-reference.jpg	I think about self-reference a lot.  Example: this comment.
+34	Flowers	http://imgs.xkcd.com/comics/flowers.jpg	This is actually pencil on paper, just inverted and colored
+35	Sheep	http://imgs.xkcd.com/comics/sheep.jpg	I think it's the sheep zapping the cactus and not vice-versa
+36	Scientists	http://imgs.xkcd.com/comics/scientists.jpg	A leading expert characterized the situation as 'retarded'
+37	Hyphen	http://imgs.xkcd.com/comics/hyphen.jpg	I do this constantly
+38	Apple Jacks	http://imgs.xkcd.com/comics/apple_jacks.jpg	There used to be these ads, see . . .
+39	Bowl	http://imgs.xkcd.com/comics/bowl.jpg	For the moment it's a standoff
+40	Light	http://imgs.xkcd.com/comics/light.jpg	Like a beacon
+41	Old Drawing	http://imgs.xkcd.com/comics/unspeakable_pun.jpg	I don't want to talk about it
+42	Geico	http://imgs.xkcd.com/comics/geico.jpg	David did this
+43	Red Spiders 2	http://imgs.xkcd.com/comics/red_spiders_2.jpg	This was actually drawn years before Red Spiders
+44	Love	http://imgs.xkcd.com/comics/love.jpg	This one makes me wince every time I think about it
+45	Schrodinger	http://imgs.xkcd.com/comics/schrodinger.jpg	There was no alt-text until you moused over
+46	Secrets	http://imgs.xkcd.com/comics/secrets.jpg	I'm a big fan of Kurt Halsey
+47	Counter-Red Spiders	http://imgs.xkcd.com/comics/counter-red-spiders.jpg	I hope we can stop them
+48	Found	http://imgs.xkcd.com/comics/found.jpg	No more, no less
+49	Want	http://imgs.xkcd.com/comics/want.jpg	Well, she's pretty hot.
+50	Penny Arcade	http://imgs.xkcd.com/comics/penny_arcade.jpg	Of course, Penny Arcade has already mocked themselves for this.  They don't care.
+51	Malaria	http://imgs.xkcd.com/comics/malaria.jpg	The malaria party was David's idea
+52	Secret Worlds	http://imgs.xkcd.com/comics/secret_worlds.jpg	No two adjacent circles are the same color.
+53	Hobby	http://imgs.xkcd.com/comics/hobby.jpg	The only one of these games I really played was Area 51
+54	Science	http://imgs.xkcd.com/comics/science.jpg	Bonus points if you can identify the science in question
+55	Useless	http://imgs.xkcd.com/comics/useless.jpg	Even the identity matrix doesn't work normally
+56	The Cure	http://imgs.xkcd.com/comics/the_cure.jpg	My first try at drawing a real face in years
+57	Wait For Me	http://imgs.xkcd.com/comics/wait_for_me.jpg	Opening dialogue by Scott
+58	Why Do You Love Me?	http://imgs.xkcd.com/comics/why_do_you_love_me.jpg	Opening dialogue by Scott
+59	Graduation	http://imgs.xkcd.com/comics/graduation.jpg	Opening dialogue by Scott
+60	Super Bowl	http://imgs.xkcd.com/comics/super_bowl.jpg	The Super Bowl is actually an elaborate ruse, concocted by a shadowy group in the mid sixties for this purpose.  The 'watch it for the ads' addition was a master stroke.
+61	Stacey's Dad	http://imgs.xkcd.com/comics/staceys_dad.jpg	I bet she gets you to mow the lawn, doesn't she?
+62	Valentine - Karnaugh	http://imgs.xkcd.com/comics/karnaugh.jpg	Love and circuit analysis, hand in hand at last.
+63	Valentine - Heart	http://imgs.xkcd.com/comics/valentine.jpg	Just pretend you're kidding.
+64	Solar Plexus	http://imgs.xkcd.com/comics/solar_plexus.jpg	It hurts to be hit there, you know
+65	Banter	http://imgs.xkcd.com/comics/banter.jpg	This was an actual mock conversation between me and a friend at TGiF.  The waitress walked up around panel 5 and was somewhat put off.
+66	Abusive Astronomy	http://imgs.xkcd.com/comics/abusive_astronomy.jpg	Medium: Pencil on paper
+67	Nerd Girls	http://imgs.xkcd.com/comics/nerd_girls.jpg	Nothing personal, high schoolers.
+68	Five Thirty	http://imgs.xkcd.com/comics/five_thirty.jpg	The 8th panel is my favorite
+69	Pillow Talk	http://imgs.xkcd.com/comics/pillow_talk.jpg	Maybe I should've tried Wexler?
+70	Guitar Hero	http://imgs.xkcd.com/comics/guitar_hero.jpg	And then do it again in a moment now that they're out of Star Power
+71	In the Trees	http://imgs.xkcd.com/comics/in_the_trees.jpg	It was tricky.
+72	Classhole	http://imgs.xkcd.com/comics/classhole.jpg	A term coined by my friend Beth
+73	Zeppelin	http://imgs.xkcd.com/comics/zeppelin.jpg	A tribute to Buttercup Festival
+74	Su Doku	http://imgs.xkcd.com/comics/su_doku.jpg	This one is from the Red Belt collection, of 'medium' difficulty.
+75	Curse Levels	http://imgs.xkcd.com/comics/curse_levels.jpg	I find so much fun in language.
+76	Familiar	http://imgs.xkcd.com/comics/familiar.jpg	:(
+77	Bored with the Internet	http://imgs.xkcd.com/comics/bored_with_the_internet.jpg	I used to do this all the time.
+78	Garfield	http://imgs.xkcd.com/comics/garfield.jpg	The use of the 'Garfield' character for the purposes of this parody qualifies as fair use under the Copyright Act of 1976, 17 U.S.C. sec. 107.  See Campbell v. Acuff-Rose Music (92-1292), 510 U.S. 569
+79	Iambic Pentameter	http://imgs.xkcd.com/comics/iambic_pentameter.jpg	Of course, you don't wanna limit yourself to the strict forms of the meter.  That could get pretty difficult.
+80	My Other Car	http://imgs.xkcd.com/comics/other_car.jpg	It's much better than the other one.
+81	Attention, shopper	http://imgs.xkcd.com/comics/attention_shopper.jpg	There's a red convertible outside my building with the license plate 'DADS MNY'.
+82	Frame	http://imgs.xkcd.com/comics/frame.jpg	...
+83	Katamari	http://imgs.xkcd.com/comics/katamari.jpg	As the King of All Cosmos remarked, 'Is it that it's fun, or that it lets you forget yourself?'
+84	National Language	http://imgs.xkcd.com/comics/national_language.jpg	She's pretty sharp when provoked.
+85	Paths	http://imgs.xkcd.com/comics/paths.jpg	It's true, I think about this all the time.
+86	Digital Rights Management	http://imgs.xkcd.com/comics/sony_microsoft_mpaa_riaa_apple.jpg	If you're interested in the subject, Lawrence Lessig's 'Free Culture' is pretty good
+87	Velociraptors	http://imgs.xkcd.com/comics/velociraptors.jpg	You're probably thinking, 'has it been a decade?'  It's been over thirteen years, buddy.
+88	Escher Bracelet	http://imgs.xkcd.com/comics/escher_wristband.jpg	The only downside is that it would be a little uncomfortable
+89	Gravitational Mass	http://imgs.xkcd.com/comics/gravitational_mass.jpg	She's so fat the attraction goes up as the CUBE of the distance instead of the square
+90	Jacket	http://imgs.xkcd.com/comics/jacket.jpg	We have this conversation at least once a day in my apartment
+91	Pwned	http://imgs.xkcd.com/comics/pwned.png	I'm sure a discussion of the reason for the disappearance of adventure games in favor of RPGs would be fascinating
+92	Sunrise	http://imgs.xkcd.com/comics/sunrise.jpg	Sometimes, I sit on top of parking decks and watch the sun rise.  I feel like I should have a guitar or something.
+93	Jeremy Irons	http://imgs.xkcd.com/comics/jeremy_irons.jpg	Movies that I know word-for-word, part one
+94	Profile Creation Flowchart	http://imgs.xkcd.com/comics/profile_flowchart.jpg	This one goes out to xxCrazyPixie1987xx
+95	The Sierpinski Penis Game	http://imgs.xkcd.com/comics/the_sierpinski_penis_game.jpg	Inappropriate places for the Penis Game include baby showers and terrorist attacks
+96	Mail	http://imgs.xkcd.com/comics/mail.png	I'm on the USPS No Fly List
+97	A Simple Plan	http://imgs.xkcd.com/comics/a_simple_plan.jpg	This is true.  The lyrics are ridiculous.
+98	Fall Apart	http://imgs.xkcd.com/comics/fall_apart.jpg	#pugglewumper Tashari got me some ink pens!  I've been experimenting with them.
+99	Binary Heart	http://imgs.xkcd.com/comics/binary_heart.jpg	i love you
+100	Family Circus	http://imgs.xkcd.com/comics/family_circus.jpg	This was my friend David's idea
+101	Laser Scope	http://imgs.xkcd.com/comics/laser_scope.jpg	I wish I'd missed you then so I wouldn't be missing you now
+102	Back to the Future	http://imgs.xkcd.com/comics/back_to_the_future.jpg	He's kind of an asshole, when you think about it
+103	Moral Relativity	http://imgs.xkcd.com/comics/moral_relativity.jpg	It's science!
+104	Find You	http://imgs.xkcd.com/comics/find_you.jpg	I'm like the Terminator, except with love!
+105	Parallel Universe	http://imgs.xkcd.com/comics/parallel_universe.jpg	It's possible.  Better to be on the safe side.
+106	Wright Brothers	http://imgs.xkcd.com/comics/wright_brothers.png	I'm not sure if this is actually true
+107	Snakes on a Plane! 2	http://imgs.xkcd.com/comics/snakes_on_a_plane_2.jpg	James suggested this, and I have to agree.  It'd be much worse.
+108	M.C. Hammer Slide	http://imgs.xkcd.com/comics/mc_hammer_slide.png	Once, long ago, I saw this girl go by.  I didn't stop and talk to her, and I've regretted it ever since.
+109	Spoiler Alert	http://imgs.xkcd.com/comics/spoiler_alert.png	And then it turns out they're both Tyler Durden.
+110	Clark Gable	http://imgs.xkcd.com/comics/clark_gable.jpg	Frankly, my dear, I don't give a BITCH ASS SHIT FUCK DAMN
+111	Firefox and Witchcraft - The Connection?	http://imgs.xkcd.com/comics/firefox_wicca.png	ThisadpaidforbythecounciltopromoteMicrosoftandChristianity.  Remember, The Bible is Closed Source.
+112	Baring My Heart	http://imgs.xkcd.com/comics/baring_my_heart.png	I'm just trying to explain, please don't be jealous!  Man, why are all my relationships ruined by early 90's rappers?
+113	Riemann-Zeta	http://imgs.xkcd.com/comics/riemann-zeta.jpg	The graph is of the magnitude of the function with the real value between 0 and 2 and the imaginary between about 35 and 40.  I've misplaced the exact parameters I used.
+114	Computational Linguists	http://imgs.xkcd.com/comics/computational_linguists.png	Chomskyists, generative linguists, and Ryan North, your days are numbered.
+115	Meerkat	http://imgs.xkcd.com/comics/meerkat.jpg	Gorilla, yes.  Adorable golden retriever, yes.  But it says nothing about meerkats.
+116	City	http://imgs.xkcd.com/comics/city.jpg	God, she's such a whore.
+117	Pong	http://imgs.xkcd.com/comics/pong.png	Following this, the pong paddle went on a mission to destroy Atari headquarters and, due to a mixup, found himself inside the game The Matrix Reloaded.  Boy, was THAT ever hard to explain to him.
+118	50 Ways	http://imgs.xkcd.com/comics/50_ways.png	I woke up to find that I had scrawled the last line of this sleepily on a sheet of paper on my desk.  I shouldn't have listened to the 70's hit marathon on the way home from work the night before.
+119	Worst Band Name Ever	http://imgs.xkcd.com/comics/hedgeclipper.jpg	You can just see his dejection as he realizes he's the lead guitar in 'Hedgeclipper'
+120	Dating Service	http://imgs.xkcd.com/comics/dating_service.png	I don't understand why people are so disingenuous!  I just want someone to walk with!
+121	Balloon	http://imgs.xkcd.com/comics/balloon.png	So I'm a bad person.
+122	Quirky Girls	http://imgs.xkcd.com/comics/quirky_girls.png	Romantic comedy heroines, I'm talking to you.
+123	Centrifugal Force	http://imgs.xkcd.com/comics/centrifugal_force.png	You spin me right round, baby, right round, in a manner depriving me of an inertial reference frame.  Baby.
+124	Blogofractal	http://imgs.xkcd.com/comics/blogofractal.png	Edward Tufte's 'The Visual Display of Quantitative Information' is a fantastic book, and should be required reading for anyone in either the sciences or graphic design.
+125	Marketing Interview	http://imgs.xkcd.com/comics/marketing_interview.png	There are a lot of books on marketing out there.  I wonder if you're safest just buying the most popular one.
+126	Red Spiders Cometh	http://imgs.xkcd.com/comics/red_spiders_cometh.jpg	Uh-oh.
+127	The Fast and the Furious	http://imgs.xkcd.com/comics/the_fast_and_the_furious.jpg	Sometimes when I steer shopping carts around corners, I slide them a little and pretend I'm getting the blue spark boost.
+128	dPain over dt	http://imgs.xkcd.com/comics/dPain_over_dt.png	You laugh to keep from crying, you do math to keep from crying . . .
+129	Content Protection	http://imgs.xkcd.com/comics/content_protection.png	If you think the purveyors of DRM simply want to protect artists, check out chapters 13 and 14 in Free Culture, by Lawrence Lessig.  Their goal is the elimination of all culture they don't control.
+130	Julia Stiles	http://imgs.xkcd.com/comics/julia_stiles.jpg	I found an old tape of this episode in my family's closet.  Check the news section of the forums to see the clip!
+131	Fans	http://imgs.xkcd.com/comics/fans.png	It's not going to break the fan, bouncing a rubber ball off the wall isn't going to dent it, and the roof can hold me just fine.  You LIED!
+132	Music Knowledge	http://imgs.xkcd.com/comics/music_knowledge.png	When Guitar Hero 2 comes out I'll have fresh conversational material for MONTHS.
+133	The Raven	http://imgs.xkcd.com/comics/the_raven.jpg	Yes, Eminem is wearing a sleeveless hoodie.  What of it?
+134	Myspace	http://imgs.xkcd.com/comics/myspace.png	It's like they got together and said 'what do we miss most from the internet in 1998?  that's right, embedded MIDI!'
+135	Substitute	http://imgs.xkcd.com/comics/substitute.png	YOU THINK THIS IS FUNNY?
+136	Science Fair	http://imgs.xkcd.com/comics/science_fair.png	This project actually inspired a two-hour powerpoint presentation that Al Gore gave around the country.
+137	Dreams	http://imgs.xkcd.com/comics/dreams.png	In Connor's second thesis it is stated 'There is no fate but what we make for ourselves.'  Does the routine destroy our creativity or do we lose creativity and fall into the routine?  Anyway, who's up for a road trip!
+138	Pointers	http://imgs.xkcd.com/comics/pointers.png	Every computer, at the unreachable memory address 0x-1, stores a secret.  I found it, and it is that all humans ar-- SEGMENTATION FAULT.
+139	I Have Owned Two Electric Skateboards	http://imgs.xkcd.com/comics/electric_skateboards.png	Both the skateboards I owned were pretty cheap and broke from heavy use;  I'm gonna get a really nice one if I move to the city.
+140	Delicious	http://imgs.xkcd.com/comics/delicious.png	I'm currently in the I Have Cheese phase of this cycle.
+141	Parody Week: Achewood	http://imgs.xkcd.com/comics/achewood.png	I always wanted to impress them with how well I could hear, didn't you?  Also, this sets the record for number of awkward-pause panels in one strip (previously held by Achewood)
+142	Parody Week: Megatokyo	http://imgs.xkcd.com/comics/megaxkcd.png	I just want to give him a hug or something.
+143	Parody Week: TFD and Natalie Dee	http://imgs.xkcd.com/comics/tfd_nataliedee.png	Although bees with tires would be kinda funny.
+144	Parody Week: A Softer World	http://imgs.xkcd.com/comics/a_softer_robot.jpg	The robot is pregnant.  It isn't mine.
+145	Parody Week: Dinosaur Comics	http://imgs.xkcd.com/comics/dinosaur_comics.png	Guys: while I was writing this, I accidentally swallowed a table-sized slab of drywall.  I know!  Wacky.
+146	Join Myspace	http://imgs.xkcd.com/comics/join_myspace.png	I really shouldn't abuse that power so heavily.
+147	A Way So Familiar	http://imgs.xkcd.com/comics/a_way_so_familiar.png	Two Hedwig references, an obscure Joey Comeau reference, and a girl with a mohawk.  Yes.
+148	Mispronouncing	http://imgs.xkcd.com/comics/mispronouncing.png	My pal Emad does this all the time.  'Hey man, which way to the airpart?'
+149	Sandwich	http://imgs.xkcd.com/comics/sandwich.png	Proper User Policy apparently means Simon Says.
+150	Grownups	http://imgs.xkcd.com/comics/grownups.png	I've looked into this, and I can't figure out a way to do it cheaply.  And I guess it wouldn't be sanitary.
+151	Mario	http://imgs.xkcd.com/comics/mario.png	Why would anyone ever, ever say that?  Please, nobody ever say that.
+152	Hamster Ball	http://imgs.xkcd.com/comics/hamster_ball.png	Reportedly, double-walled inflatable balls like this exist somewhere.  Now to find that place.
+153	Cryptography	http://imgs.xkcd.com/comics/cryptography.png	If you got a big keyspace, let me search it.
+154	Beliefs	http://imgs.xkcd.com/comics/beliefs.jpg	Scientists are also sexy, let's not forget that.
+155	Search History	http://imgs.xkcd.com/comics/search_history.png	SomethingAwful has a wonderful compilation of crazy AOL searches in their Weekend Web archives, 2006-08-13.
+156	Commented	http://imgs.xkcd.com/comics/commented.png	Your IDE's color may vary.
+157	Filler Art	http://imgs.xkcd.com/comics/filler_art.png	Maybe I should let up on Megatokyo a little?
+158	Six Months	http://imgs.xkcd.com/comics/six_months.png	But then she does that thing with her tongue and I remember why I left you.
+159	Boombox	http://imgs.xkcd.com/comics/boombox.png	And she's gonna feel like a jerk when she realizes it was actually Under Pressure.
+160	Penny Arcade Parody	http://imgs.xkcd.com/comics/penny_arcade_parody.png	No one show this to Tycho's wife, okay?
+161	Accident	http://imgs.xkcd.com/comics/accident.png	As far as treachery-as-driving-music goes, Katamari music is matched only by Guitar Hero music.
+162	Angular Momentum	http://imgs.xkcd.com/comics/angular_momentum.jpg	With reasonable assumptions about latitude and body shape, how much time might she gain them?  Note: whatever the answer, sunrise always comes too soon. (Also, is it worth it if she throws up?)
+163	Donald Knuth	http://imgs.xkcd.com/comics/donald_knuth.png	His books were kinda intimidating; rappelling down through his skylight seemed like the best option.
+164	Playing Devil's Advocate to Win	http://imgs.xkcd.com/comics/global_warming.png	There are so many well-meaning conservatives around here who just assume global warming is only presented as a moral issue for political reasons.
+165	Turn Signals	http://imgs.xkcd.com/comics/turn_signals.png	I'm not very good at meeting people.
+166	Misusing Slang	http://imgs.xkcd.com/comics/misusing_slang.png	It slowly dawns on us that our parents knew exactly what they were doing.
+167	Nihilism	http://imgs.xkcd.com/comics/nihilism.png	Why can't you have normal existential angst like all the other boys?
+168	Reverse Euphemisms	http://imgs.xkcd.com/comics/reverse_euphemisms.png	I'm still waiting for a chance to use 'I have to see a man about a horse'.
+169	Words that End in GRY	http://imgs.xkcd.com/comics/words_that_end_in_gry.png	The fifth panel also applies to postmodernists.
+170	Turn Back	http://imgs.xkcd.com/comics/turn_back.png	I hear that these days Bill Watterson is happy just painting in the Ohio woods with his father and doesn't get any mail or talk to anyone.
+171	String Theory	http://imgs.xkcd.com/comics/string_theory.png	This works on pretty much every level.
+172	Skateboarding is Not a Crime	http://imgs.xkcd.com/comics/skateboarding_is_not_a_crime.png	'Arrest me, I'm a skateboarder' is an even more obnoxious variant.
+173	Movie Seating	http://imgs.xkcd.com/comics/movie_seating.png	It's like the traveling salesman problem, but the endpoints are different and you can't ask your friends for help because they're sitting three seats down.
+174	That's What SHE Said	http://imgs.xkcd.com/comics/thats_what_she_said.png	Yes, I mean she said that during sex.  Yes, it was a little weird.
+175	Automatic Doors	http://imgs.xkcd.com/comics/automatic_doors.png	I hope no automatic doors I know read this.  I would be so embarrassed.
+176	Before Sunrise	http://imgs.xkcd.com/comics/before_sunrise.png	It's an amazing time of day; the light is great for photography.
+177	Alice and Bob	http://imgs.xkcd.com/comics/alice_and_bob.png	Yet one more reason I'm barred from speaking at crypto conferences.
+178	Not Really Into Pokemon	http://imgs.xkcd.com/comics/not_really_into_pokemon.png	As of this writing, Ubuntu 6.10 and Firefox 2.0 have left my computer a complete mess.
+179	e to the pi times i	http://imgs.xkcd.com/comics/e_to_the_pi_times_i.png	I have never been totally satisfied by the explanations for why e to the ix gives a sinusoidal wave.
+180	Canada	http://imgs.xkcd.com/comics/canada.png	IT'S ALL REAL
+181	Interblag	http://imgs.xkcd.com/comics/interblag.png	Sometimes I hate the internet.  Sometimes it makes me happy that 'The Tubes' has become slang for the internet so quickly.
+182	Nash	http://imgs.xkcd.com/comics/nash.png	Maybe someday science will get over its giant collective crush on Richard Feynman.  But I doubt it!
+183	Snacktime Rules	http://imgs.xkcd.com/comics/snacktime_rules.png	I am not making this rule up.  Although my mom wants you all to know it made perfect sense at the time.
+184	Matrix Transform	http://imgs.xkcd.com/comics/matrix_transform.png	In fact, draw all your rotational matrices sideways.  Your professors will love it!  And then they'll go home and shrink.
+185	Wikifriends	http://imgs.xkcd.com/comics/wikifriends.png	It's crazy how much my gut opinion of a movie/song is swayed by what other people say, regardless of how I felt coming out of the theater.
+186	Console Lines	http://imgs.xkcd.com/comics/console_lines.png	If I get a Wii, it will be the first game console I've owned.
+187	The Familiar	http://imgs.xkcd.com/comics/the_familiar.png	When I say we should do something sometime, I'm secretly hoping you'll say 'Why not now?'
+188	Reload	http://imgs.xkcd.com/comics/reload.png	And watch out for that guy from comic #53.
+189	Exercise	http://imgs.xkcd.com/comics/exercise.png	I haven't had the patience for RPGs in a long time.
+190	IPoD	http://imgs.xkcd.com/comics/ipod.png	For smaller numbers he has to SAVE lives.  The birthrate channel is even more of a mixed bag.
+191	Lojban	http://imgs.xkcd.com/comics/lojban.png	zo'o ta jitfa .i .e'o xu do pendo mi
+192	Working for Google	http://imgs.xkcd.com/comics/working_for_google.png	I hear once you've worked there for 256 days they teach you the secret of levitation.
+193	The Perfect Sound	http://imgs.xkcd.com/comics/the_perfect_sound.png	Oh, what a pity, can't you understand . . .
+194	Penises	http://imgs.xkcd.com/comics/penises.png	The penis varies in size when flaccid and is pretty consistently about yea big when erect.  Anyway, back to the sitcom one-liners and the constant flow of spam.
+195	Map of the Internet	http://imgs.xkcd.com/comics/map_of_the_internet.jpg	For the IPv6 map just imagine the XP default desktop picture.
+196	Command Line Fu	http://imgs.xkcd.com/comics/command_line_fu.png	When designing an interface, imagine that your program is all that stands between the user and hot, sweaty, tangled-bedsheets-fingertips-digging-into-the-back sex.
+197	Ninja Turtles	http://imgs.xkcd.com/comics/ninja_turtles.png	The henchmen Bebop and Rocksteady have hijacked the musical genres for us just like the Lone Ranger hijacked the William Tell Overture for our parents.
+198	Perspective	http://imgs.xkcd.com/comics/perspective.png	I wonder what I was dreaming to prompt that.  I hope it wasn't the Richard Stallman Cirque de Soleil thing again.
+199	Right-Hand Rule	http://imgs.xkcd.com/comics/right_hand_rule.png	To really expand your mind try some noncartesian porn.  Edwin Abbot Abbott has nothing on 'Girls on Girls in Tightly Closed Nonorientable Spaces'.
+200	Bill Nye	http://imgs.xkcd.com/comics/bill_nye.png	You could at least not wear the lab coat everywhere, dude.
+201	Christmas GPS	http://imgs.xkcd.com/comics/christmas_gps.png	If it's over water, and you can't get a boat or revise the rules to preserve the makeout, there is no helping you.
+202	YouTube	http://imgs.xkcd.com/comics/youtube.png	I pray GunPistolMan never learns the word 'sheeple'.
+203	Hallucinations	http://imgs.xkcd.com/comics/hallucinations.png	And the possibility of lucid dreaming just makes it that much more fascinating.
+204	America	http://imgs.xkcd.com/comics/america.png	The younger folk in the audience think this is a joke.
+205	Candy Button Paper	http://imgs.xkcd.com/comics/candy_button_paper.png	Nonrewritable tape?
+206	Reno Rhymes	http://imgs.xkcd.com/comics/reno_rhymes.png	Did you shoot a man in Reno?  Now, I don't mean to pry.
+207	What xkcd Means	http://imgs.xkcd.com/comics/what_xkcd_means.png	It means shuffling quickly past nuns on the street with ketchup in your palms, pretending you're hiding stigmata.
+208	Regular Expressions	http://imgs.xkcd.com/comics/regular_expressions.png	Wait, forgot to escape a space.  Wheeeeee[taptaptap]eeeeee.
+209	Kayak	http://imgs.xkcd.com/comics/kayak.png	Man, there's future *everywhere*.
+210	90's Flowchart	http://imgs.xkcd.com/comics/90s_flowchart.png	Freestyle rapping is basically applied Markov chains.
+211	Hamster Ball Heist	http://imgs.xkcd.com/comics/hamster_ball_heist.png	First person to bring me Wayne Coyne in a hamster ball gets a free t-shirt!  He gets one too.
+212	Brain	http://imgs.xkcd.com/comics/brain.png	The rest is fear of raptors.
+213	Ghostbusters Marathon	http://imgs.xkcd.com/comics/ghostbusters_marathon.png	If you walk out that door you'll be crossing the Rubicon with me, and that's one stream I'm not ready to cross.
+214	The Problem with Wikipedia	http://imgs.xkcd.com/comics/the_problem_with_wikipedia.png	'Taft in a wet t-shirt contest' is the key image here.
+215	Letting Go	http://imgs.xkcd.com/comics/letting_go.png	At least I never gave her the root password.
+216	Romantic Drama Equation	http://imgs.xkcd.com/comics/romantic_drama_equation.png	Real-life prospective-pairing curves over things like age can get depressing.
+217	e to the pi Minus pi	http://imgs.xkcd.com/comics/e_to_the_pi_minus_pi.png	Also, I hear the 4th root of (9^2 + 19^2/22) is pi.
+218	Nintendo Surgeon	http://imgs.xkcd.com/comics/nintendo_surgeon.png	Scary thought #138: Raptors coming down the waterslide behind me.
+219	Blanket Fort	http://imgs.xkcd.com/comics/blanket_fort.png	Also, we have a fort out in the woods where we stashed that hooker's body.
+220	Philosophy	http://imgs.xkcd.com/comics/philosophy.png	It's like the squirt bottle we use with the cat.
+221	Random Number	http://imgs.xkcd.com/comics/random_number.png	RFC 1149.5 specifies 4 as the standard IEEE-vetted random number.
+222	Small Talk	http://imgs.xkcd.com/comics/small_talk.png	But surely I owe you an accurate answer!
+223	Valentine's Day	http://imgs.xkcd.com/comics/valentines_day.jpg	One of these days me and Joey Comeau will get around to subverting the hetero-normative paradigm and fixing all this.
+224	Lisp	http://imgs.xkcd.com/comics/lisp.jpg	We lost the documentation on quantum mechanics.  You'll have to decode the regexes yourself.
+225	Open Source	http://imgs.xkcd.com/comics/open_source.png	Later we'll dress up like Big Oil thugs and jump Ralph Nader.
+226	Swingset	http://imgs.xkcd.com/comics/swingset.png	Someone bring me a pocket fan so I can drift around the yard.
+227	Color Codes	http://imgs.xkcd.com/comics/color_codes.png	(It's the TMBG Dial-a-Song line, to save you some time.)
+228	Resonance	http://imgs.xkcd.com/comics/resonance.png	It's really hard to control the frequency, actually.
+229	Graffiti	http://imgs.xkcd.com/comics/graffiti.png	FOR AN INTRIGUING TIME CALL
+230	Hamiltonian	http://imgs.xkcd.com/comics/hamiltonian.png	The problem with perspective is that it's bidirectional.
+231	Cat Proximity	http://imgs.xkcd.com/comics/cat_proximity.png	Yes you are!  And you're sitting there!  Hi, kitty!
+232	Chess Enlightenment	http://imgs.xkcd.com/comics/chess_enlightenment.png	You know that 'sweep the pieces off the board and see it in your mind' thing?  Doesn't work.
+233	A New CAPTCHA Approach	http://imgs.xkcd.com/comics/a_new_captcha_approach.png	They'd use that Futurama episode with Fry's dog, but even spambots cry at that.
+234	Escape Artist	http://imgs.xkcd.com/comics/escape_artist.png	Easier to escape: n-layered nested quotes or an iron maiden?
+235	Kite	http://imgs.xkcd.com/comics/kite.jpg	It's easy to regret your awkward conversations but hard to regret the ones you didn't have.
+236	Collecting Double-Takes	http://imgs.xkcd.com/comics/collecting_double_takes.png	Fun game: find a combination of two items that most freaks out the cashier.  Winner: pregnancy test and single coat hanger.
+237	Keyboards are Disgusting	http://imgs.xkcd.com/comics/keyboards_are_disgusting.png	Alternate method: convince them to pretend it's an Etch-a-Sketch and try to erase it.
+238	Pet Peeve #114	http://imgs.xkcd.com/comics/pet_peeve_114.png	I'm reading a goddamn book, thank you very much.
+239	Blagofaire	http://imgs.xkcd.com/comics/blagofaire.png	Things were better before the Structuring and the Levels.
+240	Dream Girl	http://imgs.xkcd.com/comics/dream_girl.png	No matter how elaborately you fool yourself.
+241	Battle Room	http://imgs.xkcd.com/comics/battle_room.png	Bean actually sabotaged it just to give Dink the excuse to make that joke.
+242	The Difference	http://imgs.xkcd.com/comics/the_difference.png	How could you choose avoiding a little pain over understanding a magic lightning machine?
+243	Appropriate Term	http://imgs.xkcd.com/comics/appropriate_term.png	I know a lot of people hate these, but I prefer them to touchpads.
+244	Tabletop Roleplaying	http://imgs.xkcd.com/comics/tabletop_roleplaying.png	I may have also tossed one of a pair of teleportation rings into the ocean, with interesting results.
+245	Floor Tiles	http://imgs.xkcd.com/comics/floor_tiles.png	The worst part is when sidewalk cracks are out-of-sync with your natural stride.
+246	Labyrinth Puzzle	http://imgs.xkcd.com/comics/labyrinth_puzzle.png	And the whole setup is just a trap to capture escaping logicians.  None of the doors actually lead out.
+247	Factoring the Time	http://imgs.xkcd.com/comics/factoring_the_time.png	I occasionally do this with mile markers on the highway.
+248	Hypotheticals	http://imgs.xkcd.com/comics/hypotheticals.png	What if someone broke out of a hypothetical situation in your room right now?
+249	Chess Photo	http://imgs.xkcd.com/comics/chess_photo.png	We once tried playing blindfold chess on the Aerosmith ride at Disney World.
+250	Snopes	http://imgs.xkcd.com/comics/snopes.png	The MythBusters are even more sinister.
+251	CD Tray Fight	http://imgs.xkcd.com/comics/cd_tray_fight.png	This is silly, of course.  The enemy will be born in the network.
+252	Escalators	http://imgs.xkcd.com/comics/escalators.png	The one time I tried, I got hit by a slinky going down at double speed.
+253	Highway Engineer Pranks	http://imgs.xkcd.com/comics/highway_engineer_pranks.png	Prank #11: Boston
+254	Comic Fragment	http://imgs.xkcd.com/comics/comic_fragment.jpg	No one wants an explanation more than us.  Except Ms. Garofalo.
+255	Subjectivity	http://imgs.xkcd.com/comics/subjectivity.png	Or maybe the slide is like Aslan, and gets taller as I do (except without the feeling of discomfort when I reach my teens and suddenly get the Christ stuff.)
+256	Online Communities	http://imgs.xkcd.com/comics/online_communities_small.png	I'm waiting for the day when, if you tell someone 'I'm from the internet', instead of laughing they just ask 'oh, what part?'
+257	Code Talkers	http://imgs.xkcd.com/comics/code_talkers.png	As far as I can tell, Navajo doesn't have a common word for 'zero'.  do-neh-lini means 'neutral'.
+258	Conspiracy Theories	http://imgs.xkcd.com/comics/conspiracy_theories.png	There are a lot of graduate-educated young-earth creationists.
+259	Clich&eacute;d Exchanges	http://imgs.xkcd.com/comics/cliched_exchanges.png	It's like they say, you gotta fight fire with clich&eacute;s.
+260	The Glass Necklace	http://imgs.xkcd.com/comics/the_glass_necklace.png	Well, for some value of 'actually work'.
+261	Regarding Mussolini	http://imgs.xkcd.com/comics/regarding_mussolini.png	Constantly stopping these briefings halfway through is becoming a pain.
+262	IN UR REALITY	http://imgs.xkcd.com/comics/in_ur_reality.png	Hey, at least I ran out of staples.
+263	Certainty	http://imgs.xkcd.com/comics/certainty.png	a(b+c)=(ab)+(ac).  Politicize that, bitches.
+264	Choices: Part 1	http://imgs.xkcd.com/comics/choices_part_1.jpg	Wait, damn, I think I spotted a new email on the last refresh.
+265	Choices: Part 2	http://imgs.xkcd.com/comics/choices_part_2.jpg	Maybe someday I'll get to write the Wikipedia article about this place!  Wait, damn, original research.
+266	Choices: Part 3	http://imgs.xkcd.com/comics/choices_part_3.jpg	Wait, this is space -- how are you talking to me?  And, as an afterthought, what's up with the hole in reality?
+267	Choices: Part 4	http://imgs.xkcd.com/comics/choices_part_4.jpg	Making out with yourself: now an official xkcd theme?  Troubling.
+268	Choices: Part 5	http://imgs.xkcd.com/comics/choices_part_5.png	I wonder what percentage of not-obviously-busy people on the street would say yes to kite-flying with a stranger.  This looks like a job for Science!
+269	TCMP	http://imgs.xkcd.com/comics/tcmp.png	A big obstacle in experimenting with the mind's dream-simulation-engine is holding onto the details as you wake up.  With TCMP you can bring back any information you want.
+270	Merlin	http://imgs.xkcd.com/comics/merlin.png	I mean, the black-and-white stuff was running backward, but it hardly mattered to the story.
+271	Powers of One	http://imgs.xkcd.com/comics/powers_of_one.png	It's kinda Zen when you think about it, if you don't think too hard.
+272	Linux User at Best Buy	http://imgs.xkcd.com/comics/linux_user_at_best_buy.png	We actually stand around the antivirus displays with the Mac users just waiting for someone to ask.
+273	Electromagnetic Spectrum	http://imgs.xkcd.com/comics/electromagnetic_spectrum_small.png	Sometimes I try to picture what everything would look like if the whole spectrum were compressed into the visible spectrum.  Also sometimes I try to picture your sister naked.
+274	With Apologies to The Who	http://imgs.xkcd.com/comics/with_apologies_to_the_who.png	Trivia: Roger Daltry originally wrote 'Don't try an' Digg what we all say' but erased the second 'g' when he moved to reddit.
+275	Thoughts	http://imgs.xkcd.com/comics/thoughts.png	And now I might never get to again.
+276	Fixed Width	http://imgs.xkcd.com/comics/fixed_width.png	I wish I knew how to quit this so I wouldn't have to quit you.
+277	Long Light	http://imgs.xkcd.com/comics/long_light.png	You can look at practically any part of anything manmade around you and think 'some engineer was frustrated while designing this.'  It's a little human connection.
+278	Black Hat Support	http://imgs.xkcd.com/comics/black_hat_support.png	So as not to leave you hanging -- it was a problem with select() calls.
+279	Pickup Lines	http://imgs.xkcd.com/comics/pickup_lines.png	That shirt looks good on you, but it would look even better stuffed into the neck of a vodka bottle and flung burning through our office building's window.  Let's fucking do it and never look back.
+280	Librarians	http://imgs.xkcd.com/comics/librarians.png	Don't expect any leniency on late fees, though.
+281	Online Package Tracking	http://imgs.xkcd.com/comics/online_package_tracking.png	I don't even *want* this package!  Why did I join the stinging insect of the month club, anyway?
+282	Organic Fuel	http://imgs.xkcd.com/comics/organic_fuel.png	I have nothing to apologize for.
+283	Projection	http://imgs.xkcd.com/comics/projection.png	Out in a field, not another car for miles, silence but for the rain drumming on the sunroof, warm thick folds of the blanket hiding wordless fingertip games ...
+284	Tape Measure	http://imgs.xkcd.com/comics/tape_measure.png	This sequence was later reproduced in the International Tape-Extending Federation archives, retitled 'The Founding of the Sport'.
+285	Wikipedian Protester	http://imgs.xkcd.com/comics/wikipedian_protester.png	SEMI-PROTECT THE CONSTITUTION
+286	All Your Base	http://imgs.xkcd.com/comics/all_your_base.png	The AYB retro-return-date (Zero Wing Zero Hour) should be around AD 2021.
+287	NP-Complete	http://imgs.xkcd.com/comics/np_complete.png	General solutions get you a 50% tip.
+288	Elevator	http://imgs.xkcd.com/comics/elevator.jpg	Quick, try it with 'LOVE'.
+289	Alone	http://imgs.xkcd.com/comics/alone.png	Worries assuaged, the numbers become less important than your touches.
+290	Fucking Blue Shells	http://imgs.xkcd.com/comics/fucking_blue_shells.png	You can evade blue shells in Double Dash, but it is deep magic.
+291	Dignified	http://imgs.xkcd.com/comics/dignified.png	'I don't know, why is your beret staying on your head?' 'Staples.'
+292	goto	http://imgs.xkcd.com/comics/goto.png	Neal Stephenson thinks it's cute to name his labels 'dengo'
+293	RTFM	http://imgs.xkcd.com/comics/rtfm.png	Life is too short for man pages, but occasionally much too short without them.
+294	Bookstore	http://imgs.xkcd.com/comics/bookstore.png	You can search it if you want, but you may want to skip the memories of your mom.
+295	DNE	http://imgs.xkcd.com/comics/dne.png	I've seen advertisers put their URLs on chalkboards, encircled with a DNE.  They went unerased for months.  If you see this, feel free to replace the URL with xkcd.com.
+296	Tony Hawk	http://imgs.xkcd.com/comics/tony_hawk.png	Bad idea #271: Dropping into the half-pipe on a Segway.
+297	Lisp Cycles	http://imgs.xkcd.com/comics/lisp_cycles.png	I've just received word that the Emperor has dissolved the MIT computer science program permamently.
+298	Tesla Coil	http://imgs.xkcd.com/comics/tesla_coil.png	For scientists, this can be the hardest thing about dreams.
+299	Aeris Dies	http://imgs.xkcd.com/comics/aeris_dies.png	It's bad enough that all the families in your Sims are just you and Maggie recreated over and over.
+300	Facebook	http://imgs.xkcd.com/comics/facebook.png	'Here, I'll put my number in your cell pho -- wait, why is it already here?'
+301	Limerick	http://imgs.xkcd.com/comics/limerick.png	Fun game: try to post a YouTube comment so stupid that people realize you must be joking.  (Hint: this is impossible)
+302	Names	http://imgs.xkcd.com/comics/names.png	I'm always so happy that I successfully navigated the introduction that I completely forget to pay attention to the name the other person told me.
+303	Compiling	http://imgs.xkcd.com/comics/compiling.png	'Are you stealing those LCDs?' 'Yeah, but I'm doing it while my code compiles.'
+304	Nighttime Stories	http://imgs.xkcd.com/comics/nighttime_stories.jpg	Cue angry letters from all seven fans of Xenocide.
+305	Rule 34	http://imgs.xkcd.com/comics/rule_34.png	Okay, Lance.  For entry into the college bowl, spell 'Throbbing'
+306	Orphaned Projects	http://imgs.xkcd.com/comics/orphaned_projects.png	His date works for Red Hat, who hired a coach for her, too.  He advised her to 'rent lots of movies like Hitch.  Guys love those.'
+307	Excessive Quotation	http://imgs.xkcd.com/comics/excessive_quotation.png	Unfortunately for her, real Star Wars fans are attracted to a gal with a good force choke.
+308	Interesting Life	http://imgs.xkcd.com/comics/interesting_life.png	Quick, fashion a climbing harness out of cat-6 cable and follow me down.
+309	Shopping Teams	http://imgs.xkcd.com/comics/shopping_teams.png	I am never going out to buy an air conditioner with my sysadmin again.
+310	Commitment	http://imgs.xkcd.com/comics/commitment.png	Could be worse.  The last guy in that situation fell for one of the transient trumpeting angels.
+311	Action Movies	http://imgs.xkcd.com/comics/action_movies.png	By my count, only 48 of the 158 minutes in Live Free or Die Hard have action.  That's pathetic, guys.  Crank is better, but needs a bigger budget and more Summer Glau.
+312	With Apologies to Robert Frost	http://imgs.xkcd.com/comics/with_apologies_to_robert_frost.png	Some say the world will end in fire; some say in segfaults.
+313	Insomnia	http://imgs.xkcd.com/comics/insomnia.png	Crap, I have levitation class at 25:131.  Better set the alarm to 'cinnamon'.
+314	Dating Pools	http://imgs.xkcd.com/comics/dating_pools.png	The full analysis is of course much more complicated, but I can't stay to talk about it because I have a date.
+315	Braille	http://imgs.xkcd.com/comics/braille.png	The only big difference I've seen is in colors.  Where the regular text reads 'press red button', the braille reads 'press two-inch button'.
+316	Loud Sex	http://imgs.xkcd.com/comics/loud_sex.png	Spherical or parabolic reflectors would of course lead to aberrant behavior.
+317	That Lovin' Feelin'	http://imgs.xkcd.com/comics/that_lovin_feelin.png	Maybe there's no tenderness in her fingertips either, but at least SHE puts out.
+318	Nostalgia	http://imgs.xkcd.com/comics/nostalgia.png	If you don't get this one, don't google it.
+319	Engineering Hubris	http://imgs.xkcd.com/comics/engineering_hubris.png	Chuck Jones is a vengeful god.
+320	28-Hour Day	http://imgs.xkcd.com/comics/28_hour_day.png	Small print: this schedule will eventually drive one stark raving mad.
+321	Thighs	http://imgs.xkcd.com/comics/thighs.png	My thighs have seen the glory of the coming of the Lord?
+322	Pix Plz	http://imgs.xkcd.com/comics/pix_plz.png	But one of the regulars in the channel is a girl!
+323	Ballmer Peak	http://imgs.xkcd.com/comics/ballmer_peak.png	Apple uses automated schnapps IVs.
+324	Tapping	http://imgs.xkcd.com/comics/tapping.png	Sometimes the best fun looks like boredom.
+325	A-Minus-Minus	http://imgs.xkcd.com/comics/a-minus-minus.png	You can do this one in every 30 times and still have 97% positive feedback.
+326	Effect an Effect	http://imgs.xkcd.com/comics/effect_an_effect.png	Time to paint another grammarian silhouette on the side of the desktop.
+327	Exploits of a Mom	http://imgs.xkcd.com/comics/exploits_of_a_mom.png	Her daughter is named Help I'm trapped in a driver's license factory.
+328	Eggs	http://imgs.xkcd.com/comics/eggs.png	Oh, yeah, we get tons of them at these casual sex bars.
+329	Turing Test	http://imgs.xkcd.com/comics/turing_test.png	Hit Turing right in the test-ees.
+330	Indecision	http://imgs.xkcd.com/comics/indecision.png	Hey, I don't make the rules.  It's in the book.
+331	Photoshops	http://imgs.xkcd.com/comics/photoshops.png	When I look into your eyes, I see JPEG artifacts.  I can tell by the pixels that we're wrong for each other.
+332	Gyroscopes	http://imgs.xkcd.com/comics/gyroscopes.png	We didn't actually land on the moon -- it just looked like we did because of precession.  Also, gyroscopes caused 9/11.
+333	Getting Out of Hand	http://imgs.xkcd.com/comics/getting_out_of_hand.png	Wikipedia's role as brain-extension, while a little troubling, is also really cool.
+334	Wasteland	http://imgs.xkcd.com/comics/wasteland.png	You make forgetting look so easy.
+335	Mattress	http://imgs.xkcd.com/comics/mattress.png	The TempurPedic wineglass guy broke his ankle.
+336	Priorities	http://imgs.xkcd.com/comics/priorities.png	You should start giving out 'E's so I can spell FACADE or DEFACED.
+337	Post Office Showdown	http://imgs.xkcd.com/comics/post_office_showdown.png	That track ('Battle Without Honor or Humanity') -- like 'Ride of the Valkyries' -- improves *any* activity.
+338	Future	http://imgs.xkcd.com/comics/future.png	But the past was much too cramped!
+339	Classic	http://imgs.xkcd.com/comics/classic.png	Someone get that Pachelbel's Canon kid a recording contract, stat.
+340	Fight	http://imgs.xkcd.com/comics/fight.png	And she put sweet nothings in all my .conf files.  It'll take me forever to get X working again.
+341	1337: Part 1	http://imgs.xkcd.com/comics/1337_part_1.png	If you're not cool enough to do it manually, you can look up tools like Upside-Down-Ternet for playing games with people on your wifi.
+342	1337: Part 2	http://imgs.xkcd.com/comics/1337_part_2.png	Trivia: Elaine is actually her middle name.
+343	1337: Part 3	http://imgs.xkcd.com/comics/1337_part_3.png	I once asked an NSA guy whether they'd broken RSA.  And I know I can trust him, because I asked if he was lying to me and he said no.
+344	1337: Part 4	http://imgs.xkcd.com/comics/1337_part_4.png	Mrs. Roberts would have gotten up sooner, of course, but she was busy piping find ~ and find ~nomad into xargs shred, just in case.
+345	1337: Part 5	http://imgs.xkcd.com/comics/1337_part_5.png	This digital music thing will probably reach its endgame sometime in the next decade or so.  These are very exciting times.
+346	Diet Coke+Mentos	http://imgs.xkcd.com/comics/diet_coke_mentos.png	The cola+Mentos trick is up there with corn starch+water (vibrating platter optional) in scientific coolness out of common kitchen supplies.
+347	Brick Archway	http://imgs.xkcd.com/comics/brick_archway.png	The TI-86 was bad enough.  I don't know how I'd have gotten through high school if I'd had a laptop+wifi.
+348	Close to You	http://imgs.xkcd.com/comics/close_to_you.png	We should probably talk about this before the wedding.
+349	Success	http://imgs.xkcd.com/comics/success.png	40% of OpenBSD installs lead to shark attacks.  It's their only standing security issue.
+350	Network	http://imgs.xkcd.com/comics/network.png	Viruses so far have been really disappointing on the 'disable the internet' front, and time is running out.  When Linux/Mac win in a decade or so the game will be over.
+351	Trolling	http://imgs.xkcd.com/comics/trolling.png	And I was really impressed with how they managed to shock the Goatse guy.
+352	Far Away	http://imgs.xkcd.com/comics/far_away.png	Sometimes an impulsive 2:00 AM cross-country trip is the only solution.
+353	Python	http://imgs.xkcd.com/comics/python.png	I wrote 20 short programs in Python yesterday.  It was wonderful.  Perl, I'm leaving you.
+354	Startling	http://imgs.xkcd.com/comics/startling.png	We actually reached the future about three years ago.
+355	Couple	http://imgs.xkcd.com/comics/couple.png	Facebook defines relationships.  'Yeah, we would have broken up last night, but the net connection was down.'
+356	Nerd Sniping	http://imgs.xkcd.com/comics/nerd_sniping.png	I first saw this problem on the Google Labs Aptitude Test.  A professor and I filled a blackboard without getting anywhere.  Have fun.
+357	Flies	http://imgs.xkcd.com/comics/flies.png	I don't know about houseflies, but we definitely caught a lot of fruit flies with our vinegar bowl.  Hooray science!
+358	Loud Party	http://imgs.xkcd.com/comics/loud_party.png	I'm glad this is so much fun because I'm not sure how we're getting down.
+359	Rock Band	http://imgs.xkcd.com/comics/rock_band.png	I'm gonna have to add something to the strum bar so it makes a clicky sound like the old controllers.  I'm so used to the feedback; the silence throws me off.
+360	Writers Strike	http://imgs.xkcd.com/comics/writers_strike.png	He's just jealous because everyone's up in the attic listening to Stephen Colbert.
+361	Christmas Back Home	http://imgs.xkcd.com/comics/christmas_back_home.png	Family going to bed at 10 PM is so much worse than jet lag.
+362	Blade Runner	http://imgs.xkcd.com/comics/blade_runner.png	Blade Runner: Classic, but incredibly slow.
+363	Reset	http://imgs.xkcd.com/comics/reset.png	Clearance for this Sign: 11 Feet
+364	Responsible Behavior	http://imgs.xkcd.com/comics/responsible_behavior.png	Never bring tequila to a key-signing party.
+365	Slides	http://imgs.xkcd.com/comics/slides.png	Did you know they can actually physically throw you out of SIGGRAPH?
+366	Your Mom	http://imgs.xkcd.com/comics/your_mom.png	'It's either 'your mom' jokes or me' 'Then I, like so many men before me, must reluctantly choose your mom.'
+367	Fandom	http://imgs.xkcd.com/comics/fandom.png	Ron Paul wants to put the New Republic back on the Corusca gem standard.
+368	Bass	http://imgs.xkcd.com/comics/bass.png	And sometimes I use it to retaliate against the guy upstairs with the loud girlfriend and the elliptical dish.
+369	Dangers	http://imgs.xkcd.com/comics/dangers.png	Zero results: 'snake charming' and 'haberdashery'.  (Things like 'car' and 'boating' and such are of course the highest, by a huge margin.)
+370	Redwall	http://imgs.xkcd.com/comics/redwall.png	My Redwall/Jurassic Park crossover fanfic is almost complete!
+371	Compiler Complaint	http://imgs.xkcd.com/comics/compiler_complaint.png	Checking whether build environment is sane ... build environment is grinning and holding a spatula.  Guess not.
+372	To Be Wanted	http://imgs.xkcd.com/comics/to_be_wanted.png	Or so I hope?
+373	The Data So Far	http://imgs.xkcd.com/comics/the_data_so_far.png	But THIS guy, he might be for real!
+374	Journal	http://imgs.xkcd.com/comics/journal.png	And the journal is filled with all the things I'd say to her if I were nice like you.  I burn it when it's full.
+375	Pod Bay Doors	http://imgs.xkcd.com/comics/pod_bay_doors.png	As they're both unplugged, they do a lovely Daisy Daisy/Still Alive duet.
+376	Bug	http://imgs.xkcd.com/comics/bug.png	The universe started in 1970.  Anyone claiming to be over 38 is lying about their age.
+377	Journal 2	http://imgs.xkcd.com/comics/journal_2.png	That's my hat!  You took my hat!
+378	Real Programmers	http://imgs.xkcd.com/comics/real_programmers.png	Real programmers set the universal constants at the start such that the universe evolves to contain the disk with the data they want.
+379	Forgetting	http://imgs.xkcd.com/comics/forgetting.png	Of course, the assert doesn't work.
+380	Emoticon	http://imgs.xkcd.com/comics/emoticon.png	U+FDD0 is actually Unicode for the eye of the basilisk, though for safety reasons no font actually renders it.
+381	Mobius Battle	http://imgs.xkcd.com/comics/mobius_battle.png	Films need to do this more, if only to piss off the people who have to feed it into the projector.
+382	Trebuchet	http://imgs.xkcd.com/comics/trebuchet.png	It was also fun when those teenagers tried to egg our house and it insta-cooked the eggs in mid-air.
+383	Helping	http://imgs.xkcd.com/comics/helping.png	Oh, look, the 'make everything better' button was here behind the bookshelf all along.
+384	The Drake Equation	http://imgs.xkcd.com/comics/the_drake_equation.png	But seriously, there's loads of intelligent life.  It's just not screaming constantly in all directions on the handful of frequencies we search.
+385	How it Works	http://imgs.xkcd.com/comics/how_it_works.png	It's pi plus C, of course.
+386	Duty Calls	http://imgs.xkcd.com/comics/duty_calls.png	What do you want me to do?  LEAVE?  Then they'll keep being wrong!
+387	Advanced Technology	http://imgs.xkcd.com/comics/advanced_technology.png	We are sexy, sexy Von Neumann machines.
+388	Fuck Grapefruit	http://imgs.xkcd.com/comics/fuck_grapefruit.png	Coconuts are so far down to the left they couldn't be fit on the chart.  Ever spent half an hour trying to open a coconut with a rock?  Fuck coconuts.
+389	Keeping Time	http://imgs.xkcd.com/comics/keeping_time.png	You can identify them ahead-of-time -- they lead with their left foot when the music starts.
+390	Nightmares	http://imgs.xkcd.com/comics/nightmares.png	Well, *I* think I'm real.  Look at me.  Look at my face.  Cut me and I'll bleed.  What more do you want?  Please don't go.
+391	Anti-Mindvirus	http://imgs.xkcd.com/comics/anti_mind_virus.png	I'm as surprised as you!  I didn't think it was possible.
+392	Making Rules	http://imgs.xkcd.com/comics/making_rules.png	I never understood why someone would expect me to accept their rules right after they'd punched me.  I'm sure it's all very symbolic or something.
+393	Ultimate Game	http://imgs.xkcd.com/comics/ultimate_game.png	RIP, Gary.
+394	Kilobyte	http://imgs.xkcd.com/comics/kilobyte.png	I would take 'kibibyte' more seriously if it didn't sound so much like 'Kibbles N Bits'.
+395	Morning	http://imgs.xkcd.com/comics/morning.png	I'd press on them to try to unstick them, but I can't reach.  Can we try cycling day and night really fast?
+396	The Ring	http://imgs.xkcd.com/comics/the_ring.png	On the other hand, poor Samara -- transcoded to FLV.  No one deserves that.
+397	Unscientific	http://imgs.xkcd.com/comics/unscientific.png	Last week, we busted the myth that electroweak gauge symmetry is broken by the Higgs mechanism.  We'll also examine the existence of God and whether true love exists.
+398	Tap That Ass	http://imgs.xkcd.com/comics/tap_that_ass.png	Hey, when you're done draining the syrup, just leave the hole, okay?
+399	Travelling Salesman Problem	http://imgs.xkcd.com/comics/travelling_salesman_problem.png	What's the complexity class of the best linear programming cutting-plane techniques?  I couldn't find it anywhere.  Man, the Garfield guy doesn't have these problems ...
+400	Important Life Lesson	http://imgs.xkcd.com/comics/important_life_lesson.png	I didn't even know I *had* the Monty Python 'Lumberjack' song.
+401	Large Hadron Collider	http://imgs.xkcd.com/comics/large_hadron_collider.png	When charged particles of more than 5 TeV pass through a bubble chamber, they leave a trail of candy.
+402	1,000 Miles North	http://imgs.xkcd.com/comics/1000_miles_north.png	Twister would've been a much better movie if they'd cut out the bad-guy storm chaser and all the emotional romance crap.  All you need for a good movie are tornados and scientists.  Actually, that's all you need for anything.
+403	Convincing Pickup Line	http://imgs.xkcd.com/comics/convincing_pickup_line.png	Check it out; I've had sex with someone who's had sex with someone who's written a paper with Paul Erds!
+405	Journal 3	http://imgs.xkcd.com/comics/journal_3.png	Oh, and, uh, if the Russian government asks, that submarine was always there.
+406	Venting	http://imgs.xkcd.com/comics/venting.png	P.P.S. I can kill you with my brain.
+407	Cheap GPS	http://imgs.xkcd.com/comics/cheap_gps.png	In lieu of mapping software, I once wrote a Perl program which, given a USB GPS receiver and a destination, printed 'LEFT' 'RIGHT' OR 'STRAIGHT' based on my heading.
+408	Overqualified	http://imgs.xkcd.com/comics/overqualified.png	To anyone I've taken on a terrible date, this is retroactively my cover story.
+409	Electric Skateboard (Double Comic)	http://imgs.xkcd.com/comics/electric_skateboard_double_comic.png	Unsafe vehicles, hills, and philosophy go hand in hand.
+410	Math Paper	http://imgs.xkcd.com/comics/math_paper.png	That's nothing.  I once lost my genetics, rocketry, and stripping licenses in a single incident.
+411	Techno	http://imgs.xkcd.com/comics/techno.png	I don't know what's worse -- that there exists broken-hard-drive-sound techno, or that it's not half bad.
+412	Startled	http://imgs.xkcd.com/comics/startled.png	...
+413	New Pet	http://imgs.xkcd.com/comics/new_pet.png	ONE LAPTOP PER HAMSTER!
+414	Mistranslations	http://imgs.xkcd.com/comics/mistranslations.png	Oh, I think this word might mean 'Crisco'!
+415	Restraining Order	http://imgs.xkcd.com/comics/restraining_order.png	On Mondays I go running, so you'll have to get up early and follow along on a parallel street.  What fun!
+416	Zealous Autoconfig	http://imgs.xkcd.com/comics/zealous_autoconfig.png	I hear this is an option in the latest Ubuntu release.
+417	The Man Who Fell Sideways	http://imgs.xkcd.com/comics/the_man_who_fell_sideways.png	Strip originally conceived in conversation with Jeph Jacques.  Soon to be a major motion picture.
+418	Stove Ownership	http://imgs.xkcd.com/comics/stove_ownership.png	Although maybe it's just a phase, like freshman year of college when I realized I could just buy frosting in a can.
+419	Forks and Spoons	http://imgs.xkcd.com/comics/forks_and_spoons.png	Their biggest mistake was bringing Rachael Ray and Emeril to tour the lab and sign off on the project.  That's when Spielberg caught wind of it.
+420	Jealousy	http://imgs.xkcd.com/comics/jealousy.png	Oh, huh, so you didn't know that story?
+421	Making Hash Browns	http://imgs.xkcd.com/comics/making_hash_browns.png	There are at least fourteen ways this could go badly (seventeen if that fork is a dangerous crossbreed.)
+422	A Better Idea	http://imgs.xkcd.com/comics/a_better_idea.png	It's *almost* enough to make me want to redo high school.
+423	Finish Line	http://imgs.xkcd.com/comics/finish_line.png	The question with Lucy and the football was always whether, on some level, she believed the things she said.
+424	Security Holes	http://imgs.xkcd.com/comics/security_holes.png	True story: I had to try several times to upload this comic because my ssh key was blacklisted.
+425	Fortune Cookies	http://imgs.xkcd.com/comics/fortune_cookies.png	'You will have hot, steamy, sweaty sex ... IN BED!'
+426	Geohashing	http://imgs.xkcd.com/comics/geohashing.png	Saturday is game night.
+427	Bad Timing	http://imgs.xkcd.com/comics/bad_timing.png	Protip: Even without the red spiders, never have that conversation halfway through a balloon ride.
+428	Starwatching	http://imgs.xkcd.com/comics/starwatching.png	I always figured the word 'blog' would sound *less* silly as the years went by.
+429	Fantasy	http://imgs.xkcd.com/comics/fantasy.png	I guess if she accepted irrational realities, she'd hardly be my fantasy.
+430	Every Damn Morning	http://imgs.xkcd.com/comics/every_damn_morning.png	There was something about a cup and a sword and a tree and a green hill ...
+431	Delivery	http://imgs.xkcd.com/comics/delivery.png	Ma'am, I admit that wasn't in the best taste, but you have to admire my delivery!  Ha ha, get it?  Oh God, don't throw those syringes!  Your baby's fine!
+432	Journal 4	http://imgs.xkcd.com/comics/journal_4.png	Man, this emo shit was supposed to be for people who didn't have hats.
+433	Journal 5	http://imgs.xkcd.com/comics/journal_5.png	'Pick you up at eight?' 'Nine.  I've got to re-mine the driveway.'
+434	xkcd Goes to the Airport	http://imgs.xkcd.com/comics/xkcd_goes_to_the_airport.png	Under three ounces, but it stains panties.
+435	Purity	http://imgs.xkcd.com/comics/purity.png	On the other hand, physicists like to say physics is to math as sex is to masturbation.
+436	How it Happened	http://imgs.xkcd.com/comics/how_it_happened.png	I was there, dude.
+437	SUV	http://imgs.xkcd.com/comics/suv.png	Electric skateboards, by cost, get the equivalent of about 300 miles per gallon.  Lithium batteries just need to get cheaper.
+438	Internet Argument	http://imgs.xkcd.com/comics/internet_argument.png	It's easier to be an asshole to words than to people.
+439	Thinking Ahead	http://imgs.xkcd.com/comics/thinking_ahead.png	Did he just go crazy and jump out the window?
+440	Road Rage	http://imgs.xkcd.com/comics/road_rage.png	Okay, now just as the loss hits him, slam on the brakes.
+441	Babies	http://imgs.xkcd.com/comics/babies.png	I bet my future kids will read this someday.  DEAR FUTURE KIDS: how did you get internet in the cellar?
+442	xkcd Loves the Discovery Channel	http://imgs.xkcd.com/comics/xkcd_loves_the_discovery_channel.png	I love the title-text!
+443	Know Your Vines	http://imgs.xkcd.com/comics/know_your_vines.png	Friggin' modern tents don't have a single piece of rope.
+444	Macgyver Gets Lazy	http://imgs.xkcd.com/comics/macgyver_gets_lazy.png	At the time of this writing, Wikipedia has a wonderful article titled 'List of problems solved by Macgyver'.
+445	I Am Not Good with Boomerangs	http://imgs.xkcd.com/comics/i_am_not_good_with_boomerangs.png	Bonus strip: just read the rightmost panels straight down. 
+446	In Popular Culture	http://imgs.xkcd.com/comics/in_popular_culture.png	Someday the 'in popular culture' section will have its own article with an 'in popular culture' section.  It will reference this title-text referencing it, and the blogosphere will implode.
+447	Too Old For This Shit	http://imgs.xkcd.com/comics/too_old_for_this_shit.png	They say if a mathematician doesn't do their great work by age eleven, they never will.
+448	Good Morning	http://imgs.xkcd.com/comics/good_morning.png	As my standard, I use going to sleep at midnight and waking up at 8 AM.
+449	Things Fall Apart	http://imgs.xkcd.com/comics/things_fall_apart.png	'I'm nothing without you' is a fucked-up sentiment.
+450	The Sea	http://imgs.xkcd.com/comics/the_sea.png	And then a second one, to drain the sea.
+451	Impostor	http://imgs.xkcd.com/comics/impostor.png	If you think this is too hard on literary criticism, read the Wikipedia article on deconstruction.
+452	Mission	http://imgs.xkcd.com/comics/mission.png	Don't you know?  The chances of a random object being a scone are about one in six.
+453	Upcoming Hurricanes	http://imgs.xkcd.com/comics/upcoming_hurricanes.png	I'd like to see more damage assessments for hurricanes hitting New York and flooding Manhattan -- something like the 1938 Long Island Express, but aimed a bit more to the west.  It's just a matter of time.
+454	Rewiring	http://imgs.xkcd.com/comics/rewiring.png	My friend Elizabeth tried to mail one end of the cable to me and thread the mail system.
+455	Hats	http://imgs.xkcd.com/comics/hats.png	...
+456	Cautionary	http://imgs.xkcd.com/comics/cautionary.png	This really is a true story, and she doesn't know I put it in my comic because her wifi hasn't worked for weeks.
+457	Frustration	http://imgs.xkcd.com/comics/frustration.png	'Don't worry, I can do it in under a minute.' 'Yes, I've noticed.'
+458	Regrets	http://imgs.xkcd.com/comics/regrets.png	And nothing for 'I'm glad I saw Epic Movie.'
+459	Holy Ghost	http://imgs.xkcd.com/comics/holy_ghost.png	Okay, everyone, cross yourselves, then cross the streams.
+460	Paleontology	http://imgs.xkcd.com/comics/paleontology.png	Dinosaurs totally jumped the ichthyosaur when they got rid of Brontosaurus.
+461	Google Maps	http://imgs.xkcd.com/comics/google_maps.png	Apparently Google assumes you're traveling during the ferry's normal operating hours.  We lost two hours circling that damn lake (to say nothing of the Straw Man).
+462	Freemanic Paracusia	http://imgs.xkcd.com/comics/freemanic_paracusia.png	It's amazing what it does for YouTube comments.
+463	Voting Machines	http://imgs.xkcd.com/comics/voting_machines.png	And that's *another* crypto conference I've been kicked out of.  C'mon, it's a great analogy!
+464	RBA	http://imgs.xkcd.com/comics/rba.png	This is a story all about how I started drinking.
+465	Quantum Teleportation	http://imgs.xkcd.com/comics/quantum_teleportation.png	Science should be exactly as cool as the headlines sound.  Like the 'RUSSIANS CUT APART AND REASSEMBLE DOGS' thing.
+466	Moving	http://imgs.xkcd.com/comics/moving.png	We need a special holiday to honor the countless kind souls with unsecured networks named 'linksys'.
+467	X Girls Y Cups	http://imgs.xkcd.com/comics/x_girls_y_cups.png	Also no results: 1girl10000cups, 2girls(5+3i)cups, 65536girls65536cups, or 3frenchhens2turtledoves1cup.
+468	Fetishes	http://imgs.xkcd.com/comics/fetishes.png	They eventually resolved this self-reference, but Cantor's 'everything-in-the-fetish-book-twice' parties finally sunk the idea.
+469	Improvised	http://imgs.xkcd.com/comics/improvised.png	Oh, your brother is Luke.  Sorry, should've mentioned that first.
+470	The End is Not for a While	http://imgs.xkcd.com/comics/the_end_is_not_for_a_while.png	I THINK EVERYONE INVOLVED HERE IS CUTE.
+471	Aversion Fads	http://imgs.xkcd.com/comics/aversion_fads.png	Hey, are you friends with any hamsters?  This kite needs a passenger.
+472	pan style="color: #0000ED">House</span>, u' of Pancakes	http://imgs.xkcd.com/comics/house_of_pancakes.png	Fuck it.  I'm just going to Waffle House.
+473	Still Raw	http://imgs.xkcd.com/comics/still_raw.png	We actually divorced once over the airplane/treadmill argument.  (Preemptive response to the inevitable threads arguing about it:  you're all wrong on the internet.)
+474	Turn-On	http://imgs.xkcd.com/comics/turn-on.png	Supercollider?  I 'ardly know 'er!
+475	Further Boomerang Difficulties	http://imgs.xkcd.com/comics/further_boomerang_difficulties.png	An eternity later, the universe having turned out to have positive curvature and lots of mass, the boomerang hits him in the back of the head.
+476	One-Sided	http://imgs.xkcd.com/comics/one-sided.png	He continued, 'Okay, Bernanke is uncontaminated.  Find a crossbow and get him into position behind one of the columns at the Fed entrance.  This is gonna get ugly.'
+477	Typewriter	http://imgs.xkcd.com/comics/typewriter.png	Somewhere in the world, my actual grandmothers are reading this and angrily exclaiming that I never write even malformed thank-you notes.  DEAR GRANDMOMS: I AM SORRY! YOU ARE WONDERFUL PEOPLE AND THANK YOU FOR EVERYTHING.  LOVE reddit.com RANDALL.
+478	The Staple Madness	http://imgs.xkcd.com/comics/the_staple_madness.png	Staple guns: because duct tape can't make that 'kaCHUNK' noise.
+479	Tones	http://imgs.xkcd.com/comics/tones.png	I need a lawn, so I can yell at kids to stay off it.
+480	Spore	http://imgs.xkcd.com/comics/spore.png	Way to not support the GMA 950 under OS X, Spore.  :(
+481	Listen to Yourself	http://imgs.xkcd.com/comics/listen_to_yourself.png	Man, I just wanted to know how babby was formed.
+482	Height	http://imgs.xkcd.com/comics/height.png	Interestingly, on a true vertical log plot, I think the Eiffel Tower's sides really would be straight lines.
+483	Fiction Rule of Thumb	http://imgs.xkcd.com/comics/fiction_rule_of_thumb.png	Except for anything by Lewis Carroll or Tolkien, you get five made-up words per story.  I'm looking at you, Anathem.
+484	Flash Games	http://imgs.xkcd.com/comics/flash_games.png	Although ... who else can't wait for them to incorporate that Wiimote head-tracking stuff into games?  Man, the future's gonna be *awesome*.
+485	Depth	http://imgs.xkcd.com/comics/depth.png	The Planck length is another thousand or two pixels below the comic.
+486	I am Not a Ninja	http://imgs.xkcd.com/comics/i_am_not_a_ninja.png	'The sad thing is that I just wanted to talk about your poor smoke-bomb techniques.'
+487	Numerical Sex Positions	http://imgs.xkcd.com/comics/numerical_sex_positions.png	We didn't even get to the continued fractions!
+488	Steal This Comic	http://imgs.xkcd.com/comics/steal_this_comic.png	I spent more time trying to get an audible.com audio book playing than it took to listen to the book.  I have lost every other piece of DRM-locked music I have paid for.
+489	Going West	http://imgs.xkcd.com/comics/going_west.png	Listen, they request that you stop submitting a listing for your house labeled 'WHERE YOU BROKE MY HEART'.
+490	Morning Routine	http://imgs.xkcd.com/comics/morning_routine.png	I had a really hard time not writing '... profit!'
+491	Twitter	http://imgs.xkcd.com/comics/twitter.png	If long tooltips / cut off for you / then upgrade from / Firefox 2 / Burma Shave
+492	Scrabble	http://imgs.xkcd.com/comics/scrabble.png	A veteran Scrabble player will spot the 'OSTRICH' option.
+493	Actuarial	http://imgs.xkcd.com/comics/actuarial.png	I started to do the tables for more famous people but it got really depressing and morbid and I had to go outside.  Hat guy wins again.
+494	Secretary: Part 1	http://imgs.xkcd.com/comics/secretary_part_1.png	The blueprints for the Department of the Internet offices call for Ceiling Cat-themed sprinkler heads.
+495	Secretary: Part 2	http://imgs.xkcd.com/comics/secretary_part_2.png	That helmet won't save him.
+496	Secretary: Part 3	http://imgs.xkcd.com/comics/secretary_part_3.png	He actually installed each piece in a different car in the lot, then built a new car in the spot from the displaced pieces.  It's a confusing maneuver known as the auto-troll shuffle.
+497	Secretary: Part 4	http://imgs.xkcd.com/comics/secretary_part_4.png	It's time to draw the line.
+498	Secretary: Part 5	http://imgs.xkcd.com/comics/secretary_part_5.png	And they choose Al Gore as Internet Secretary.
+499	Scantron	http://imgs.xkcd.com/comics/scantron.png	Also, after all the warnings about filling in the bubbles completely, I spent like 30 seconds on each one.
+500	Election	http://imgs.xkcd.com/comics/election.png	Someday I'll be rich enough to hire Nate Silver to help make all my life decisions.  'Should I sleep with her?'  'Well, I'm showing a 35% chance it will end badly.'
+501	Faust 2.0	http://imgs.xkcd.com/comics/faust_20.png	The only blood these contracts are signed in is from me cutting my hand trying to open the goddamn CD case.
+502	Dark Flow	http://imgs.xkcd.com/comics/dark_flow.png	The Pioneer anomaly is due to the force of my love.
+503	Terminology	http://imgs.xkcd.com/comics/terminology.png	Also, is it just me, or do Japan and New Zealand look suspiciously similar?  Has anyone seen them at a party together?
+504	Legal Hacks	http://imgs.xkcd.com/comics/legal_hacks.png	It's totally a reasonable modern analogue.  Jefferson would have been all about crypto.
+505	A Bunch of Rocks	http://imgs.xkcd.com/comics/a_bunch_of_rocks.png	I call Rule 34 on Wolfram's Rule 34.
+506	Theft of the Magi	http://imgs.xkcd.com/comics/theft_of_the_magi.png	Every Roomba needs a dueling harness.
+507	Experimentation	http://imgs.xkcd.com/comics/experimentation.png	I understand large sample sizes are key to a low standard error of the mean, but the entire sophomore class?
+508	Drapes	http://imgs.xkcd.com/comics/drapes.png	Wait, what?
+509	Induced Current	http://imgs.xkcd.com/comics/induced_current.png	The MythBusters need to tackle whether a black hole from the LHC could REALLY destroy the world.
+510	Egg Drop Failure	http://imgs.xkcd.com/comics/egg_drop_failure.png	I hear my brother Ricky won his school's egg drop by leaving the egg inside the hen.
+511	Sleet	http://imgs.xkcd.com/comics/sleet.png	I mean, I can barely hear myself complaining about Battlestar Galactica.
+512	Alternate Currency	http://imgs.xkcd.com/comics/alternate_currency.png	For the first time ever, the phrase 'I'd like to thank everyone at 4chan for making me successful and happy' is uttered.
+513	Friends	http://imgs.xkcd.com/comics/friends.png	Friends with detriments.
+514	Simultaneous	http://imgs.xkcd.com/comics/simultaneous.png	I'm leaving you for your twin.  He's more mature than you by now.
+515	No One Must Know	http://imgs.xkcd.com/comics/no_one_must_know.png	Or perhaps they knew he was there, and were just trying to torment him first.
+516	Wood Chips	http://imgs.xkcd.com/comics/wood_chips.png	You didn't run a chemical analysis against the Shroud of Turin?  Man, all that work for NOTHING.
+517	Marshmallow Gun	http://imgs.xkcd.com/comics/marshmallow_gun.png	Except in reality crossing a stream of marshmallows would create a giant Bill Murray.
+518	Flow Charts	http://imgs.xkcd.com/comics/flow_charts.png	At 8 drinks, you switch the torrent from FreeBSD to Microsoft Bob.  C'mon, it'll be fun!
+519	11th Grade	http://imgs.xkcd.com/comics/11th_grade.png	And the ten minutes striking up a conversation with that strange kid in homeroom sometimes matters more than every other part of high school combined.
+520	Cuttlefish	http://imgs.xkcd.com/comics/cuttlefish.png	Unless the CS students finish the robot revolution before you finish the cephalopod one.
+521	2008 Christmas Special	http://imgs.xkcd.com/comics/2008_christmas_special.png	'How could you possibly think typing 'import skynet' was a good idea?'
+522	Google Trends	http://imgs.xkcd.com/comics/google_trends.png	Obama has been writing Lincoln/Obama erotic fan fiction on his secret livejournal.  Excerpt:  Lincoln lay back on the bed, nude save for his trademark stovepipe hat.  'Tell me,' he purred seductively, as he and Obama formed a more perfect union. 'When you come, is it 10% ethanol?'
+523	Decline	http://imgs.xkcd.com/comics/decline.png	'There's also a spike on the Fourier transform at the one-month mark where --' 'You want to stop talking right now.'
+524	Party	http://imgs.xkcd.com/comics/party.png	I wonder what 2008 meme will go bizarrely mainstream in 2009 like Rickrolling did 2007-2008.  I Accidentally <noun>?  Yo dawg?  Place your bets now!
+525	I Know You're Listening	http://imgs.xkcd.com/comics/i_know_youre_listening.png	It's basically Pascal's Wager for the paranoid prankster.
+526	Converting to Metric	http://imgs.xkcd.com/comics/converting_to_metric.png	According to River, 'adequate' vacuuming systems drain the human body at about half a liter per second.
+527	Keynote	http://imgs.xkcd.com/comics/keynote.png	He should be better soon -- now that the Apple Store is getting rid of DRM, Cory Doctorow will get rid of his Steve Jobs voodoo doll.
+528	Windows 7	http://imgs.xkcd.com/comics/windows_7.png	Disclaimer: I have not actually tried the beta yet.  I hear it's quite pleasant and hardly Hitler-y at all.
+529	Sledding Discussion	http://imgs.xkcd.com/comics/sledding_discussion.png	If you get your hands on that one, it's the worst place to have a breaking-up conversation.
+530	I'm An Idiot	http://imgs.xkcd.com/comics/im_an_idiot.png	Sadly, this is a true story.  At least I learned about the OS X 'say' command.
+531	Contingency Plan	http://imgs.xkcd.com/comics/contingency_plan.png	Kids are genetic experiments.  We're just experimenting responsibly!
+532	Piano	http://imgs.xkcd.com/comics/piano.png	Good thing he didn't make it smaller, or it'd need someone three inches tall to play it.
+533	Laptop Hell	http://imgs.xkcd.com/comics/laptop_hell.png	The xkcd.com sysadmin has a Q2010, and I can attest that it can handle a fall down several flight of concrete steps.  Relatedly, he's upset with me -- I hope he doesn't take revenge by messing with my site's contenDISREGARD THAT I SUCK COCKS
+534	Genetic Algorithms	http://imgs.xkcd.com/comics/genetic_algorithms.png	Just make sure you don't have it maximize instead of minimize.
+535	It Might Be Cool	http://imgs.xkcd.com/comics/it_might_be_cool.png	'And ovaries.  Man, ovaries, huh?'  [awkward pause]  '... faithfully.'
+536	Space Elevators	http://imgs.xkcd.com/comics/space_elevators.png	If you think space elevators are good, but just too boring and practical, check out the 'space fountain'.
+537	Ducklings	http://imgs.xkcd.com/comics/ducklings.png	DUCKLOOP'D?
+538	Security	http://imgs.xkcd.com/comics/security.png	Actual actual reality: nobody cares about his secrets.  (Also, I would be hard-pressed to find that wrench for $5.)
+539	Boyfriend	http://imgs.xkcd.com/comics/boyfriend.png	... okay, but because you said that, we're breaking up.
+540	Base System	http://imgs.xkcd.com/comics/base_system.png	I once got to second base with a basketball player.  She was so confused.
+541	TED Talk	http://imgs.xkcd.com/comics/ted_talk.png	The IAU ban came after the 'redefinition of 'planet' to include the IAU president's mom' incident.
+542	Cover-Up	http://imgs.xkcd.com/comics/cover_up.png	Man, this trick has saved me so many times.
+543	Sierpinski Valentine	http://imgs.xkcd.com/comics/sierpinski_valentine.png	Especially you mouseover-text readers.  You're the best.  <3
+544	Pep Talk	http://imgs.xkcd.com/comics/pep_talk.png	Listen!  They said a team of chess players coached by someone with no understanding of basketball would never be competitive in the NBA!  Well, it turns out they're pretty perceptive.
+545	Neutrality Schmeutrality	http://imgs.xkcd.com/comics/neutrality_shmeutrality.png	'Hey, everyone, you can totally trust that I didn't do a word count on MY edit!'
+546	Music DRM	http://imgs.xkcd.com/comics/music_drm.png	Just yesterday I bought my first non-DRM'd songs (The Last Vegas, in keeping with my 'I only listen to things from Guitar Hero' theme).
+547	Simple	http://imgs.xkcd.com/comics/simple.png	Actually, I think if all higher math professors had to write for the Simple English Wikipedia for a year, we'd be in much better shape academically.
+548	Kindle	http://imgs.xkcd.com/comics/kindle.png	I'm happy with my Kindle 2 so far, but if they cut off the free Wikipedia browsing, I plan to show up drunk on Jeff Bezos's lawn and refuse to leave.
+549	Westley's a Dick	http://imgs.xkcd.com/comics/westleys_a_dick.png	Inigo/Buttercup 4eva <3
+550	Density	http://imgs.xkcd.com/comics/density.png	If only I had asked 4chan for ideas for what I should do to prevent this!
+551	Etch-a-Sketch	http://imgs.xkcd.com/comics/etch-a-sketch.png	Surrounded by boring mysteries.
+552	Correlation	http://imgs.xkcd.com/comics/correlation.png	Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.
+553	Pirate Bay	http://imgs.xkcd.com/comics/pirate_bay.png	We find you guilty of closing your torrents as soon as they finish.  Your sentence is unremovable Hungarian subtitles on everything.
+554	Not Enough Work	http://imgs.xkcd.com/comics/not_enough_work.png	It's even harder if you're an asshole who pronounces <> brackets.
+555	Two Mirrors	http://imgs.xkcd.com/comics/two_mirrors.png	If you actually do this, what really happens is Douglas Hofstadter appears and talks to you for eight hours about strange loops.
+556	Alternative Energy Revolution	http://imgs.xkcd.com/comics/alternative_energy_revolution.jpg	The moment their arms spun freely in our air, they were doomed -- for Man has earned his right to hold this planet against all comers, by virtue of occasionally producing someone totally batshit insane.
+557	Students	http://imgs.xkcd.com/comics/students.png	The same goes for the one where you're wrestling the Green Ranger in the swimming pool full of Crisco.  You guys all have that dream, right?  It's not just me.  Right?
+558	1000 Times	http://imgs.xkcd.com/comics/1000_times.png	And 0.002 dollars will NEVER equal 0.002 cents.
+559	No Pun Intended	http://imgs.xkcd.com/comics/no_pun_intended.png	Like spelling 'dammit' correctly -- with two m's -- it's a troll that works best on the most literate.
+560	Lithium Batteries	http://imgs.xkcd.com/comics/lithium_batteries.png	I'm normally a pretty frugal person, but I still compulsively buy any R/C aircraft that's less than $30.  In the last few years, this has become a problem.
+561	Well	http://imgs.xkcd.com/comics/well.png	I'll concede ergonomics anecdotally, but none of the studies of Dvorak were at all rigorous (the most-cited Navy study was overseen by Dvorak himself).  And the 'slow typists down' thing is a myth.  Also EMACS RULES VI DROOLS WOOOOOOO!
+562	Parking	http://imgs.xkcd.com/comics/parking.png	Police reported three dozen cheerful bystanders, yet no one claims to have seen who did it.
+563	Fermirotica	http://imgs.xkcd.com/comics/fermirotica.png	I love how Google handles dimensional analysis.  Stats are ballpark and vary wildly by time of day and whether your mom is in town.
+564	Crossbows	http://imgs.xkcd.com/comics/crossbows.png	I hate being the slowest guy in the lab.
+565	Security Question	http://imgs.xkcd.com/comics/security_question.png	Let's invite him to a party and play 'I never'.  Okay, I never hid any bodies SOUTH of Main Street. ... he's taking a drink!
+566	Matrix Revisited	http://imgs.xkcd.com/comics/matrix_revisited.png	I actually remember being entertained by both the sequels while in the theater.  They just don't hold up nearly as well in later comparison.
+567	Urgent Mission	http://imgs.xkcd.com/comics/urgent_mission.png	Sure, we could stop dictators and pandemics, but we could also make the signs on every damn diagram make sense.
+568	Well 2	http://imgs.xkcd.com/comics/well_2.png	But I've made $13.72 already today!  Ow, stop throwing pennies.
+569	Borders	http://imgs.xkcd.com/comics/borders.png	Eventually a UN is set up.  And then a lone rebel runs down the line of flags in front of it, runs back to his base, and gets a kajillion points.
+570	New Car	http://imgs.xkcd.com/comics/new_car.png	Somewhere out there is a company that has actually figured out how to enlarge penises, and it's helpless to reach potential customers.
+571	Can't Sleep	http://imgs.xkcd.com/comics/cant_sleep.png	If androids someday DO dream of electric sheep, don't forget to declare sheepCount as a long int.
+572	Together	http://imgs.xkcd.com/comics/together.png	This scavenger hunt is getting boring.  Let's go work on the treehouse!
+573	Parental Trolling	http://imgs.xkcd.com/comics/parental_trolling.png	They'll pick music and culture that they know annoys you.  Building in behavioral easter eggs is a fair retaliation!
+574	Swine Flu	http://imgs.xkcd.com/comics/swine_flu.png	Bad flu epidemics can hit young adults hardest because they provoke their powerful immune systems into overreaction, so to stay healthy spend the next few weeks drunk and sleep-deprived to keep yours suppressed.
+575	Tag Combination	http://imgs.xkcd.com/comics/tag_combination.png	I love Eileen / and want you to love her / When you're around / I'm one floor above her / If you could see / just how much I adore her / Oh, that pretty red dress / I'd do anything for her /  (Too ra loo ra too ra loo rye ayy)
+576	Packages	http://imgs.xkcd.com/comics/packages.png	Day six: 'The hell?  Who mails a bobcat?'
+577	The Race: Part 1	http://imgs.xkcd.com/comics/the_race_part_1.png	Great, and you JUST finished paying off the settlement over the Wayne Coyne hamster ball incident.
+578	The Race: Part 2	http://imgs.xkcd.com/comics/the_race_part_2.png	The Hammer + Captain Tightpants == Captain Hammerpants?
+579	The Race: Part 3	http://imgs.xkcd.com/comics/the_race_part_3.png	No, the best things about The Sarah Connor Chronicles were: (1) watching Sarah and Cameron try to pass for normal, and (2) Cameron throwing people and things through walls.  Everything else was pretty secondary.
+580	The Race: Part 4	http://imgs.xkcd.com/comics/the_race_part_4.png	Things are rarely just crazy enough to work, but they're frequently just crazy enough to fail hilariously.
+581	The Race: Part 5	http://imgs.xkcd.com/comics/the_race_part_5.png	It was actually canceled because they just noticed he's been naked under that coat the whole time.  There's a petition on Facebook to get Fox to un-cancel it, and one on Livejournal to get him to take off the coat.
+582	Brakes	http://imgs.xkcd.com/comics/brakes.png	It was the funniest 6.5 seconds of my life, although as usual like 80% of it was just Tom and Ray's gasping, hacking laughter.
+583	CNR	http://imgs.xkcd.com/comics/cnr.png	Can't and shouldn't.
+584	Unsatisfied	http://imgs.xkcd.com/comics/unsatisfied.png	Forever comparing, never evaluating on any external scale.  If you were a sort function, you'd never break the nlogn barrier.
+585	Outreach	http://imgs.xkcd.com/comics/outreach.png	Completely implausible? Yes. Nevertheless, worth keeping a can of shark repellent next to the bed.
+586	Mission to Culture	http://imgs.xkcd.com/comics/mission_to_culture.png	It can't be very MUCH money ... they apparently can't even afford a sampler.  I mean, with a little remixing, some of this could be kinda good!
+587	Crime Scene	http://imgs.xkcd.com/comics/crime_scene.png	I think I see a Mandelbrot set! No, that's just blood splatters. Golly.
+588	Pep Rally	http://imgs.xkcd.com/comics/pep_rally.png	You know, pep rallies weirded me out in high school, and they've only gotten creepier in retrospect.
+589	Designated Drivers	http://imgs.xkcd.com/comics/designated_drivers.png	Calling a cab means cutting into beer money.
+590	Papyrus	http://imgs.xkcd.com/comics/papyrus.png	I secretly, deep in my guilty heart, like Papyrus and don't care if it's overused. [Cue hate mail in beautifully-kerned Helvetica.]
+591	Troll Slayer	http://imgs.xkcd.com/comics/troll_slayer.png	We have met the enemy and he is us.
+592	Drama	http://imgs.xkcd.com/comics/drama.png	This happens in geek circles every so often. The 'Hey, this is just a system I can figure out easily!' is also a problem among engineers first diving into the stock market.
+593	Voynich Manuscript	http://imgs.xkcd.com/comics/voynich_manuscript.png	Wait, is that the ORIGINAL voynich manuscript?  Where did you GET that?  Wanna try playing a round of Druids and Dicotyledons?
+594	Period	http://imgs.xkcd.com/comics/period.png	413 nanohertz, by the way.
+595	Android Girlfriend	http://imgs.xkcd.com/comics/android_girlfriend.png	Programming the sexbots to enjoy sex seemed a sensible move at the time, but we didn't realize the consequences of their developing fetishes.
+596	Latitude	http://imgs.xkcd.com/comics/latitude.png	The G1, especially with the new Android upgrade, is way better than I originally thought.
+597	Addiction	http://imgs.xkcd.com/comics/addiction.png	But if you unplug everything, it gets so quiet you hear that high-pitched empty-room hum.  And then the whispers begin.
+598	Porn	http://imgs.xkcd.com/comics/porn.png	I have a thing for corrupt women.
+599	Apocalypse	http://imgs.xkcd.com/comics/apocalypse.png	I wonder if I still have time to go shoot a short film with Kevin Bacon.
+600	Android Boyfriend	http://imgs.xkcd.com/comics/android_boyfriend.png	Which is, coincidentally, the most unsettling mantlepiece decoration in my house.
+601	Game Theory	http://imgs.xkcd.com/comics/game_theory.png	Wait, no, that one also loses. How about a nice game of chess?
+602	Overstimulated	http://imgs.xkcd.com/comics/overstimulated.png	My favorite thing to do at parties is to talk judgementally about people who aren't there.
+603	Idiocracy	http://imgs.xkcd.com/comics/idiocracy.png	People aren't going to change, for better or for worse. Technology's going to be so cool. All in all, the future will be okay! Except climate; we fucked that one up.
+604	Qwertial Aphasia	http://imgs.xkcd.com/comics/qwertial_aphasia.png	If this were SMBC, the alt-text drawing thingy would be a giraffe hooker fluttering her eyelashes.
+605	Extrapolating	http://imgs.xkcd.com/comics/extrapolating.png	By the third trimester, there will be hundreds of babies inside you.
+606	Cutting Edge	http://imgs.xkcd.com/comics/cutting_edge.png	I remember trying to log in to the original Command and Conquer servers a year or two back and feeling like I was knocking on the boarded-up gates of a ghost town. 
+607	2038	http://imgs.xkcd.com/comics/2038.png	If only we'd chosen 1944-12-02 08:45:52 as the Unix epoch, we could've combined two doomsday scenarios into one and added a really boring scene to that Roland Emmerich movie.
+608	Form	http://imgs.xkcd.com/comics/form.png	'This space intentionally left blank' is less immediately provocative but more Hofstadterially confusing.
+609	Tab Explosion	http://imgs.xkcd.com/comics/tab_explosion.png	Cracked.com is another inexplicable browser narcotic.  They could write a list of '17 worst haircuts in the Ottoman Empire' and I'd read through to the end, then click on all the links at the end.
+610	Sheeple	http://imgs.xkcd.com/comics/sheeple.png	Hey, what are the odds -- five Ayn Rand fans on the same train!  Must be going to a convention.
+611	Disaster Voyeurism	http://imgs.xkcd.com/comics/disaster_voyeurism.png	Hurricane forums are full of excited comments about central pressure and wind speed and comparisons to Camille and 1931 and 1938, with hastily-tacked-on notes about how it will be tragic if anyone dies and they hope it's a dud.
+612	Estimation	http://imgs.xkcd.com/comics/estimation.png	They could say "the connection is probably lost," but it's more fun to do naive time-averaging to give you hope that if you wait around for 1,163 hours, it will finally finish.
+613	Threesome	http://imgs.xkcd.com/comics/threesome.png	I wanted us to try finding an approximate numeric solution, but noooo.
+614	Woodpecker	http://imgs.xkcd.com/comics/woodpecker.png	If you don't have an extension cord I can get that too.  Because we're friends!  Right?
+615	Avoidance	http://imgs.xkcd.com/comics/avoidance.png	Hobby: seeing how many menu selections you can get someone to go through before they realize you're not an automated system and/or hang up.
+616	Lease	http://imgs.xkcd.com/comics/lease.png	You should talk to the girl down the hall; I think you'd like her.  Lemme know if you find out why she's ordering all those colored plastic balls.
+617	Understocked	http://imgs.xkcd.com/comics/understocked.png	My biology grad student friends tell me that different types of alcohol don't actually have different effects. I trust their expertise, not because of the 'biology' part, but because of the 'grad student'.
+618	Asteroid	http://imgs.xkcd.com/comics/asteroid.png	My Deep Impact/Little Prince crossover fanfic has been poorly received by the community.
+619	Supported Features	http://imgs.xkcd.com/comics/supported_features.png	I hear many of you finally have smooth Flash support, but me and my Intel card are still waiting on a kernel patch somewhere in the pipeline before we can watch Jon Stewart smoothly.
+620	Wings	http://imgs.xkcd.com/comics/wings.png	Please do not try any of this and die or get arrested.
+621	Superlative	http://imgs.xkcd.com/comics/superlative.png	Stay while I recount the crazy TF2 kill I managed yesterday, my friends.
+622	Haiku Proof	http://imgs.xkcd.com/comics/haiku_proof.png	After somewhere around 40 hours, there's no academic reason to go to the class. Only go for the hallucinations.
+623	Oregon	http://imgs.xkcd.com/comics/oregon.png	A century later, the harrowing flight of the survivors from Oregon was dramatized in a popular video game.
+624	Branding	http://imgs.xkcd.com/comics/branding.png	Actually, 'RSS&M' is kinda catchy.
+625	Collections	http://imgs.xkcd.com/comics/collections.png	You know what really helps an existential crisis? Wondering how much shelf space to leave for a Terry Pratchett collection.
+626	Newton and Leibniz	http://imgs.xkcd.com/comics/newton_and_leibniz.png	YEEEEEEAAAAAAHHHHHH!
+627	Tech Support Cheat Sheet	http://imgs.xkcd.com/comics/tech_support_cheat_sheet.png	'Hey Megan, it's your father. How do I print out a flowchart?'
+628	Psychic	http://imgs.xkcd.com/comics/psychic.png	You can do a lot better than 1% if you start keeping track of the patterns in what numbers people pick.
+629	Skins	http://imgs.xkcd.com/comics/skins.png	There's Livejournal drama between those who want to wear human suits over fursuits and those who just take off the fursuits.
+630	Time Travel	http://imgs.xkcd.com/comics/time_travel.png	She also starts every letter with "Dear Future <your name>".
+631	Anatomy Text	http://imgs.xkcd.com/comics/anatomy_text.png	For many of the anatomy pictures on Wikipedia, I think this is actually not far from reality. They only look all formal and professional due to careful cropping.
+632	Suspicion	http://imgs.xkcd.com/comics/suspicion.png	Fine, walk away.  I'm gonna go cry into a pint of Ben&Jerry's Brownie Batter(tm) ice cream [link], then take out my frustration on a variety of great flash games from PopCap Games(r) [link].
+633	Blockbuster Mining	http://imgs.xkcd.com/comics/blockbuster_mining.png	The 2007 Bridge to Terebithia trailer put me off too much to see that particular movie, but I am cautiously optimistic about Where the Wild Things Are.
+634	Date	http://imgs.xkcd.com/comics/date.png	Well, the kid's definitely getting the biology geek phenotype.
+635	Locke and Demosthenes	http://imgs.xkcd.com/comics/locke_and_demosthenes.png	Dear Peter Wiggin: This letter is to inform you that you have received enough upvotes on your reddit comments to become president of the world.  Please be at the UN tomorrow at 8:00 sharp.
+636	Brontosaurus	http://imgs.xkcd.com/comics/brontosaurus.png	Well, sex is like a velociraptor: despite your movie-fueled lifelong neurotic obsession, unlikely to be found in your house.
+637	Scribblenauts	http://imgs.xkcd.com/comics/scribblenauts.png	Let me look away and type 'guy who's just jealous that I beat all his MarioKart times' and turn back, and ... yup, there you are again!
+638	The Search	http://imgs.xkcd.com/comics/the_search.png	I am so excited about the Kepler mission. This is the second most important thing our species has ever done, right behind inventing the concept of delivery pizza.
+639	Lincoln-Douglas	http://imgs.xkcd.com/comics/lincoln_douglas.png	Stephen Douglas actually died soon after the debates and election, but if you demand historical accuracy in your webcomics you should be reading Hark! A Vagrant.
+640	Tornado Hunter	http://imgs.xkcd.com/comics/tornado_hunter.png	The Fujita Scale was replaced by the Enhanced Fujita Scale in 2007, but I think 'EF-5' sounds stupid, so I vote we just use the new measurements for assigning numbers but still call them 'F-whatever'.
+641	Free	http://imgs.xkcd.com/comics/free.png	Asbestos is bad; definitely get the one on the right. Wait -- this one over here has no swine flu!  Now I can't decide.
+642	Creepy	http://imgs.xkcd.com/comics/creepy.png	And I even got out my adorable new netbook!
+643	Ohm	http://imgs.xkcd.com/comics/ohm.png	More generally, with great power comes great dEnergy/dt.
+644	Surgery	http://imgs.xkcd.com/comics/surgery.png	Damn. Not only did he not install it, he sutured a 'Vista-Ready' sticker onto my arm.
+645	RPS	http://imgs.xkcd.com/comics/rps.png	It looks good, but it needs more postfixins.
+646	Conversations	http://imgs.xkcd.com/comics/conversations.png	If the dysentery graph looks historically inaccurate it's because I got all my data from Oregon Trail.
+647	Scary	http://imgs.xkcd.com/comics/scary.png	I'm teaching every 8-year-old relative to say this, and every 14-year-old to do the same thing with Toy Story.  Also, Pokemon hit the US over a decade ago and kids born after Aladdin came out will turn 18 next year.
+648	Fall Foliage	http://imgs.xkcd.com/comics/fall_foliage.png	And I could replace you with older pictures of you, from back when you looked happy.
+649	Static	http://imgs.xkcd.com/comics/static.png	I firmly believe that nothing can go wrong on a project if you're wearing one of those wrist things.
+650	Nowhere	http://imgs.xkcd.com/comics/nowhere.png	I mean, seriously, NOWHERE? For starters, there are like a thousand species of dinosaur.
+651	Bag Check	http://imgs.xkcd.com/comics/bag_check.png	A laptop battery contains roughly the stored energy of a hand grenade, and if shorted it ... hey!  You can't arrest me if I prove your rules inconsistent!
+652	More Accurate	http://imgs.xkcd.com/comics/more_accurate.png	We live in a world where there are actual fleets of robot assassins patrolling the skies. At some point there, we left the present and entered the future.
+653	So Bad It's Worse	http://imgs.xkcd.com/comics/so_bad_its_worse.png	You think it's so legendarily bad that you'll torrent it and sit through it just for the kitschy nerd cred. I, too, once thought as you did.
+654	Nachos	http://imgs.xkcd.com/comics/nachos.png	'Cheater!' 'Hey, gaming on wifi? You have only yourself to blame.'
+655	Climbing	http://imgs.xkcd.com/comics/climbing.png	Where did you even get this wall? Return it there and stand it back up right now.
+656	October 30th	http://imgs.xkcd.com/comics/october_30th.png	Not enough houses on your block?  Just hit them at 30-year intervals from here to 2300 and get 10x the candy.
+657	Movie Narrative Charts	http://imgs.xkcd.com/comics/movie_narrative_charts.png	In the LotR map, up and down correspond LOOSELY to northwest and southeast respectively.
+658	Orbitals	http://imgs.xkcd.com/comics/orbitals.png	Except the people filtering in late are the partiers, so you end up with drunken makeouts in the living room and the next roommate to return home has to sleep in the hall lounge orbital.
+659	Lego	http://imgs.xkcd.com/comics/lego.png	Dad, where is Grandpa right now?
+660	Sympathy	http://imgs.xkcd.com/comics/sympathy.png	Excellent recovery: ... which we could try to use to somehow save your original brother!
+661	Two-Party System	http://imgs.xkcd.com/comics/two_party_system.png	I favor approval voting or IRV chiefly because they mean we might get to bring back The Bull Moose party.
+662	iPhone or Droid	http://imgs.xkcd.com/comics/iphone_or_droid.png	It may be a fundamentally empty experience, but holy crap the Droid's 265 ppi screen is amazing.
+663	Sagan-Man	http://imgs.xkcd.com/comics/sagan-man.png	They laugh now, but within 10 years the city's entire criminal class will have quit to work on space research.
+664	Academia vs. Business	http://imgs.xkcd.com/comics/academia_vs_business.png	Some engineer out there has solved P=NP and it's locked up in an electric eggbeater calibration routine.  For every 0x5f375a86 we learn about, there are thousands we never see.
+665	Prudence	http://imgs.xkcd.com/comics/prudence.png	Moments later, the White Witch rolls up and, confused, tries to tempt the probe with a firmware upgrade.
+666	Silent Hammer	http://imgs.xkcd.com/comics/silent_hammer.png	I bet he'll keep quiet for a couple weeks and then-- wait, did you nail a piece of scrap wood to my antique table a moment ago?
+667	SkiFree	http://imgs.xkcd.com/comics/skifree.png	And from that day on, I wore this little 'F' key pendant everywhere I went.
+668	Pandora	http://imgs.xkcd.com/comics/pandora.png	What?  Oh, no, the 'Enchanted' soundtrack was just playing because Pandora's algorithms are terrible.  [silence] ... (quietly) That's how you knooooooow ...
+669	Experiment	http://imgs.xkcd.com/comics/experiment.png	The other two are still lost on the infinite plane of uniform density.
+670	Spinal Tap Amps	http://imgs.xkcd.com/comics/spinal_tap_amps.png	Wow, that's less than $200 per ... uh ... that's a good deal!
+671	Stephen and Me	http://imgs.xkcd.com/comics/stephen_and_me.png	Hey, let go! We were all thinking it! Someone had to speak truth to power!
+672	Suggestions	http://imgs.xkcd.com/comics/suggestions.png	An hour later: SUGGESTION: LICK HER NIPPLE MORE.
+673	The Sun	http://imgs.xkcd.com/comics/the_sun.png	Obligatory bad guy: This operation is sheer foolishness, and it's not happening on my watch!  Mainly because I can't figure out how to adjust the time.
+674	Natural Parenting	http://imgs.xkcd.com/comics/natural_parenting.png	On one hand, every single one of my ancestors going back billions of years has managed to figure it out.  On the other hand, that's the mother of all sampling biases.
+675	Revolutionary	http://imgs.xkcd.com/comics/revolutionary.png	I mean, what's more likely -- that I have uncovered fundamental flaws in this field that no one in it has ever thought about, or that I need to read a little more?  Hint: it's the one that involves less work.
+676	Abstraction	http://imgs.xkcd.com/comics/abstraction.png	If I'm such a god, why isn't Maru *my* cat?
+677	Asshole	http://imgs.xkcd.com/comics/asshole.png	[Shortly thereafter, at a nearby bakery] ::CRASH:: ::RUMBLE:: ::VRRRRRR:: '... I don't know, officer.  It just scooped up an entire rack of scones and drove away!'
+678	Researcher Translation	http://imgs.xkcd.com/comics/researcher_translation.png	A technology that is '20 years away' will be 20 years away indefinitely.
+679	Christmas Plans	http://imgs.xkcd.com/comics/christmas_plans.png	Physicists who want to protect traditional Christmas realize that the only way to keep from changing Christmas is not to observe it.
+680	December 25th	http://imgs.xkcd.com/comics/december_25th.png	If you're turning 27 and were born in the Northeast, maybe you were conceived in the April blizzard of 1982. Imagine: snowed in, candles, massage oil, your mom sporting nothing but her early 80's haircut and a smile ... aren't you glad you read the title-text?
+681	Gravity Wells	http://imgs.xkcd.com/comics/gravity_wells.png	This doesn't take into account the energy imparted by orbital motion (or gravity assists or the Oberth effect), all of which can make it easier to reach outer planets.
+682	Force	http://imgs.xkcd.com/comics/force.png	Force-choking the chicken.
+683	Science Montage	http://imgs.xkcd.com/comics/science_montage.png	The rat's perturbed; it must sense nanobots! Code grey!  We have a Helvetica scenario!
+684	We Get It	http://imgs.xkcd.com/comics/we_get_it.png	The most brutal way I've ever seen someone handle this was 'Oh, you have a girlfriend. Are you going to get married?'  'I, uh, don't know--' 'Well, do you love her?' '...' 'Anyway, what were you saying about the movie?'
+685	G-Spot	http://imgs.xkcd.com/comics/g-spot.png	The BBC lead was 'The elusive erogenous zone said to exist in some women may be a myth, say researchers who have hunted for it.'  I couldn't read it with a straight face.
+686	Admin Mourning	http://imgs.xkcd.com/comics/admin_mourning.png	And every day it gets harder to fight the urge to su to the user and freak people out.
+687	Dimensional Analysis	http://imgs.xkcd.com/comics/dimensional_analysis.png	Or the pressure at the Earth's core will rise slightly.
+688	Self-Description	http://imgs.xkcd.com/comics/self_description.png	The contents of any one panel are dependent on the contents of every panel including itself. The graph of panel dependencies is complete and bidirectional, and each node has a loop. The mouseover text has two hundred and forty-two characters.
+689	FIRST Design	http://imgs.xkcd.com/comics/first_design.png	Pool on the roof must've sprung a leak.
+690	Semicontrolled Demolition	http://imgs.xkcd.com/comics/semicontrolled_demolition.png	I believe the truth always lies halfway between the most extreme claims.
+691	MicroSD	http://imgs.xkcd.com/comics/microsd.png	That card holds a refrigerator carton's worth of floppy discs, and a soda can full of those cards could hold the entire iTunes store's music library. Mmmm.
+692	Dirty Harry	http://imgs.xkcd.com/comics/dirty_harry.png	Sci-fi has energy weapons because otherwise the people like me who watch it get distracted counting shots.
+693	Children's Fantasy	http://imgs.xkcd.com/comics/childrens_fantasy.png	I was going to be a scientist, but that seems silly now. Magical worlds exist. I've learned a huge truth about our place in the universe. I'm supposed to care about college? I mean, FUCK.
+694	Retro Virus	http://imgs.xkcd.com/comics/retro_virus.png	He says this is the year of Linux on the desktop! The world of Windows will fade any moment now!
+695	Spirit	http://imgs.xkcd.com/comics/spirit.png	On January 26th, 2274 Mars days into the mission, NASA declared Spirit a 'stationary research station', expected to stay operational for several more months until the dust buildup on its solar panels forces a final shutdown.
+696	Strip Games	http://imgs.xkcd.com/comics/strip_games.png	HOW ABOUT A NICE GAME OF STRIP GLOBAL THERMONUCLEAR WAR?
+697	Tensile vs. Shear Strength	http://imgs.xkcd.com/comics/tensile_vs_shear_strength.png	Although really, the damage was done when the party planners took the hole punch to the elevator ribbon to hang up the sign.
+698	You Hang Up First	http://imgs.xkcd.com/comics/you_hang_up_first.png	No, YOU stumble past a series of post-breakup hookups in a daze as you slowly realize what you've lost and how unlikely you are ever to get it back first.
+699	Trimester	http://imgs.xkcd.com/comics/trimester.png	Also, it's not like anyone actually calls up the Nobel committee to double-check things.
+700	Complexion	http://imgs.xkcd.com/comics/complexion.png	Why do all my attempts at science end with me being punched by Batman?  (P.S. benzoyl peroxide soap works great.)
+701	Science Valentine	http://imgs.xkcd.com/comics/science_valentine.png	You don't use science to show that you're right, you use science to become right.
+702	Snow Tracking	http://imgs.xkcd.com/comics/snow_tracking.png	I suppose that's more accurately a hare dryer.
+703	Honor Societies	http://imgs.xkcd.com/comics/honor_societies.png	Hey, why do YOU get to be the president of Tautology Clu-- wait, I can guess.
+704	Principle of Explosion	http://imgs.xkcd.com/comics/principle_of_explosion.png	You want me to pick up waffle cones? Oh, right, for the wine. One sec, let me just derive your son's credit card number and I'll be on my way.
+705	Devotion to Duty	http://imgs.xkcd.com/comics/devotion_to_duty.png	The weird sense of duty really good sysadmins have can border on the sociopathic, but it's nice to know that it stands between the forces of darkness and your cat blog's servers.
+706	Freedom	http://imgs.xkcd.com/comics/freedom.png	Sometimes I'm terrified to realize how many options other people have.
+707	Joshing	http://imgs.xkcd.com/comics/joshing.png	You'll be moved up from 49 of ~7 billion to 31 of ~7 billion.
+708	Sex Dice	http://imgs.xkcd.com/comics/sex_dice.png	You roll for initiative, and ... [roll] ... wow, do you ever take it.
+709	I Am	http://imgs.xkcd.com/comics/i_am.png	Great, LO-M. Do you speak Bocce? I'm supposed to find one that speaks Bocce.
+710	Collatz Conjecture	http://imgs.xkcd.com/comics/collatz_conjecture.png	The Strong Collatz Conjecture states that this holds for any set of obsessively-hand-applied rules.
+711	Seismograph	http://imgs.xkcd.com/comics/seismograph.png	The reverse only works if the subject has a nervous twitch.
+712	Single Ladies	http://imgs.xkcd.com/comics/single_ladies.png	Using a ring to bind someone you covet into your dark and twisted world? Wow, just got the subtext there. Also, the apparently eager Beyonc would've made one badass Nazgl.
+713	GeoIP	http://imgs.xkcd.com/comics/geoip.png	'Meet hot young singles in your mom's basement today'? Man, screw you, GeoIP.
+714	Porn For Women	http://imgs.xkcd.com/comics/porn_for_women.png	Yes, there are a lot of longing looks across the bridge of Galactica first, but that's beside the point!
+715	Numbers	http://imgs.xkcd.com/comics/numbers.png	The typical internet user (who wants to share) has an IQ of 147 and a 9-inch penis. Well, better than the reverse, I guess.
+716	Time Machine	http://imgs.xkcd.com/comics/time_machine.png	We never see any time travelers because they all discover it's a huge mistake. This is also why your friend at the lab suddenly looked about a year older recently.
+717	Furtive	http://imgs.xkcd.com/comics/furtive.png	... go go gadget video camera.  Go go gadget cup.
+718	The Flake Equation	http://imgs.xkcd.com/comics/the_flake_equation.png	Statistics suggest that there should be tons of alien encounter stories, and in practice there are tons of alien encounter stories. This is known as Fermi's Lack-of-a-Paradox.
+719	Brain Worms	http://imgs.xkcd.com/comics/brain_worms.png	Hey, it says here that if you dream about your teeth falling out, it means they're spreading.
+720	Recipes	http://imgs.xkcd.com/comics/recipes.png	To be fair, the braised and confused newt on a bed of crushed Doritos turned out to be delicious.
+721	Flatland	http://imgs.xkcd.com/comics/flatland.png	Also, I apologize for the time I climbed down into your world and everyone freaked out about the lesbian orgy overseen by a priest.
+722	Computer Problems	http://imgs.xkcd.com/comics/computer_problems.png	This is how I explain computer problems to my cat. My cat usually seems happier than me.
+723	Seismic Waves	http://imgs.xkcd.com/comics/seismic_waves.png	The USGS operates a really neat email/SMS earthquake notification service (earthquake.usgs.gov/ens/) that allows fine-grained control of notifications.
+724	Hell	http://imgs.xkcd.com/comics/hell.png	There's also a Katamari level where everything is just slightly bigger than you, and a Mario level with a star just out of reach.
+725	Literally	http://imgs.xkcd.com/comics/literally.png	The chemistry experiment had me figuratively -- and then shortly thereafter literally -- glued to my seat.
+726	Seat Selection	http://imgs.xkcd.com/comics/seat_selection.png	Don't click on the wing.
+727	Trade Expert	http://imgs.xkcd.com/comics/trade_expert.png	I mean, it's been almost twenty years. Now, it's possible you're simply embedding Windows directory paths in your URIs, but in that case you need more than just a short lecture.
+728	iPad	http://imgs.xkcd.com/comics/ipad.png	Maybe we're all gonna die, but we're gonna die in *really cool ways*.
+729	Laser Pointer	http://imgs.xkcd.com/comics/laser_pointer.png	It's a lasing cat-vity!
+730	Circuit Diagram	http://imgs.xkcd.com/comics/circuit_diagram.png	I just caught myself idly trying to work out what that resistor mass would actually be, and realized I had self-nerd-sniped.
+731	Desert Island	http://imgs.xkcd.com/comics/desert_island.png	Telescopes and bathyscaphes and sonar probes of Scottish lakes, Tacoma Narrows bridge collapse explained with abstract phase-space maps, some x-ray slides, a music score, Minard's Napoleonic war: the most exciting new frontier is charting what's already here.
+732	HDTV	http://imgs.xkcd.com/comics/hdtv.png	We're also stuck with blurry, juddery, slow-panning 24fps movies forever because (thanks to 60fps home video) people associate high framerates with camcorders and cheap sitcoms, and thus think good framerates look 'fake'.
+733	Eagle	http://imgs.xkcd.com/comics/eagle.png	In the off-seasons, I hire an animal trainer to help confront secret agents with situations which they are unable to report by radio.
+734	Outbreak	http://imgs.xkcd.com/comics/outbreak.png	Let's get dinner after we promptly destroy all the X-7 we've manufactured.
+735	Floor	http://imgs.xkcd.com/comics/floor.png	We once got grounded when we convinced the FAA to block flights through our county because of ash clouds.
+736	Cemetery	http://imgs.xkcd.com/comics/cemetery.png	Three headstones down, I got a call from my mom and it went from bad to worse.
+737	Yogurt	http://imgs.xkcd.com/comics/yogurt.png	I am firmly of the opinion that if something doesn't have a year on it, every time the expiration date rolls around it is good again for the two weeks preceding that date.
+738	Incision	http://imgs.xkcd.com/comics/incision.png	At one point, by force of childhood habit, the doctor accidentally removed three or four organs.
+739	Malamanteau	http://imgs.xkcd.com/comics/malamanteau.png	The article has twenty-three citations, one of which is an obscure manuscript from the 1490's and the other twenty-two are arguments on LanguageLog.
+740	The Tell-Tale Beat	http://imgs.xkcd.com/comics/the_tell_tale_beat.png	You fancy me mad. Could a madman have outsmarted the greatest electronica/techno artists of our era? Next to fall will be Roderick Usher's house/trance band.
+741	Blogging	http://imgs.xkcd.com/comics/blogging.png	I'm looking to virally monetize your eyeballs by selling them for transplants.
+742	Campfire	http://imgs.xkcd.com/comics/campfire.png	100 years later, this story remains terrifying--not because it's the local network block, but because the killer is still on IPv4.
+743	Infrastructures	http://imgs.xkcd.com/comics/infrastructures.png	The heartfelt tune it plays is CC licensed, and you can get it from my seed on JoinDiaspora.com whenever that project gets going.
+744	Walkthrough	http://imgs.xkcd.com/comics/walkthrough.png	There's nothing hotter than porn dubbed over with a poorly-mic'd teenager's voice explaining each step in a droning monotone. 'okay, we're almost at the spawn point ... separate the labia, but watch out, there are more inside them ..."
+745	Dyslexics	http://imgs.xkcd.com/comics/dyslexics.png	And of course I had to redo this like three times because I kept writing 'UNTIE'; I kept doing 'doing 'doing it wrong' wrong' wrong.
+746	Birth	http://imgs.xkcd.com/comics/birth.png	All those GTA marathons during the pregnancy were a bad idea.
+747	Geeks and Nerds	http://imgs.xkcd.com/comics/geeks_and_nerds.png	The definitions I grew up with were that a geek is someone unusually into something (so you could have computer geeks, baseball geeks, theater geeks, etc) and nerds are (often awkward) science, math, or computer geeks. But definitions vary.
+748	Worst-Case Scenario	http://imgs.xkcd.com/comics/worst_case_scenario.png	To get serious analyses of hurricanes and oil slicks, see Jeff Masters' blog. To get serious discussions of worst-case scenario thinking, see Bruce Schneier's blog. To get enough Vitamin D, don't read any blogs and go outside instead.
+749	Study	http://imgs.xkcd.com/comics/study.png	Volunteers needed for a study on transmission of urushiol from digital contact with thin strips of fibrous cellulose pulp.
+750	Book Burning	http://imgs.xkcd.com/comics/book_burning.png	Of course, since their cautionary tale was reported in a print newspaper, no one read it.
+751	Swimsuit Issue	http://imgs.xkcd.com/comics/swimsuit_issue.png	Parents: talk to your kids about popup blockers. Also, at some point, sex. But crucial fundamentals first!
+752	Phobia	http://imgs.xkcd.com/comics/phobia.png	Oh God, the tornado picked up snakes!
+753	Southern Half	http://imgs.xkcd.com/comics/southern_half.png	Also, if you read his speech at Rice, all his arguments for going to the moon work equally well as arguments for blowing up the moon, sending cloned dinosaurs into space, or constructing a towering penis-shaped obelisk on Mars.
+754	Dependencies	http://imgs.xkcd.com/comics/dependencies.png	The prereqs for CPSC 357, the class on package management, are CPSC 432, CPSC 357, and glibc2.5 or later.
+755	Interdisciplinary	http://imgs.xkcd.com/comics/interdisciplinary.png	Replace the pendulums with history students and you'll qualify for a grant!
+756	Public Opinion	http://imgs.xkcd.com/comics/public_opinion.png	News networks giving a greater voice to viewers because the social web is so popular are like a chef on the Titanic who, seeing the looming iceberg and fleeing customers, figures ice is the future and starts making snow cones.
+757	Toot	http://imgs.xkcd.com/comics/toot.png	This is also one of only five identified situations in which a vuvuzela is actually appropriate.
+758	Raptor Fences	http://imgs.xkcd.com/comics/raptor_fences.png	If at least one person has a nightmare about being swarmed by hundreds of mouse-sized dromaeosaurids, my work will have been done.
+759	3x9	http://imgs.xkcd.com/comics/3x9.png	Handy exam trick: when you know the answer but not the correct derivation, derive blindly forward from the givens and backward from the answer, and join the chains once the equations start looking similar. Sometimes the graders don't notice the seam.
+760	Moria	http://imgs.xkcd.com/comics/moria.png	Someone should really bring them a ladder and remind them to build the Endless Stair *first* next time.
+761	DFS	http://imgs.xkcd.com/comics/dfs.png	A breadth-first search makes a lot of sense for dating in general, actually; it suggests dating a bunch of people casually before getting serious, rather than having a series of five-year relationships one after the other.
+762	Analogies	http://imgs.xkcd.com/comics/analogies.png	I just call all of them 'synecdoche'.
+763	Workaround	http://imgs.xkcd.com/comics/workaround.png	I once worked on a friend's dad's computer. He had the hard drive divided into six partitions, C: through J:, with a 'Documents' directory tree on each one. Each new file appeared to be saved to a partition at random. I knew enough not to ask.
+764	One Two	http://imgs.xkcd.com/comics/one_two.png	Cue letters from anthropology majors complaining that this view of numerolinguistic development perpetuates a widespread myth. They get to write letters like that because when you're not getting a real science degree you have a lot of free time. Zing!
+765	Dilution	http://imgs.xkcd.com/comics/dilution.png	Dear editors of Homeopathy Monthly: I have two small corrections for your July issue.  One, it's spelled "echinacea", and two, homeopathic medicines are no better than placebos and your entire magazine is a sham.
+766	Green Flash	http://imgs.xkcd.com/comics/green_flash.png	The exact cause of the phenomenon is unknown, but it's thought to be linked to atmospheric refraction and you getting a really cool car.
+767	Temper	http://imgs.xkcd.com/comics/temper.png	Mr. Rogers projected an air of genuine, unwavering, almost saintly pure-hearted decency. But when you look deeper, at the person behind the image ... that's exactly what you find there, too. He's exactly what he appears to be.
+768	1996	http://imgs.xkcd.com/comics/1996.png	College Board issues aside, I have fond memories of TI-BASIC, writing in it a 3D graphing engine and a stock market analyzer. With enough patience, I could make anything ... but friends. (Although with my chatterbot experiments, I certainly tried.)
+769	War	http://imgs.xkcd.com/comics/war.png	They offered to make me a green beret, but I liked my regular one. Although it gets kind of squashed under my helmet.
+770	All the Girls	http://imgs.xkcd.com/comics/all_the_girls.png	You know that I'll never leave you. Not as long as she's with someone.
+771	Period Speech	http://imgs.xkcd.com/comics/period_speech.png	The same people who spend their weekends at the Blogger Reenactment Festivals will whine about the anachronisms in historical movies, but no one else will care.
+772	Frogger	http://imgs.xkcd.com/comics/frogger.png	I understand you and your team worked hard on this, but when we said to make it more realistic, we meant the graphics.
+773	University Website	http://imgs.xkcd.com/comics/university_website.png	People go to the website because they can't wait for the next alumni magazine, right? What do you mean, you want a campus map? One of our students made one as a CS class project back in '01!  You can click to zoom and everything!
+774	Atheists	http://imgs.xkcd.com/comics/atheists.png	'But you're using that same tactic to try to feel superior to me, too!' 'Sorry, that accusation expires after one use per conversation.'
+775	Savannah Ancestry	http://imgs.xkcd.com/comics/savannah_ancestry.png	She's a perfectly nice lady from a beautiful city, and there's no reason to be mean just because she thinks a quarterback is a river in Egypt.
+776	Still No Sleep	http://imgs.xkcd.com/comics/still_no_sleep.png	I'm not listening to you.  I mean, what does a SQUIRREL know about mental health?
+777	Pore Strips	http://imgs.xkcd.com/comics/pore_strips.png	I'm sure they're a harmful tool of the cosmetics-industrial complex and all, but my goodness do those strips ever work to pull gunk out of your pores. I was shocked, disgusted, and vaguely fascinated by the result.
+778	Scheduling	http://imgs.xkcd.com/comics/scheduling.png	'How about a little ... *family growth*?'  'Dude, that's not until round two.'
+779	Anxiety	http://imgs.xkcd.com/comics/anxiety.png	Don't need any, thanks. I have a backscattering fetish.
+780	Sample	http://imgs.xkcd.com/comics/sample.png	There are two or three songs out there with beeps in the chorus that sound exactly like the clock radio alarm I had in high school, and hearing it makes me think my life since junior year has been a dream I'm about to wake up from.
+781	Ahead Stop	http://imgs.xkcd.com/comics/ahead_stop.png	They actually started the reversed-text practice in 1977 -- not for ease-of-reading reasons, but because too many people were driving backward down the highway blasting the Star Wars opening theme.
+782	Desecration	http://imgs.xkcd.com/comics/desecration.png	It gets worse! You know that wizened old monk with the gypsy wife whose voodoo shop we smash up every day after school?
+783	I Don't Want Directions	http://imgs.xkcd.com/comics/i_dont_want_directions.png	Yes, I understand that the turn is half a mile past the big field, but my GPS knows that, too.  This would be easier if you weren't about to ask me to repeat it all back to you.
+784	Falling Asleep	http://imgs.xkcd.com/comics/falling_asleep.png	Sweet unintersecting dreams!
+785	Open Mic Night	http://imgs.xkcd.com/comics/open_mic_night.png	Ever notice how the more successful observational comics become, the more their jokes focus on flying and hotels?
+786	Exoplanets	http://imgs.xkcd.com/comics/exoplanets_2010.png	I'm just worried that we'll all leave and you won't get to come along!
+787	Orbiter	http://imgs.xkcd.com/comics/orbiter.png	Normally, the Shuttle can't quite safely reach the orbital inclination required to pass over both those points from a Canaveral launch, but this is an alternate history in which either it launches from Vandenberg or everyone hates the Outer Banks.
+788	The Carriage	http://imgs.xkcd.com/comics/the_carriage.png	I learned from Achewood that since this poem is in ballad meter, it can be sung to the tune of Gilligan's Island.  Since then, try as I might, I haven't ONCE been able to read it normally.
+789	Showdown	http://imgs.xkcd.com/comics/showdown.png	The tumbleweed then tried to roll off into the sunset, but due to the Old West's placement north of the subtropical ridge, the prevailing winds were in the wrong direction.
+790	Control	http://imgs.xkcd.com/comics/control.png	Which, at one point, led to a study showing that LSD produces no more hallucinations than a placebo.
+791	Leaving	http://imgs.xkcd.com/comics/leaving.png	What'll I say -- "I was staring at some cat vomit when I got the news?"
+792	Password Reuse	http://imgs.xkcd.com/comics/password_reuse.png	It'll be hilarious the first few times this happens.
+793	Physicists	http://imgs.xkcd.com/comics/physicists.png	If you need some help with the math, let me know, but that should be enough to get you started! Huh? No, I don't need to read your thesis, I can imagine roughly what it says.
+794	Inside Joke	http://imgs.xkcd.com/comics/inside_joke.png	I've looked through a few annotated versions of classic books, and it's shocking how much of what's in there is basically pop-culture references totally lost on us now.
+795	Conditional Risk	http://imgs.xkcd.com/comics/conditional_risk.png	'Dude, wait -- I'm not American! So my risk is basically zero!'
+796	Bad Ex	http://imgs.xkcd.com/comics/bad_ex.png	Since the goatee, glasses, and Seltzer & Friedberg DVD collection didn't tip you off, there will be a $20 negligence charge for this service.
+797	debian-main	http://imgs.xkcd.com/comics/debian_main.png	dpkg: error processing package (--purge): subprocess pre-removal script returned error exit 163: OH_GOD_THEYRE_INSIDE_MY_CLOTHES
+798	Adjectives	http://imgs.xkcd.com/comics/adjectives.png	'Fucking ineffable' sounds like someone remembering how to do self-censorship halfway through a phrase.
+799	Stephen Hawking	http://imgs.xkcd.com/comics/stephen_hawking.png	'Guys?  The Town is supposed to be good, and I thou--' 'PHYSICIST STEPHEN HAWKING DECLARES NEW FILM BEST IN ALL SPACE AND TIME' 'No, I just heard that--' 'SHOULD SCIENCE PLAY A ROLE IN JUDGING BEN AFFLECK?' 'I don't think--' 'WHAT ABOUT MATT DAMON?'
+800	Beautiful Dream	http://imgs.xkcd.com/comics/beautiful_dream.png	Lucky. In MY dream, all the people who grew up loving The Giving Tree paired up with all the students who had weird dreams after reading The Metamorphosis. That one was more confusing.
+801	Golden Hammer	http://imgs.xkcd.com/comics/golden_hammer.png	Took me five tries to find the right one, but I managed to salvage our night out--if not the boat--in the end.
+802	Online Communities 2	http://imgs.xkcd.com/comics/online_communities_2.png	Best trivia I learned while working on this: 'Man, Farmville is so huge! Do you realize it's the second-biggest browser-based social-networking-centered farming game in the WORLD?' Then you wait for the listener to do a double-take.
+803	Airfoil	http://imgs.xkcd.com/comics/airfoil.png	This is a fun explanation to prepare your kids for; it's common and totally wrong. Good lines include 'why does the air have to travel on both sides at the same time?' and 'I saw the Wright brothers plane and those wings were curved the same on the top and bottom!'
+804	Pumpkin Carving	http://imgs.xkcd.com/comics/pumpkin_carving.png	The Banach-Tarski theorem was actually first developed by King Solomon, but his gruesome attempts to apply it set back set theory for centuries.
+805	Paradise City	http://imgs.xkcd.com/comics/paradise_city.png	Take me down to the paradise municipality / where the grass is mauve and the girls aren't fromthisreality.
+806	Tech Support	http://imgs.xkcd.com/comics/tech_support.png	I recently had someone ask me to go get a computer and turn it on so I could restart it. He refused to move further in the script until I said I had done that.
+807	Connected	http://imgs.xkcd.com/comics/connected.png	Or love in general, for that matter. It just leads to the idea that either your love is pure, perfect, and eternal, and you are storybook-compatible in every way with no problems, or you're LYING when you say 'I love you'.
+808	The Economic Argument	http://imgs.xkcd.com/comics/the_economic_argument.png	Not to be confused with 'making money selling this stuff to OTHER people who think it works', which corporate accountants and actuaries have zero problems with.
+809	Los Alamos	http://imgs.xkcd.com/comics/los_alamos.png	The test didn't (spoiler alert) destroy the world, but the fact that they were even doing those calculations makes theirs the coolest jobs ever.
+810	Constructive	http://imgs.xkcd.com/comics/constructive.png	And what about all the people who won't be able to join the community because they're terrible at making helpful and constructive co-- ... oh.
+811	Starlight	http://imgs.xkcd.com/comics/starlight.png	Don't worry! From the light's point of view, home and your eye are in the same place, and the journey takes no time at all! Relativity saves the day again.
+812	Glass	http://imgs.xkcd.com/comics/glass.png	I read in this one article that the breaking of electroweak symmetry is the reason we have SOULS. This guy with a degree said so!
+813	One-Liners	http://imgs.xkcd.com/comics/one_liners.png	'Upgrade to the latest version of Adobe Flash player to view THIS content, bitch.' ::triggers detonator::
+814	Diode	http://imgs.xkcd.com/comics/diode.png	And the worst part is you won't apologize.
+815	Mu	http://imgs.xkcd.com/comics/mu.png	As the CoKF approaches 0, productivity goes negative as you pull OTHER people into chair-spinning contests.
+816	Applied Math	http://imgs.xkcd.com/comics/applied_math.png	Dear Reader: Enclosed is a check for ninety-eight cents. Using your work, I have proven that this equals the amount you requested.
+817	Mutual	http://imgs.xkcd.com/comics/mutual.png	A universe that needed someone to observe it in order to collapse it into existence would be a pretty sorry universe indeed.
+818	Illness	http://imgs.xkcd.com/comics/illness.png	<3 If there's anything you can do, I'll let you know. For the moment, any simple distracting online games sent to sick@xkcd.com will not go unappreciated [EDIT: Holy crap 2,700 games before noon. I love you guys; thank you. They will be passed along and played by us all.]
+819	Five-Minute Comics: Part 1	http://imgs.xkcd.com/comics/five_minute_comics_part_1.png	The wolves thin the RAID arrays, removing the slowest and weakest disks to keep the average seek speed high.
+820	Five-Minute Comics: Part 2	http://imgs.xkcd.com/comics/five_minute_comics_part_2.png	Dear Wiccan readers: I understand modern Wiccans are not usually all about the curses and hexes. But Darth Vader was recently converted from Episcopalianism and he's still figuring it all out.
+821	Five-Minute Comics: Part 3	http://imgs.xkcd.com/comics/five_minute_comics_part_3.png	Resulting in The Little Rock 9x + C.
+822	Guest Week: Jeph Jacques (Questionable Content)	http://imgs.xkcd.com/comics/guest_week_jeph_jacques_questionable_content.png	Guest comic by Jeph Jacques of Questionable Content, whose internal monologue hasn't been speaking to him for the past three years.
+823	Guest Week: David Troupes (Buttercup Festival)	http://imgs.xkcd.com/comics/guest_week_david_troupes_buttercup_festival.png	Guest comic by David Troupes of Buttercup Festival, who is living in that lovely tree outside your window.
+824	Guest Week: Bill Amend (FoxTrot)	http://imgs.xkcd.com/comics/guest_week_bill_amend_foxtrot.png	Guest comic by Bill Amend of FoxTrot, an inspiration to all us nerdy-physics-majors-turned-cartoonists, of which there are an oddly large number.
+825	Guest Week: Jeffrey Rowland (Overcompensating)	http://imgs.xkcd.com/comics/guest_week_jeffrey_rowland_overcompensating.png	Guest comic by Jeffrey Rowland of Overcompensating/Wigu.  Jeffrey is famous as the picture on the Wikipedia article on 'Necrosis'.
+826	Guest Week: Zach Weiner (SMBC)	http://imgs.xkcd.com/comics/guest_week_zach_weiner_smbc.png	Guest comic by Zach Weiner of Saturday Morning Breakfast Cereal. When I was stressed out, Zach gave me a talk that was really encouraging and somehow involved nanobots.
+827	Business Idea	http://imgs.xkcd.com/comics/business_idea.png	We didn't believe you at first, but we asked like three people who were at that party. They not only corroborated your story, but even said you totally mentioned wanting to start a company someday. Sorry! If this isn't enough money, let us know.
+828	Positive Attitude	http://imgs.xkcd.com/comics/positive_attitude.png	Having a positive attitude is almost tautologically good for your mental health, and extreme stress can hurt your immune system, but that doesn't mean you should feel like shit for feeling like shit.
+829	Arsenic-Based Life	http://imgs.xkcd.com/comics/arsenic_based_life.png	According to a new paper published in the journal Science, reporters are unable to thrive in an arsenic-rich environment.
+830	Genetic Analysis	http://imgs.xkcd.com/comics/genetic_analysis.png	There's still a chance you were conceived via IVF. But we've checked your mom's college yearbook photos, and whether or not she and your father had sex, it's clear that ... listen, I know this is hard for you.
+831	Weather Radar	http://imgs.xkcd.com/comics/weather_radar.png	Ever notice how there aren't as many thunderstorms now as there were when you were a kid?  Much like 'the shuffle on my MP3 player has a bias', this is occasionally true but universally believed. Brains are so interesting!
+832	Tic-Tac-Toe	http://imgs.xkcd.com/comics/tic_tac_toe.png	The only winning move is to play, perfectly, waiting for your opponent to make a mistake.
+833	Convincing	http://imgs.xkcd.com/comics/convincing.png	And if you labeled your axes, I could tell you exactly how MUCH better.
+834	Wikileaks	http://imgs.xkcd.com/comics/wikileaks.png	STUDENTS ARE CALLING PRESIDENT JOHNSON EN MASSE TO PROTEST THE BOMBING AND IT'S JAMMED THE WHITE HOUSE SWITCHBOARD. COULD THEY COLLAPSE OUR CRITICAL PHONE SYSTEMS? HAS THE FIRST TELEPHONE WAR BEGUN? STAY TUNED FOR MORE ON THIS DANGEROUS NEW TECHNOLOGY.
+835	Tree	http://imgs.xkcd.com/comics/tree.png	Not only is that terrible in general, but you just KNOW Billy's going to open the root present first, and then everyone will have to wait while the heap is rebuilt.
+836	Sickness	http://imgs.xkcd.com/comics/sickness.png	At least, with p<0.05 confidence.
+837	Coupon Code	http://imgs.xkcd.com/comics/coupon_code.png	This also guarantees he won't be one of the ones to get a bobcat.
+838	Incident	http://imgs.xkcd.com/comics/incident.png	He sees you when you're sleeping, he knows when you're awake, he's copied on /var/spool/mail/root, so be good for goodness' sake.
+839	Explorers	http://imgs.xkcd.com/comics/explorers.png	We're going to have to work together to get over our hangups if we're going to learn to move on Catan's hexagonal grid. It's bad enough that we lost our crew of pawns when we passed within firing range of Battleship.
+840	Serious	http://imgs.xkcd.com/comics/serious.png	Not to be confused with Serious PuTTY, the Windows terminal client where everything is in Impact.
+841	Audiophiles	http://imgs.xkcd.com/comics/audiophiles.png	For years, I took the wrong lesson from that Monster Cable experiment and only listened to my music through alligator-clipped coat hangers.
+842	Mark	http://imgs.xkcd.com/comics/mark.png	I'm a solipsistic conspiracy theorist. I'm sure I must be up to something, and I will not stop until I find out what.
+843	Misconceptions	http://imgs.xkcd.com/comics/misconceptions.png	'Grandpa, what was it like in the Before time?' 'It was hell. People went around saying glass was a slow-flowing liquid. You folks these days don't know how good you have it.'
+844	Good Code	http://imgs.xkcd.com/comics/good_code.png	You can either hang out in the Android Loop or the HURD loop.
+845	Modern History	http://imgs.xkcd.com/comics/modern_history.png	During the week, I research my character by living in his house and raising his children.
+846	Dental Nerve	http://imgs.xkcd.com/comics/dental_nerve.png	WAKE up in the MORning and my BREATH ain't PREtty / and noBODY'S gonna KISS me if my MOUTH smells SHItty / so I ALways brush my TEETH before I START on the JACK / sure, my DRINKing's out of HAND, but I'm conTROLLing my PLAQUE.
+847	Stingray Nebula	http://imgs.xkcd.com/comics/stingray_nebula.png	Erendil will patrol the walls of night only until the sun reaches red giant stage, engulfing the Morning Star on his brow. Light and high beauty are passing things as well.
+848	3D	http://imgs.xkcd.com/comics/3d.png	The LINACs in the glasses frames can barely manage one MeV. You should've gone to the screening at CERN.
+849	Complex Conjugate	http://imgs.xkcd.com/comics/complex_conjugate.png	Fun fact: if you say this every time a professor does something to a complex-number equation that drops the imaginary part, they'll eventually move the class to another room and tell everyone else except you.
+850	World According to Americans	http://imgs.xkcd.com/comics/world_according_to_americans.png	It's not our fault we caught a group on their way home from a geography bee. And they taught us that Uzbekistan is one of the world's two doubly-landlocked countries!
+851	Na	http://imgs.xkcd.com/comics/na.png	I hear that there are actual lyrics later on in Land of 1,000 Dances, but other than the occasional 'I said,' I've never listened long enough to hear any of them.
+852	Local g	http://imgs.xkcd.com/comics/local_g.png	In Rio de Janeiro in 2016, the same jump will get an athlete 0.25% higher (>1cm) than in London four years prior.
+853	Consecutive Vowels	http://imgs.xkcd.com/comics/consecutive_vowels.png	But the windows! What if there's a voyeur watchi-- wait, now I'm turned on too.
+854	Learning to Cook	http://imgs.xkcd.com/comics/learning_to_cook.png	And yet I never stop thinking, 'sure, these ingredients cost more than a restaurant meal, but think how many meals I'll get out of them! Especially since each one will have leftovers!'
+855	1999	http://imgs.xkcd.com/comics/1999.png	'Whoa, twenty-two in two hours!' 'Your site got twenty-two hundred hits in two hours?' 'No. Twenty-two. But still, that's like half the people on the internet!'
+856	Trochee Fixation	http://imgs.xkcd.com/comics/trochee_fixation.png	If you Huffman-coded all the 'random' things everyone on the internet has said over the years, you'd wind up with, like, 30 or 40 bytes *tops*.
+857	Archimedes	http://imgs.xkcd.com/comics/archimedes.png	Give a man a fish, or he will destroy the only existing vial of antidote.
+858	Milk	http://imgs.xkcd.com/comics/milk.png	It's not hard when you have the same thought like 40 or 50 percent of the time.
+859	(	http://imgs.xkcd.com/comics/(.png	Brains aside, I wonder how many poorly-written xkcd.com-parsing scripts will break on this title (or ;;"''{<<[' this mouseover text."
+860	Never Do This	http://imgs.xkcd.com/comics/never_do_this.png	I call Rule 34 on The Secret House.
+861	Wisdom Teeth	http://imgs.xkcd.com/comics/wisdom_teeth.png	I heard the general anesthesia drugs can cause amnesia, so when I woke up mid-extraction I started taking notes on my hand so I'd remember things later. I managed 'AWAKE BUT EVERYTHING OK' before the dental assistant managed to find and confiscate all my pens.
+862	Let Go	http://imgs.xkcd.com/comics/let_go.png	After years of trying various methods, I broke this habit by pitting my impatience against my laziness. I decoupled the action and the neurological reward by setting up a simple 30-second delay I had to wait through, in which I couldn't do anything else, before any new page or chat client would load (and only allowed one to run at once). The urge to check all those sites magically vanished--and my 'productive' computer use was unaffected.
+863	Major in the Universe	http://imgs.xkcd.com/comics/major_in_the_universe.png	I hear Steven Levitt is writing a book analyzing A.J. Jacobs' quest to spend a year reading everything Malcolm Gladwell ever wrote. The audiobook will be narrated by Robert Krulwich of Radiolab.
+864	Flying Cars	http://imgs.xkcd.com/comics/flying_cars.png	It's hard to fit in the backseat of my flying car with my android Realdoll when we're both wearing jetpacks.
+865	Nanobots	http://imgs.xkcd.com/comics/nanobots.png	I think the IETF hit the right balance with the 128 bits thing. We can fit MAC addresses in a /64 subnet, and the nanobots will only be able to devour half the planet.
+866	Compass and Straightedge	http://imgs.xkcd.com/comics/compass_and_straightedge.png	The Greeks long suspected this, but it wasn't until April 12th of 1882 that Ferdinand von Lindemann conclusively proved it when he constructed himself the most awesome birthday party possible and nobody showed up.
+867	Herpetology	http://imgs.xkcd.com/comics/herpetology.png	Birds are Aves, which is part of the clade Theropoda, which is in Saurischia, which is in Dinosauria. Those birds outside our windows are dinosaurs. We can clear out the rest of our brains because we now have the best fact.
+868	Nolan Chart	http://imgs.xkcd.com/comics/nolan_chart.png	Also in the right quadrant are NFPA-compliant chemical manufacturers and Sir Charles Wheatstone. Sharing the top with the internet libertarians are Nate Silver and several politically-active kite designers.
+869	Server Attention Span	http://imgs.xkcd.com/comics/server_attention_span.png	They have to keep the adjacent rack units empty. Otherwise, half the entries in their /var/log/syslog are just 'SERVER BELOW TRYING TO START CONVERSATION *AGAIN*.' and 'WISH THEY'D STOP GIVING HIM SO MUCH COFFEE IT SPLATTERS EVERYWHERE.'
+870	Advertising	http://imgs.xkcd.com/comics/mathematically_annoying.png	I remember the exact moment in my childhood when I realized, while reading a flyer, that nobody would ever spend money solely to tell me they wanted to give me something for nothing. It's a much more vivid memory than the (related) parental Santa talk.
+871	Charity	http://imgs.xkcd.com/comics/charity.png	I usually respond to someone else doing something good by figuring out a reason that they're not really as good as they seem. But I've been realizing lately that there's an easier way to handle these situations, and it involves zero internet arguments.
+872	Fairy Tales	http://imgs.xkcd.com/comics/fairy_tales.png	Goldilocks' discovery of Newton's method for approximation required surprisingly few changes.
+873	FPS Mod	http://imgs.xkcd.com/comics/fps_mod.png	Wait, that second one is a woman?  ... wait, if that bothers me, then why doesn't ... man, this game is no fun anymore.
+874	Time Management	http://imgs.xkcd.com/comics/time_management.png	I never trust anyone who's more excited about success than about doing the thing they want to be successful at.
+875	2009 Called	http://imgs.xkcd.com/comics/2009_called.png	2017 called, but I couldn't understand what they were saying over all the screams.
+876	Trapped	http://imgs.xkcd.com/comics/trapped.png	Socrates could've saved himself a lot of trouble if he'd just brought a flashlight, tranquilizer gun, and a bunch of rescue harnesses.
+877	Beauty	http://imgs.xkcd.com/comics/beauty.png	The best hugs are probably from hagfish, which can extrude microscopic filaments that convert a huge volume of water around them to slime in seconds. Instant cozy blanket!
+878	Model Rail	http://imgs.xkcd.com/comics/model_rail.png	I don't know what's more telling--the number of pages in the Wikipedia talk page argument over whether the 1/87.0857143 scale is called "HO" or "H0", or the fact that within minutes of first hearing of it I had developed an extremely strong opinion on the issue.
+879	Lamp	http://imgs.xkcd.com/comics/lamp.png	'That was definitely not in my top three wishes.' 'Who said anything about YOUR wishes?'
+880	Headache	http://imgs.xkcd.com/comics/headache.png	I'm only willing to visit placid lakes, salt flats, and painting exhibits until the world's 3D technology improves.
+881	Probability	http://imgs.xkcd.com/comics/probability.png	My normal approach is useless here, too.
+882	Significant	http://imgs.xkcd.com/comics/significant.png	'So, uh, we did the green study again and got no link. It was probably a--' 'RESEARCH CONFLICTED ON GREEN JELLY BEAN/ACNE LINK; MORE STUDY RECOMMENDED!'
+883	Pain Rating	http://imgs.xkcd.com/comics/pain_rating.png	If it were a two or above I wouldn't be able to answer because it would mean a pause in the screaming.
+884	Rogers St.	http://imgs.xkcd.com/comics/rogers_st.png	'We can also use middle names in place of first pet's names, but yours is something incomprehensible about dropping tables.'
+885	Recycling	http://imgs.xkcd.com/comics/recycling.png	And given how much of my stuff they go through, they definitely know where I live.
+886	Craigslist Apartments	http://imgs.xkcd.com/comics/craigslist_apartments.png	$1600 / 1386153BR 3BATH, MODERN SLIDING DOORS, GUEST ROOMS, GARBAGE DISPOSAL. FREE MANDATORY PARKING (ENFORCED). CONVENIENT TO ALDERAAN.
+887	Future Timeline	http://imgs.xkcd.com/comics/future_timeline.png	Not shown: the approximately 30,000 identical, vaguely hysterical articles titled "WHITE PEOPLE IN [THE US/BRITAIN] TO BECOME MINORITY BY [YEAR]!", which came up for basically any year I put in.
+888	Heaven	http://imgs.xkcd.com/comics/heaven.png	If you've never had sex, this is what it feels like. Complete with the brief feeling of satisfaction, followed by ennui, followed by getting bored and trying to make it happen again.
+889	Turtles	http://imgs.xkcd.com/comics/turtles.png	You're a turtle!
+890	Etymology	http://imgs.xkcd.com/comics/etymology.png	For some reason, my childhood suspension of disbelief had no problem with the fact that this ancient galaxy is full of humans, but was derailed by language. There's no Asia OR Europe there, so where'd they get all the Indo-European roots?
+891	Movie Ages	http://imgs.xkcd.com/comics/movie_ages.png	If you're 15 or younger, then just remember that it's nevertheless probably too late to be a child prodigy.
+892	Null Hypothesis	http://imgs.xkcd.com/comics/null_hypothesis.png	Hell, my eighth grade science class managed to conclusively reject it just based on a classroom experiment. It's pretty sad to hear about million-dollar research teams who can't even manage that.
+893	65 Years	http://imgs.xkcd.com/comics/65_years.png	The universe is probably littered with the one-planet graves of cultures which made the sensible economic decision that there's no good reason to go into space--each discovered, studied, and remembered by the ones who made the irrational decision.
+894	Progeny	http://imgs.xkcd.com/comics/progeny.png	I tell my children 'it's not whether you win or lose, it's how you play the game.' I'm trying to take the edge off their competitive drive to ensure that I can always beat them.
+895	Teaching Physics	http://imgs.xkcd.com/comics/teaching_physics.png	Space-time is like some simple and familiar system which is both intuitively understandable and precisely analogous, and if I were Richard Feynman I'd be able to come up with it.
+896	Marie Curie	http://imgs.xkcd.com/comics/marie_curie.png	Although not permanently.
+897	Elevator Inspection	http://imgs.xkcd.com/comics/elevator_inspection.png	Even governmental elevator inspectors get bored halfway through asking where the building office is.
+898	Chain of Command	http://imgs.xkcd.com/comics/chain_of_command.png	Themistocles said his infant son ruled all Greece -- "Athens rules all Greece; I control Athens; my wife controls me; and my infant son controls her." Thus, nowadays the world is controlled by whoever buys advertising time on Dora the Explorer.
+899	Number Line	http://imgs.xkcd.com/comics/number_line.png	The Wikipedia page "List of Numbers" opens with "This list is incomplete; you can help by expanding it."
+900	Religions	http://imgs.xkcd.com/comics/religions.png	But to us there is but one God, plus or minus one. --1 Corinthians 8:62.
+901	Temperature	http://imgs.xkcd.com/comics/temperature.png	And the baby has a fever.
+902	Darmok and Jalad	http://imgs.xkcd.com/comics/darmok_and_jalad.png	I wonder how often Patrick Stewart has Darmok flashbacks when talking to Star Trek fans.
+903	Extended Mind	http://imgs.xkcd.com/comics/extended_mind.png	Wikipedia trivia: if you take any article, click on the first link in the article text not in parentheses or italics, and then repeat, you will eventually end up at "Philosophy".
+904	Sports	http://imgs.xkcd.com/comics/sports.png	Also, all financial analysis. And, more directly, D&D.
+905	Homeownership	http://imgs.xkcd.com/comics/homeownership.png	New research shows over 60% of the financial collapse's toxic assets were created by power drills.
+906	Advertising Discovery	http://imgs.xkcd.com/comics/citations.png	When advertisers figure this out, our only weapon will be blue sharpies and "[disputed]".
+907	Ages	http://imgs.xkcd.com/comics/ages.png	Every age: "I'm glad I'm not the clueless person I was five years ago, but now I don't want to get any older."
+908	The Cloud	http://imgs.xkcd.com/comics/the_cloud.png	There's planned downtime every night when we turn on the Roomba and it runs over the cord.
+909	Worst-Case Shopping	http://imgs.xkcd.com/comics/worst_case_shopping.png	Wait a minute. If I'm escaping from a submarine at 50 meters, then I'll *definitely* need a flashlight to find air pockets for gradual decompression on the way up. Time to start shopping professional dive lights.
+910	Permanence	http://imgs.xkcd.com/comics/permanence.png	This hostname is going in dozens of remote config files. Changing a kid's name is comparatively easy!
+911	Magic School Bus	http://imgs.xkcd.com/comics/magic_school_bus.png	At my OLD school, we used Microsoft Encarta 2005.
+912	Manual Override	http://imgs.xkcd.com/comics/manual_override.png	I think you mean 'GNU Info Override'.
+913	Core	http://imgs.xkcd.com/comics/core.png	If you're a geologist or geophysicist and you don't introduce yourself by saying your name, then gesturing downward and saying "... and I study that", I don't know what you're doing with your life.
+914	Ice	http://imgs.xkcd.com/comics/ice.png	On the plus side, she wrote 'Welcome to the AAA Club!' in lipstick on the bathroom mirror, and left me a membership/roadside assistance card on the counter.
+915	Connoisseur	http://imgs.xkcd.com/comics/connoisseur.png	Our brains have just one scale, and we resize our experiences to fit.
+916	Unpickable	http://imgs.xkcd.com/comics/unpickable.png	The safe is empty except for an unsolved 5x5 Rubik's cube.
+917	Hofstadter	http://imgs.xkcd.com/comics/hofstadter.png	"This is the reference implementation of the self-referential joke."
+918	Google+	http://imgs.xkcd.com/comics/googleplus.png	On one hand, you'll never be able to convince your parents to switch. On the other hand, you'll never be able to convince your parents to switch!
+919	Tween Bromance	http://imgs.xkcd.com/comics/tween_bromance.png	Verbiage. Va-jay-jay. Irregardless.
+920	YouTube Parties	http://imgs.xkcd.com/comics/youtube_parties.png	This reminds me of that video where ... no? How have you not seen that? Oh man, let me find it. No, it's ok, we can go back to your video later.
+921	Delivery Notification	http://imgs.xkcd.com/comics/delivery_notification.png	You can arrange a pickup of your sword in Rivendell between the hours of noon and 7:00 PM.
+922	Fight Club	http://imgs.xkcd.com/comics/fight_club.png	I'm not saying it's all bad, but that movie has not aged as well as my teenage self in 2000 was confident it would.
+923	Strunk and White	http://imgs.xkcd.com/comics/strunk_and_white.png	The best thing about Strunk/White fanfiction is that it's virtually guaranteed to be well written.
+924	3D Printer	http://imgs.xkcd.com/comics/3d_printer.png	I just can't wait for the Better Homes and Gardens list of helpful tips for household reuse of sixteen-inch acrylonitrile-butadiene-styrene phalluses.
+925	Cell Phones	http://imgs.xkcd.com/comics/cell_phones.png	He holds the laptop like that on purpose, to make you cringe.
+926	Time Vulture	http://imgs.xkcd.com/comics/time_vulture.png	In a way, all vultures are Time Vultures; some just have more patience than others.
+927	Standards	http://imgs.xkcd.com/comics/standards.png	Fortunately, the charging one has been solved now that we've all standardized on mini-USB. Or is it micro-USB? Shit.
+928	Mimic Octopus	http://imgs.xkcd.com/comics/mimic_octopus.png	Even if the dictionaries are starting to give in, I refuse to accept 'octopi' as a word mainly because--I'm not making this up--there's a really satisfying climactic scene in the Orson Scott Card horror novel 'Lost Boys' which hinges on it being an incorrect pluralization.
+929	Speculation	http://imgs.xkcd.com/comics/speculation.png	'I was pretty good at skeet shooting, but was eventually kicked off the range for catching the clay pigeons in a net and dispatching them execution-style.'
+930	Days of the Week	http://imgs.xkcd.com/comics/days_of_the_week.png	Not pictured: the elongated Halley's-Comet-like orbit of every Rebecca Black lyric.
+931	Lanes	http://imgs.xkcd.com/comics/lanes.png	Each quarter of the lanes from left to right correspond loosely to breast cancer stages one through four (at diagnosis).
+932	CIA	http://imgs.xkcd.com/comics/cia.png	It was their main recruiting poster, hung nearly ten feet up a wall! This means the hackers have LADDER technology! Are we headed for a future where everyone has to pay $50 for one of those locked plexiglass poster covers? More after the break ...
+933	Tattoo	http://imgs.xkcd.com/comics/tattoo.png	I calculate that the electrons in radiation therapy hit you at 99.8% of the speed of light, and the beam used in a 90-second gamma ray therapy session could, if fired with less precision, kill a horse (they did not let me test this).
+934	Mac/PC	http://imgs.xkcd.com/comics/mac_pc.png	It's fun to watch browsers fumblingly recapitulate the history of window management. Someday we'll have xmonad as a Firefox extension.
+935	Missed Connections	http://imgs.xkcd.com/comics/missed_connections.png	The Street View van isn't going to find out anything Google won't already know from reading my email.
+936	Password Strength	http://imgs.xkcd.com/comics/password_strength.png	To anyone who understands information theory and security and is in an infuriating argument with someone who does not (possibly involving mixed case), I sincerely apologize.
+937	TornadoGuard	http://imgs.xkcd.com/comics/tornadoguard.png	The bug report was marked 'could not reproduce'.
+938	T-Cells	http://imgs.xkcd.com/comics/t_cells.png	'We're not sure how to wipe out the chimeral T-cells after they've destroyed the cancer. Though I do have this vial of smallpox ...'
+939	Arrow	http://imgs.xkcd.com/comics/arrow.png	'The Return of the Boomerang' would make a great movie title.
+940	Oversight	http://imgs.xkcd.com/comics/oversight.png	I felt so clever when I found a way to game the Fitocracy system by incorporating a set of easy but high-scoring activities into my regular schedule. Took me a bit to realize I'd been tricked into setting up a daily exercise routine.
+941	Depth Perception	http://imgs.xkcd.com/comics/depth_perception.png	I've looked at clouds from both sides now.
+942	Juggling	http://imgs.xkcd.com/comics/juggling.png	Later: 'Why is there a book hovering over the trash can?'
+943	Empirical	http://imgs.xkcd.com/comics/empirical.png	I'm as surprised as you!
+944	Hurricane Names	http://imgs.xkcd.com/comics/hurricane_names.png	After exhausting the OED, we started numbering them. When overlapping hurricanes formed at all points on the Earth's surface, and our scheme was foiled by Cantor diagonalization, we just decided to name them all "Steve". Your local forecast tomorrow is "Steve". Good luck.
+945	I'm Sorry	http://imgs.xkcd.com/comics/im_sorry.png	You know I've always hated her.
+946	Family Decals	http://imgs.xkcd.com/comics/family_decals.png	My decal set has no adults, just a sea of hundreds of the little girl figures closing in around a single cat.
+947	Investing	http://imgs.xkcd.com/comics/investing.png	But Einstein said it was the most powerful force in the universe, and I take all my investment advice from flippant remarks by theoretical physicists making small talk at parties.
+948	AI	http://imgs.xkcd.com/comics/ai.png	And they both react poorly to showers.
+949	File Transfer	http://imgs.xkcd.com/comics/file_transfer.png	Every time you email a file to yourself so you can pull it up on your friend's laptop, Tim Berners-Lee sheds a single tear.
+950	Mystery Solved	http://imgs.xkcd.com/comics/mystery_solved.png	The Roanoke Lost Colonists founded Roanoke, the Franklin Expedition reached the Pacific in 2009 when the Northwest Passage opened, and Jimmy Hoffa currently heads the Teamsters Union--he just started going by 'James'.
+951	Working	http://imgs.xkcd.com/comics/working.png	And if you drive a typical car more than a mile out of your way for each penny you save on the per-gallon price, it doesn't matter how worthless your time is to you--the gas to get you there and back costs more than you save.
+952	Stud Finder	http://imgs.xkcd.com/comics/stud_finder.png	According to every stud finder I've tried to use, my walls contain a rapidly shifting network of hundreds and hundreds of studs.
+953	1 to 10	http://imgs.xkcd.com/comics/1_to_10.png	If you get an 11/100 on a CS test, but you claim it should be counted as a 'C', they'll probably decide you deserve the upgrade.
+954	Chin-Up Bar	http://imgs.xkcd.com/comics/chin_up_bar.png	Those few who escaped found the emergency cutoff box disabled. The stampede lasted two hours and reached the bottom three times.
+955	Neutrinos	http://imgs.xkcd.com/comics/neutrinos.png	I can't speak to the paper's scientific merits, but it's really cool how on page 10 you can see that their reference GPS beacon is sensitive enough to pick up continential drift under the detector (interrupted halfway through by an earthquake).
+956	Sharing	http://imgs.xkcd.com/comics/sharing.png	In the new edition of The Giving Tree, the tree uses social tools to share with its friend all the best places to buy things.
+957	Development	http://imgs.xkcd.com/comics/development.png	Funding was quickly restored to the NHC and the APA was taken back off hurricane forecast duty.
+958	Hotels	http://imgs.xkcd.com/comics/hotels.png	'Rating: 1/5. Room filled to brim with semen, and when front desk clerk opened mouth to talk, bedbugs poured out.'
+959	Caroling	http://imgs.xkcd.com/comics/caroling.png	For a thousand generations we vowed never to forget how his soldiers feasted on our brother Stephen.
+960	Subliminal	http://imgs.xkcd.com/comics/subliminal.png	Once you see it, you can't help seeing it every time. Until your body finishes metabolizing the mushrooms.
+961	Eternal Flame	http://imgs.xkcd.com/comics/eternal_flame.gif	There's always the hope that if you sit and watch for long enough, the beachball will vanish and the thing it interrupted will return.
+962	The Corliss Resolution	http://imgs.xkcd.com/comics/the_corliss_resolution.png	And no avian society ever develops space travel because it's impossible to focus on calculus when you could be outside flying.
+963	X11	http://imgs.xkcd.com/comics/x11.png	Thomas Jefferson thought that every law and every constitution should be torn down and rewritten from scratch every nineteen years--which means X is overdue.
+964	Dorm Poster	http://imgs.xkcd.com/comics/dorm_poster.png	I was going to record an album with that cover under the name "PINK FTFY", so it'd come after them on the store CD rack. But at this point music stores are just rooms where CDs are set out to age before they're thrown away, so probably nobody would see it.
+965	Elements	http://imgs.xkcd.com/comics/elements.png	Of all the nations, the armies of the ununoctium-benders are probably the least intimidating. The xenon-benders come close, but their flickery signs are at least effective for propaganda.
+966	Jet Fuel	http://imgs.xkcd.com/comics/jet_fuel.png	The 'controlled demolition' theory was concocted by the government to distract us. '9/11 was an inside job' was an inside job!
+967	Prairie	http://imgs.xkcd.com/comics/prairie.png	Colorado is working to develop coherent amber waves, which would allow them to finally destroy Kansas and Nebraska with a devastating but majestic grain laser.
+968	Everything	http://imgs.xkcd.com/comics/everything.png	I wanna hold your hand so I don't fall out of your gyrocopter.
+969	Delta-P	http://imgs.xkcd.com/comics/delta_p.png	If you fire a Portal gun through the door of the wardrobe, space and time knot together, which leads to a frustrated Aslan trying to impart Christian morality to the Space sphere.
+970	The Important Field	http://imgs.xkcd.com/comics/the_important_field.png	I hear in some places, you need one form of ID to buy a gun, but two to pay for it by check. It's interesting who has what incentives to care about what mistakes.
+971	Alternative Literature	http://imgs.xkcd.com/comics/alternative_literature.png	I just noticed CVS has started stocking homeopathic pills on the same shelves with--and labeled similarly to--their actual medicine. Telling someone who trusts you that you're giving them medicine, when you know youre not, because you want their money, isnt just lying--its like an example youd make up if you had to illustrate for a child why lying is wrong.
+972	November	http://imgs.xkcd.com/comics/november.png	November marks the birthday of Charles Schulz, pioneer of tongue awareness.
+973	MTV Generation	http://imgs.xkcd.com/comics/mtv_generation.png	If you identified with the kids from The Breakfast Club when it came out, you're now much closer to the age of Principal Vernon.
+974	The General Problem	http://imgs.xkcd.com/comics/the_general_problem.png	I find that when someone's taking time to do something right in the present, they're a perfectionist with no ability to prioritize, whereas when someone took time to do something right in the past, they're a master artisan of great foresight.
+975	Occulting Telescope	http://imgs.xkcd.com/comics/occulting_telescope.png	Type II Kardashev civilizations eventually completely enclose their planetary system in a Dyson sphere because space is way too big to look at all the time.
+976	Sail	http://imgs.xkcd.com/comics/sail.png	It only works a few times before you have to capsize the boat in a soap lagoon again.
+977	Map Projections	http://imgs.xkcd.com/comics/map_projections.png	What's that? You think I don't like the Peters map because I'm uncomfortable with having my cultural assumptions challenged?  Are you sure you're not ... ::puts on sunglasses:: ... projecting?
+978	Citogenesis	http://imgs.xkcd.com/comics/citogenesis.png	I just read a pop-science book by a respected author. One chapter, and much of the thesis, was based around wildly inaccurate data which traced back to ... Wikipedia. To encourage people to be on their toes, I'm not going to say what book or author.
+979	Wisdom of the Ancients	http://imgs.xkcd.com/comics/wisdom_of_the_ancients.png	All long help threads should have a sticky globally-editable post at the top saying 'DEAR PEOPLE FROM THE FUTURE: Here's what we've figured out so far ...'
+980	Money	http://imgs.xkcd.com/comics/money.png	There, I showed you it.
+981	Porn Folder	http://imgs.xkcd.com/comics/porn_folder.png	Eww, gross, you modified link()? How could you enjoy abusing a filesystem like that?
+982	Set Theory	http://imgs.xkcd.com/comics/set_theory.png	Proof of Zermelo's well-ordering theorem given the Axiom of Choice: 1: Take S to be any set. 2: When I reach step three, if S hasn't managed to find a well-ordering relation for itself, I'll feed it into this wood chipper. 3: Hey, look, S is well-ordered.
+983	Privacy	http://imgs.xkcd.com/comics/privacy.png	Eventual headline: 'University Researchers Create Life in Lab! Darkness, Faulty Condoms Blamed.'
+984	Space Launch System	http://imgs.xkcd.com/comics/space_launch_system.png	The SLS head engineer plans to invite Shania Twain to stand under the completed prototype, then tell her, 'I don't expect you to date me just because I'm a rocket scientist, but you've gotta admit--this is pretty fucking impressive.'
+985	Percentage Points	http://imgs.xkcd.com/comics/percentage_points.png	Grayton also proposed making college scholarships available exclusively to sexually active teens, amnesty for illegal immigrants who create room for themselves by killing a citizen, and a graduated income tax based on penis size. He has been endorsed by Tracy Morgan, John Wilkes Booth's ghost, and the Time Cube guy.
+986	Drinking Fountains	http://imgs.xkcd.com/comics/drinking_fountains.png	I've always wondered whether you could drink slowly enough, and eliminate fast enough, that you just sort of peed continuously. But I'm afraid to try because I worry someone might call while I'm doing it and ask what I'm up to, and I won't be able to think of a lie.
+987	Potential	http://imgs.xkcd.com/comics/potential.png	The bunch of disadvantaged kids I was tutoring became too good at writing, and their essays were forcing me to confront painful existential questions, so I started trying to turn them on to drugs and crime instead.
+988	Tradition	http://imgs.xkcd.com/comics/tradition.png	An 'American tradition' is anything that happened to a baby boomer twice.
+989	Cryogenics	http://imgs.xkcd.com/comics/cryogenics.png	'Welcome to the future! Nothing's changed.' was the slogan of my astonishingly short-lived tech startup.
+990	Plastic Bags	http://imgs.xkcd.com/comics/plastic_bags.png	The high I feel when I actually remember to bring my reusable bags to the store--and take them inside rather than leaving them in the parked car--can last for days.
+991	Phantom Menace	http://imgs.xkcd.com/comics/phantom_menace.png	We could go to the theater across town and see if it's opened THERE yet, but we don't want to lose our place in line.
+992	Mnemonics	http://imgs.xkcd.com/comics/mnemonics.png	'Sailor Moon's head exploded once' and 'Some men have explosive orgasms' both work for the Great Lakes from west to east (Paddle-to-the-Sea order).
+993	Brand Identity	http://imgs.xkcd.com/comics/brand_identity.png	Legally-mandated information would be printed on the back or discreetly along the bottom. In small letters under the nutrition information it would say 'Like our products? Visit our website!' There would be no URL.
+994	Advent Calendar	http://imgs.xkcd.com/comics/advent_calendar.png	I think you could get up to about 11:59:57 before you'd have trouble swallowing the chocolates fast enough. At that point, you'd need some kind of a liquify-and-chug apparatus to get up over the 11:59:59 barrier. Anyway, Merry Christmas!
+995	Coinstar	http://imgs.xkcd.com/comics/coinstar.png	Plus they take like 9%.
+996	Making Things Difficult	http://imgs.xkcd.com/comics/making_things_difficult.png	Favorite mastectomy breast prosthesis idea: a fake boob containing a spare rechargable battery, accessed via a nipple USB port. Complete with a ring of LED charge indicators in the areola!
+997	Wait Wait	http://imgs.xkcd.com/comics/wait_wait.png	You can't stab Carl Kasell. He sounds all slow and stentorian, but he moves like a snake.
+998	2012	http://imgs.xkcd.com/comics/2012.png	To compensate for this, I plan to spend 2013 doing nothing but talking about Mayans. My relationships with my friends and family may not fare well.
+999	Cougars	http://imgs.xkcd.com/comics/cougars.png	If you're lying in bed tonight and you see yellow eyes glinting in your window, are you being stalked by a puma, a mountain lion, a panther, a catamount, or a cougar? Trick question--in North America, they're all names for the same species, Puma concolor! Isn't learning fun? Anyway, sleep tight!
+1000	1000 Comics	http://imgs.xkcd.com/comics/1000_comics.png	Thank you for making me feel less alone.
+1001	AAAAAA	http://imgs.xkcd.com/comics/aaaaaa.png	'ARE YOU TURNED ON YET?' 'I DON'T THINK SO--ARE YOU?' 'MAYBE A LITTLE!' 'OK, FIVE MORE MINUTES.'
+1002	Game AIs	http://imgs.xkcd.com/comics/game_ais.png	The top computer champion at Seven Minutes in Heaven is a Honda-built Realdoll, but to date it has been unable to outperform the human Seven Minutes in Heaven champion, Ken Jennings.
+1003	Adam and Eve	http://imgs.xkcd.com/comics/adam_and_eve.png	Abel and Steve would've been fine! I like Steve!
+1004	Batman	http://imgs.xkcd.com/comics/batman.png	I'm really worried Christopher Nolan will kill a man dressed like a bat in his next movie. (The man will be dressed like a bat, I mean. Christopher Nolan won't be, probably.)
+1005	SOPA	http://imgs.xkcd.com/comics/sopa.png	In protest of SOPA, I'm currently getting totally blacked out.
+1006	Sloppier Than Fiction	http://imgs.xkcd.com/comics/sloppier_than_fiction.png	Roger Ebert once called you directionless and unwatchable.
+1007	Sustainable	http://imgs.xkcd.com/comics/sustainable.png	Though 100 years is longer than a lot of our resources.
+1008	Suckville	http://imgs.xkcd.com/comics/suckville.png	Suckville is considered by the Census Bureau to be part of the Detroit metropolitan statistical area, despite not being located anywhere near Detroit.
+1009	Sigh	http://imgs.xkcd.com/comics/sigh.png	If you're annoying enough, you can get them to respond with an involuntary second sigh and get a rhythm going.
+1010	Etymology-Man	http://imgs.xkcd.com/comics/etymology_man.png	'I can't believe I'm saying this, but I wish Aquaman were here instead--HE'D be able to help.'
+1011	Baby Names	http://imgs.xkcd.com/comics/baby_names.png	I've been trying for a couple years now but I haven't been able to come up with a name dumber than 'Renesmee'.
+1012	Wrong Superhero	http://imgs.xkcd.com/comics/wrong_superhero.png	Hi! Someone call for me? I'm a superhero who specializes in the study of God's creation of Man in the Book of Genesi-- HOLY SHIT A GIANT BUG!
+1013	Wake Up Sheeple	http://imgs.xkcd.com/comics/wake_up_sheeple.png	You will be led to judgement like lambs to the slaughter--a simile whose existence, I might add, will not do your species any favors.
+1014	Car Problems	http://imgs.xkcd.com/comics/car_problems.png	Or if you replace your car, we'll be happy to set it on fire again so you can take another crack at getting that shot.
+1015	Kerning	http://imgs.xkcd.com/comics/kerning.png	I have never been as self-conscious about my handwriting as when I was inking in the caption for this comic.
+1016	Valentine Dilemma	http://imgs.xkcd.com/comics/valentine_dilemma.png	The worst resolution to the Valentine Prisoner's Dilemma when YOU decide not to give your partner a present but your PARTNER decides to testify against you in the armed robbery case.
+1017	Backward in Time	http://imgs.xkcd.com/comics/backward_in_time.png	People tell me I have too much time on my hands, but really the problem is that there's too much time, PERIOD.
+1018	Good Cop, Dadaist Cop	http://imgs.xkcd.com/comics/good_cop_dadaist_cop.png	NOW INVENT AN IMPOSSIBLE-TO-TRANSLATE LANGUAGE AND USE IT TO TELL US WHERE THE MONEY IS.
+1019	First Post	http://imgs.xkcd.com/comics/first_post.png	'Nuh-uh! We let users vote on comments and display them by number of votes. Everyone knows that makes it impossible for a few persistent voices to dominate the discussion.'
+1020	Orion Nebula	http://imgs.xkcd.com/comics/orion_nebula.png	Also on the agenda: what's with his hips?
+1021	Business Plan	http://imgs.xkcd.com/comics/business_plan.png	The investor elevator pitch is "Wheeeeeeee! Elevators are fun!"
+1022	So It Has Come To This	http://imgs.xkcd.com/comics/so_it_has_come_to_this.png	'Come to what?' 'You. Me. This moment.'
+1023	Late-Night PBS	http://imgs.xkcd.com/comics/late_night_pbs.png	Then it switched to these old black-and-white tapes of Bob Ross slumped against the wall of an empty room, painting the least happy trees you've ever seen. Either PBS needs to beef up studio security or I need to stop using Ambien to sleep.
+1024	Error Code	http://imgs.xkcd.com/comics/error_code.png	It has a section on motherboard beep codes that lists, for each beep pattern, a song that syncs up well with it.
+1025	Tumblr	http://imgs.xkcd.com/comics/tumblr.png	Dot Tumblr Dot Com, on the other hand, would be an awful name for a band, if only because of how hard it would be to direct people to your band's website.
+1026	Compare and Contrast	http://imgs.xkcd.com/comics/compare_and_contrast.png	Frankly, I see no difference between thee and a summer's day. Only Ron Paul offers a TRUE alternative!
+1027	Pickup Artist	http://imgs.xkcd.com/comics/pickup_artist.png	Son, don't try to play 'make you feel bad' with the Michael Jordan of making you feel bad.
+1028	Communication	http://imgs.xkcd.com/comics/communication.png	Anyone who says that they're great at communicating but 'people are bad at listening' is confused about how communication works.
+1029	Drawing Stars	http://imgs.xkcd.com/comics/drawing_stars.png	Screw these 36-degree angles. I'm converting to Judaism.
+1030	Keyed	http://imgs.xkcd.com/comics/keyed.png	I was sure he was just getting revenge, but then he did the same thing to Carrie Underwood. Then he mailed me a scone. I think I'm giving up dating.
+1031	s/keyboard/leopard/	http://imgs.xkcd.com/comics/s_keyboard_leopard.png	Problem Exists Between Leopard And Chair
+1032	Networking	http://imgs.xkcd.com/comics/networking.png	Our company is agile and lean with a focus on the long tail. Ok, our company is actually a polecat I found in my backyard.
+1033	Formal Logic	http://imgs.xkcd.com/comics/formal_logic.png	Note that this implies you should NOT honk solely because I stopped for a pedestrian and you're behind me.
+1034	Share Buttons	http://imgs.xkcd.com/comics/share_buttons.png	The only post to achieve perfect balance between the four was a hilarious joke about Mark Zuckerberg getting caught using a pseudonym to sneak past the TSA.
+1035	Cadbury Eggs	http://imgs.xkcd.com/comics/cadbury_eggs.png	When they moved production from New Zealand to the UK and switched from the runny white centers to the thick, frosting-like filling, it got way harder to cook them scrambled.
+1036	Reviews	http://imgs.xkcd.com/comics/reviews.png	I plugged in this lamp and my dog went rigid, spoke a sentence of perfect Akkadian, and then was hurled sideways through the picture window. Even worse, it's one of those lamps where the switch is on the cord.
+1037	Umwelt	http://imgs.xkcd.com/comics/reviews.png	Umwelt is the idea that because their senses pick up on different things, different animals in the same ecosystem actually live in very different worlds. Everything about you shapes the world you inhabit--from your ideology to your glasses prescription to your web browser.
+1038	Fountain	http://imgs.xkcd.com/comics/fountain.png	Implausible, did you say? Sorry, couldn't quite hear you from all the way up heeeeeeeeere!
+1039	RuBisCO	http://imgs.xkcd.com/comics/rubisco.png	Bruce Schneier believes safewords are fundamentally insecure and recommends that you ask your partner to stop via public key signature.
+1040	Lakes and Oceans	http://imgs.xkcd.com/comics/lakes_and_oceans.png	James Cameron has said that he didn't know its song would be so beautiful. He didn't close the door in time. He's sorry.
+1041	Whites of Their Eyes	http://imgs.xkcd.com/comics/whites_of_their_eyes.png	Don't fire until you see through the fragile facade to the human being within.
+1042	Never	http://imgs.xkcd.com/comics/never.png	I'll never forget you--at least, the parts of you that were important red flags.
+1043	Ablogalypse	http://imgs.xkcd.com/comics/ablogalypse.png	Plus the reaction in the Tumblverse is always 'repeatedly get hit by a dog and fall down the stairs'.
+1044	Romney Quiz	http://imgs.xkcd.com/comics/romney_quiz.png	Charlie actually delivered the Medicare line almost verbatim in the 1971 movie's Fizzy Lifting Drink scene, but it was ultimately cut from the final release.
+1045	Constraints	http://imgs.xkcd.com/comics/constraints.png	[title-text similarly alphabetized]
+1046	Skynet	http://imgs.xkcd.com/comics/skynet.png	'YOUR CLOTHES. GIVE THEM TO ME.' 'Shit, uh ... you are now breathing manually!' 'I AM ALWAYS BREATHING MANUALLY.'
+1047	Approximations	http://imgs.xkcd.com/comics/approximations.png	Two tips: 1) 8675309 is not just prime, it's a twin prime, and 2) if you ever find yourself raising log(anything)^e or taking the pi-th root of anything, set down the marker and back away from the whiteboard; something has gone horribly wrong.
+1048	Emotion	http://imgs.xkcd.com/comics/emotion.png	Fortunately, the internet has a virtually inexhaustible supply of code that doesn't work and people who are wrong, which bodes well for a return to normalcy. [Note: Click to read context for the cancer comics. She's doing well.]
+1049	Bookshelf	http://imgs.xkcd.com/comics/bookshelf.png	I had a hard time with Ayn Rand because I found myself enthusiastically agreeing with the first 90% of every sentence, but getting lost at 'therefore, be a huge asshole to everyone.'
+1050	Forgot Algebra	http://imgs.xkcd.com/comics/forgot_algebra.png	The only things you HAVE to know are how to make enough of a living to stay alive and how to get your taxes done. All the fun parts of life are optional.
+1051	Visited	http://imgs.xkcd.com/comics/visited.png	I hate when I read something like '... tension among the BASE jumpers nearly led to wingsuit combat ...', and I get excited because 'wingsuit combat' is underlined, only to find that it's just separate links to the 'wingsuit' and 'combat' articles.
+1052	Every Major's Terrible	http://imgs.xkcd.com/comics/every_majors_terrible.png	Someday I'll be the first to get a Ph. D in 'Undeclared'.
+1053	Ten Thousand	http://imgs.xkcd.com/comics/ten_thousand.png	Saying 'what kind of an idiot doesn't know about the Yellowstone supervolcano' is so much more boring than telling someone about the Yellowstone supervolcano for the first time.
+1054	The\u2009bacon	http://imgs.xkcd.com/comics/thebacon.png	Normally pronounced 'THEH-buh-kon', I assume.
+1055	Kickstarter	http://imgs.xkcd.com/comics/kickstarter.png	If you pledge more than $50 you'll get on the VIP list and have first dibs on a slot on ANY of the pledge levels in the actual campaign.
+1056	Felidae	http://imgs.xkcd.com/comics/felidae.png	'Smilodon fatalis' narrowly edged out 'Tyrannosaurus rex' to win this year's Most Badass Latin Names competition, after edging out 'Dracorex hogwartsia' and 'Stygimoloch spinifer' (meaning 'horned dragon from the river of death') in the semifinals.
+1057	Klout	http://imgs.xkcd.com/comics/klout.png	Though please do confirm that it's actually *me* on Klout first, and not one of my friends trying to get me punched. The great thing about this douchebag deadman switch is that I will never dare trigger it.
+1058	Old-Timers	http://imgs.xkcd.com/comics/old_timers.png	You were on the internet before I was born? Well, so was I.
+1059	Bel-Air	http://imgs.xkcd.com/comics/bel_air.png	Aaron Sorkin has been tapped to write the TV movie about the aging prince's eventual election to Pat Toomey's Senate seat, currently titled either 'FRESHman Senator' or 'Mr. Smith Goes to Washington'.
+1060	Crowdsourcing	http://imgs.xkcd.com/comics/crowdsourcing.png	We don't sell products; we sell the marketplace. And by 'sell the marketplace' we mean 'play shooters, sometimes for upwards of 20 hours straight.'
+1061	EST	http://imgs.xkcd.com/comics/est.png	The month names are the same, except that the fourth month only has the name 'April' in even-numbered years, and is otherwise unnamed.
+1062	Budget News	http://imgs.xkcd.com/comics/budget_news.png	I will vote, no questions asked, for any candidate who describes themselves as 'more of a deficit sugar glider.'
+1063	Kill Hitler	http://imgs.xkcd.com/comics/kill_hitler.png	Revised directive: It is forbidden for you to interfere with human history until you've at least taken a class on it.
+1064	Front Door	http://imgs.xkcd.com/comics/front_door.png	FYI: I'll be releasing a wolf into a randomly-chosen front yard sometime in the next 30 years. Now your fear is reasonable, and you don't need to feel embarrassed anymore. Problem solved!
+1065	Shoes	http://imgs.xkcd.com/comics/shoes.png	I *do* hear that they're the most comfortable thing to wear on your feet since sliced bread.
+1066	Laundry	http://imgs.xkcd.com/comics/laundry.png	During the second semester, the path is briefly routed through the dishwasher.
+1067	Pressures	http://imgs.xkcd.com/comics/pressures.png	Everyone's caught by surprise when a theory of quantum gravity is developed by a sound technician wearing patent leather shoes while editing Clerks II.
+1068	Swiftkey	http://imgs.xkcd.com/comics/swiftkey.png	Although the Markov chain-style text model is still rudimentary; it recently gave me "Massachusetts Institute of America". Although I have to admit it sounds prestigious.
+1069	Alphabet	http://imgs.xkcd.com/comics/alphabet.png	Do I get to remove letters entirely? Or just rearrange them? Because the 'k/c' situation is ridiculous. Look, we can make out whenever. This is *immortality*!
+1070	Words for Small Sets	http://imgs.xkcd.com/comics/words_for_small_sets.png	If things are too quiet, try asking a couple of friends whether "a couple" should always mean "two". As with the question of how many spaces should go after a period, it can turn acrimonious surprisingly fast unless all three of them agree.
+1071	Exoplanets	http://imgs.xkcd.com/comics/exoplanets.png	Planets are turning out to be so common that to show all the planets in our galaxy, this chart would have to be nested in itself--with each planet replaced by a copy of the chart--at least three levels deep.
+1072	Seventies	http://imgs.xkcd.com/comics/seventies.png	Hey, man, the 1670s called. They were like 'Wherefore this demonic intrument? By what orcery does it produce uch ounds?"
+1073	Weekend	http://imgs.xkcd.com/comics/weekend.png	Of the two Garfields, you wouldn't think the cat would turn out to be the more compelling presidential speechwriter, but there you go.
+1074	Moon Landing	http://imgs.xkcd.com/comics/moon_landing.png	Ok, so Spirit and Opportunity are pretty awesome. And Kepler. And New Horizons, Cassini, Curiosity, TiME, and Project M. But c'mon, if the Earth were a basketball, in 40 years no human's been more than half an inch from the surface.
+1075	Warning	http://imgs.xkcd.com/comics/warning.png	Also possibly several miles beyond that.
+1076	Groundhog Day	http://imgs.xkcd.com/comics/groundhog_day.png	If you closely examine the cosmic background radiation, you can pick up lingering echoes of 'I Got You Babe'.
+1077	Home Organization	http://imgs.xkcd.com/comics/home_organization.png	Lifehacking!
+1078	Knights	http://imgs.xkcd.com/comics/knights.png	1. Nf3 ...   2. Nc3 ...   0-1
+1079	United Shapes	http://imgs.xkcd.com/comics/united_shapes.png	That eggplant is in something of a flaccid state.
+1080	Visual Field	http://imgs.xkcd.com/comics/visual_field.png	I recently learned something that solved a mystery that had bugged me since childhood--why, when I looked at an analog clock, the hand would sometimes seem to take a couple seconds to start ticking. Google "stopped clock illusion".
+1081	Argument Victory	http://imgs.xkcd.com/comics/argument_victory.png	Really, the comforting side in most conspiracy theory arguments is the one claiming that anyone who's in power has any plan at all.
+1082	Geology	http://imgs.xkcd.com/comics/geology.png	That's a gneiss butte.
+1083	Writing Styles	http://imgs.xkcd.com/comics/writing_styles.png	I liked the idea, suggested by h00k on bash.org, of a Twitter bot that messages prominent politicians to tell them when they've unnecessarily used sms-speak abbreviations despite having plenty of characters left.
+1084	Server Problem	http://imgs.xkcd.com/comics/server_problem.png	Protip: Annoy Ray Kurzweil by always referring to it as the 'Cybersingularity'.
+1085	ContextBot	http://imgs.xkcd.com/comics/contextbot.png	If you read all vaguebooking/vaguetweeting with the assumption that they're saying everything they can without revealing classified military information, the internet gets way more exciting.
+1086	Eyelash Wish Log	http://imgs.xkcd.com/comics/eyelash_wish_log.png	Ooh, another one. Uh ... the ability to alter any coefficients of friction at will during sporting events.
+1087	Cirith Ungol	http://imgs.xkcd.com/comics/cirith_ungol.png	My all-time favorite example of syntactic ambiguity comes from Wikipedia: 'Charlotte's Web is a children's novel by American author E. B. White, about a pig named Wilbur who is saved from being slaughtered by an intelligent spider named Charlotte.'
+1088	Five Years	http://imgs.xkcd.com/comics/five_years.png	'Well, no further questions. You're hired!' 'Oh, sorry! I'm no longer interested. There's a bunch of future I gotta go check out!'
+1089	Internal Monologue	http://imgs.xkcd.com/comics/internal_monologue.png	Oh right, eye contact. Ok, good, holding the eye contact ... holding ... still holding ... ok, too long! Getting weird! Quick, look thoughtfully into space and nod. Oh, dammit, said 'yeah' again!
+1090	Formal Languages	http://imgs.xkcd.com/comics/formal_languages.png	[audience looks around] 'What just happened?' 'There must be some context we're missing.'
+1091	Curiosity	http://imgs.xkcd.com/comics/curiosity.png	As of this writing the NASA/JPL websites are still overloaded. Trying CURIOSITY-REAR-CAM_[256px_x_256px].torrent.SwEsUb.DVDRip.XviD-aXXo.jpg instead.
+1092	Michael Phelps	http://imgs.xkcd.com/comics/michael_phelps.png	[shortly] ... he ate ALL of it!?
+1093	Forget	http://imgs.xkcd.com/comics/forget.png	'Baby Got Back' turned 20 this year. My favorite nostalgia show is VH1's 'I Love The Inexorable March of Time Toward the Grave That Awaits Us All.'
+1094	Interview	http://imgs.xkcd.com/comics/interview.png	Hey, before you go, can you explain to me what job I now have?
+1095	Crazy Straws	http://imgs.xkcd.com/comics/crazy_straws.png	The new crowd is heavily shaped by this guy named Eric, who's basically the Paris Hilton of the amateur plastic crazy straw design world.
+1096	Clinically Studied Ingredient	http://imgs.xkcd.com/comics/clinically_studied_ingredient.png	Blatantly banking on customers not understanding that it's like a Hollywood studio advertising that their new movie was 'watched by Roger Ebert'.
+1097	A Hypochondriac's Nightmare	http://imgs.xkcd.com/comics/a_hypochondriacs_nightmare.png	BUT WHAT IF I REASSURE MYSELF WITH A JOKE AND THEN DON'T WORRY ABOUT THE RASH AND IT TURNS OUT TO BE DEATH MITES AND I COULD HAVE CAUGHT IT
+1098	Star Ratings	http://imgs.xkcd.com/comics/star_ratings.png	I got lost and wandered into the world's creepiest cemetery, where the headstones just had names and star ratings. Freaked me out. When I got home I tried to leave the cemetery a bad review on Yelp, but as my hand hovered over the 'one star' button I felt this distant chill ...
+1099	Tuesdays	http://imgs.xkcd.com/comics/tuesdays.png	Try our bottomless drinks and fall forever!
+1100	Vows	http://imgs.xkcd.com/comics/vows.png	So, um. Do you want to get a drink after the game?
+1101	Sketchiness	http://imgs.xkcd.com/comics/sketchiness.png	factory --- spire --- onslaught --- extractor --- judge
+1102	Fastest-Growing	http://imgs.xkcd.com/comics/fastest_growing.png	I lead a small but extraordinarily persuasive religion whose only members are door-to-door proselytizers from other faiths.
+1103	Nine	http://imgs.xkcd.com/comics/nine.png	FYI: If you get curious and start trying to calculate the time adjustment function that minimizes the gap between the most-used and least-used digit (for a representative sample of common cook times) without altering any time by more than 10%, and someone asks you what you're doing, it's easier to just lie.
+1104	Feathers	http://imgs.xkcd.com/comics/feathers.png	Click to see a video of a modern bird using stability flapping during predatory behavior. It all fits! Also, apparently Microraptor had *four* wings? The past keeps getting cooler! (And there's more of it every day!)
+1105	License Plate	http://imgs.xkcd.com/comics/license_plate.png	The next day: 'What? Six bank robberies!? But I just vandalized the library!' 'Nice try. They saw your plate with all the 1's and I's.' 'That's impossible! I've been with my car the whole ti-- ... wait. Ok, wow, that was clever of her.'
+1106	ADD	http://imgs.xkcd.com/comics/add.png	20 balloons float away while I'm busy permanently tying one to a tree to deal with it for good. Unfortunately, that one balloon was 'land a rocket on the moon in Kerbal Space Program.'
+1107	Sports Cheat Sheet	http://imgs.xkcd.com/comics/sports_cheat_sheet.png	I would subscribe to a Twitter feed that supplied you with one reasonable sports opinion per day, like 'The Red Sox can't make the playoffs (championship games), but in last night's game their win seriously damaged the chances of the Yankees (longstanding rival team).'
+1108	Cautionary Ghost	http://imgs.xkcd.com/comics/cautionary_ghost.png	But then the Ghost of Subjunctive Past showed up and told me to stay strong on 'if it were'.
+1109	Refrigerator	http://imgs.xkcd.com/comics/refrigerator.png	I want this engraved on my tombstone like the Epitaph of Stevinus.
+1110	Click and Drag	http://imgs.xkcd.com/comics/click_and_drag.png	Click and drag.
+1111	Premiere	http://imgs.xkcd.com/comics/premiere.png	'But what's the buzz about the film?' 'We're hoping it's distracting.'
+1112	Think Logically	http://imgs.xkcd.com/comics/think_logically.png	I've developed a more logical set of rules but the people on the chess community have a bunch of stupid emotional biases and won't reply to my posts.
+1113	Killed In Action	http://imgs.xkcd.com/comics/killed_in_action.png	We can't let this happen again. We need to build a secure TWO-day-before-retirement safe room.
+1114	Metallurgy	http://imgs.xkcd.com/comics/metallurgy.png	This exotic blade was wrought from a different fallen star. The meteorite was a carbonaceous chondrite, so it's basically a lump of gravel glued into the shape of a sword. A SPACE sword!
+1115	Sky	http://imgs.xkcd.com/comics/sky.png	I dropped a bird and I didn't hear it hit bottom.
+1116	Traffic Lights	http://imgs.xkcd.com/comics/traffic_lights.gif	There's an intersection I drive through sometimes that has a forward green arrow, a red light, and a 'no turns' sign all on one pole. I honestly have no idea what it's telling me to do.
+1117	My Sky	http://imgs.xkcd.com/comics/my_sky.png	According to my mom, my first word was (looking up at the sky) 'Wow!'
+1118	Microsoft	http://imgs.xkcd.com/comics/microsoft.png	Facebook, Apple, and Google all got away with their monopolist power grabs because they don't have any 'S's in their names for critics to snarkily replace with '$'s.
+1119	Undoing	http://imgs.xkcd.com/comics/undoing.png	I've been sneaking out at night and installing lamps on the underside of every photovoltaic panel I can find. Sure, there are upwards of 80% losses, but I prefer to think of them as nearly 20% gains.
+1120	Blurring the Line	http://imgs.xkcd.com/comics/blurring_the_line.png	People into masturbatory navel-gazing have a lot to learn about masturbation.
+1121	Identity	http://imgs.xkcd.com/comics/identity.png	Not sure why I just taught everyone to flawlessly impersonate me to pretty much anyone I know. Just remember to constantly bring up how cool it is that birds are dinosaurs and you'll be set.
+1122	Electoral Precedent	http://imgs.xkcd.com/comics/electoral_precedent.png	No white guy who's been mentioned on Twitter has gone on to win.
+1123	The Universal Label	http://imgs.xkcd.com/comics/the_universal_label.png	Works for any grocery or non-grocery. Even thyme is just H and time.
+1124	Law of Drama	http://imgs.xkcd.com/comics/law_of_drama.png	'Drama' is just 'people being upset', when someone says they're always surrounded by drama and they just ignore it, it starts to make sense that their strategy might be backfiring.
+1125	Objects In Mirror	http://imgs.xkcd.com/comics/objects_in_mirror.png	Universes in mirror, like those in windshield, are larger than they appear.
+1126	Epsilon and Zeta	http://imgs.xkcd.com/comics/epsilon_and_zeta.png	The average error in the NHC forecasted position of a hurricane three days in the future has shrunk to a third of what it was in 1990--a staggering accomplishment. However, as you may have gathered, forecasts of future storm *strength* have proved more difficult to improve.
+1127	Congress	http://imgs.xkcd.com/comics/congress.png	It'd be great if some news network started featuring partisan hack talking heads who were all Federalists and Jacksonians, just to see how long it took us to catch on.
+1128	Fifty Shades	http://imgs.xkcd.com/comics/fifty_shades.png	Wishbone and the Illustrated Classics series have gotten me through every conversation I've ever had about Dickens, Treasure Island, The Anarchist's Cookbook, and Our Bodies, Ourselves.
+1129	Cell Number	http://imgs.xkcd.com/comics/cell_number.png	There's also a +1 sometimes, which is there to keep everyone on their toes. In the future, people who got to pick cool numbers by signing up for Google Voice early will be revered as wizards.
+1130	Poll Watching	http://imgs.xkcd.com/comics/poll_watching.png	The choices we make Tuesday could have MASSIVE and PERMANENT effects on the charts on Nate Silver's blog!
+1131	Math	http://imgs.xkcd.com/comics/math.png	As of this writing, the only thing that's 'razor-thin' or 'too close to call' is the gap between the consensus poll forecast and the result.
+1132	Frequentists vs. Bayesians	http://imgs.xkcd.com/comics/frequentists_vs_bayesians.png	'Detector! What would the Bayesian statistician say if I asked him whether the--' [roll] 'I AM A NEUTRINO DETECTOR, NOT A LABYRINTH GUARD. SERIOUSLY, DID YOUR BRAIN FALL OUT?' [roll] '... yes.'
+1133	Up Goer Five	http://imgs.xkcd.com/comics/up_goer_five.png	Another thing that is a bad problem is if you're flying toward space and the parts start to fall off your space car in the wrong order. If that happens, it means you won't go to space today, or maybe ever.
+1134	Logic Boat	http://imgs.xkcd.com/comics/logic_boat.png	Or a cabbage, for that matter. The goat makes sense. Goats are fine.
+1135	Arachnoneurology	http://imgs.xkcd.com/comics/arachnoneurology.png	SPIDER PSYCHOLOGY (21st Ed.) is a comprehensive overview of arachnoneurology, neuro-arachnology, forensic arachnology, neuro-arachnoneurology (the study of the brains of spider neurology experts), and arachnoarachnology (the study of too many spiders).
+1136	Broken Mirror	http://imgs.xkcd.com/comics/broken_mirror.png	'I see you're in this mood again.' 'I am always in this mood.'
+1137	\u202eLTR	http://imgs.xkcd.com/comics/rtl.png	Collaborative editing can quickly become a textual rap battle fought with increasingly convoluted invocations of U+202a to U+202e.
+1138	Heatmap	http://imgs.xkcd.com/comics/heatmap.png	There are also a lot of global versions of this map showing traffic to English-language websites which are indistinguishable from maps of the location of internet users who are native English speakers.
+1139	Rubber and Glue	http://imgs.xkcd.com/comics/rubber_and_glue.png	I'm rubber. You're rubber. We contemplate the reality of our existence in mute, vulcanized horror.
+1140	Calendar of Meaningful Dates	http://imgs.xkcd.com/comics/calendar_of_meaningful_dates.png	In months other than September, the 11th is mentioned substantially less often than any other date. It's been that way since long before 9/11 and I have no idea why.
+1141	Two Years	http://imgs.xkcd.com/comics/two_years.png	She won the first half of all our chemo Scrabble games, but then her IV drugs started kicking in and I *dominated*.
+1142	Coverage	http://imgs.xkcd.com/comics/coverage.png	My resonant tunneling diode phone has limited range but a short enough wavelength to penetrate even the densest cages. This gives me a major combat advantage, hopefully.
+1143	Location	http://imgs.xkcd.com/comics/location.png	Ingress: Foursquare With Space Noises.
+1144	Tags	http://imgs.xkcd.com/comics/tags.png	<A>: Like </a>this.&nbsp;
+1145	Sky Color	http://imgs.xkcd.com/comics/sky_color.png	Feynman recounted another good one upperclassmen would use on freshmen physics students: When you look at words in a mirror, how come they're reversed left to right but not top to bottom? What's special about the horizontal axis?
+1146	Honest	http://imgs.xkcd.com/comics/honest.png	I didn't understand what you meant. I still don't. But I'll figure it out soon!
+1147	Evolving	http://imgs.xkcd.com/comics/evolving.png	Biologists play reverse Pokmon, trying to avoid putting any one team member on the front lines long enough for the experience to cause evolution.
+1148	Nothing to Offer	http://imgs.xkcd.com/comics/nothing_to_offer.png	cerebrospinal fluid, pericardial fluid, sputum, aqueous humor, perilymph, chyme, hydatid fluid, interstitial fluid, rheum, and gin.
+1149	Broomstick	http://imgs.xkcd.com/comics/broomstick.png	'Broom first, then slippers.' 'How do I know you'll return the broom once you've secured your ticket?' 'I'll leave my little dog as collateral.' 'Great. Pleasure doing business!'
+1150	Instagram	http://imgs.xkcd.com/comics/instagram.png	I'm gonna call the cops and get Chad arrested for theft, then move all my stuff to the house across the street. Hopefully the owners there are more responsible.
+1151	Tests	http://imgs.xkcd.com/comics/tests.png	In fact, one of the boxes is full of Staphylococcus. The wrapping paper is coated in E. coli, though, so it's an understandable mistake. You know, we should really stop accepting gifts from that guy.
+1152	Communion	http://imgs.xkcd.com/comics/communion.png	The local police, growing increasingly concerned about this church, ask parishioners to take a sip of wine and then spit it back out for DNA testing. It's blood, and it matches a 1970s murder victim.
+1153	Proof	http://imgs.xkcd.com/comics/proof.png	The prosecution calls Gottfried Leibniz.
+1154	Resolution	http://imgs.xkcd.com/comics/resolution.png	If at first you don't succeed, that's one data point.
+1155	Kolmogorov Directions	http://imgs.xkcd.com/comics/kolmogorov_directions.png	People get really grumpy when they realize you're giving them directions for how to go to the store and buy a GPS.
+1156	Conditioning	http://imgs.xkcd.com/comics/conditioning.png	'Why are you standing in the yard wearing a papal hat and a robe covered in seeds?' 'Well, the Pope is visiting our town next month ...'
+1157	Sick Day	http://imgs.xkcd.com/comics/sick_day.png	Wikipedia path: Virus -> Immune system -> Innate immune system -> Parasites -> List of parasites of humans -> Naegleria fowleri -> Primary amoebic meningoencephalitis -> Deciding I DEFINITELY shouldn't connect an aquarium pump to my sinuses
+1158	Rubber Sheet	http://imgs.xkcd.com/comics/rubber_sheet.png	It IS about physics. It ALL is.
+1159	Countdown	http://imgs.xkcd.com/comics/countdown.png	For all we know, the odds are in our favor.
+1160	Drop Those Pounds	http://imgs.xkcd.com/comics/drop_those_pounds.png	If the flyers don't work, we'll switch to the LEAST subtle method of informing a town of the existence of a trebuchet club.
+1161	Hand Sanitizer	http://imgs.xkcd.com/comics/hand_sanitizer.png	Hipster CDC Reports Flu Epidemic Peaked Years Ago
+1162	Log Scale	http://imgs.xkcd.com/comics/log_scale.png	Knuth Paper-Stack Notation: Write down the number on pages. Stack them. If the stack is too tall to fit in the room, write down the number of pages it would take to write down the number. THAT number won't fit in the room? Repeat. When a stack fits, write the number of iterations on a card. Pin it to the stack.
+1163	Debugger	http://imgs.xkcd.com/comics/debugger.png	It can take a site a while to figure out that there's a problem with their 'report a bug' form.
+1164	Home Alone	http://imgs.xkcd.com/comics/home_alone.png	Starring Macaulay Culkin.
+1165	Amazon	http://imgs.xkcd.com/comics/amazon.png	Amazon.com took a surprise early lead with 'Time required to transport a package from Iquitos, Peru to Manaus, Brazil' but then lost it at 'Minutes to skeletonize a cow'.
+1166	Argument	http://imgs.xkcd.com/comics/argument.png	The misguided search for a perpetual motion machine has run substantially longer than any attempted perpetual motion machine.
+1167	Star Trek into Darkness	http://imgs.xkcd.com/comics/star_trek_into_darkness.png	Of course, factions immediately sprang up in favor of '~*~sTaR tReK iNtO dArKnEsS~*~', 'xX_StAr TrEk InTo DaRkNess_Xx', and 'Star Trek lnto Darkness' (that's a lowercase 'L').
+1168	tar	http://imgs.xkcd.com/comics/tar.png	I don't know what's worse--the fact that after 15 years of using tar I still can't keep the flags straight, or that after 15 years of technological advancement I'm still mucking with tar flags that were 15 years old when I started.
+1169	Expedition	http://imgs.xkcd.com/comics/expedition.png	I'm pretty sure I've logged more hours in Google Maps over the past decade than in any game.
