@@ -48,5 +48,5 @@ for i in range(comicStart,comicEnd):
 if realDatabase:
 	fout = open("xkcd.txt",'wb')
 	for i in range(0,len(titles)):
-		fout.write(str(i) + "\t" + str(titles[i])[3:-2]+"\t"+str(comicImages[i])+'\t' + str(hiddenFunnies[i])+'\n')
+		fout.write(str(i) + "\t" + (str(titles[i])[3:-2]).encode('ascii','ignore') +"\t"+str(comicImages[i]).encode('ascii','ignore')+'\t' + str(hiddenFunnies[i]).encode('ascii','ignore')+'\n')
 	fout.close()
